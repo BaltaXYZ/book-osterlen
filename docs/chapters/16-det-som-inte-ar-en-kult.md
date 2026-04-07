@@ -12,21 +12,21 @@ När Maja och Noah kom tillbaka till Glimmingehus låg bordet täckt av uppspän
 
 Maja gick direkt till bordet. Linnea pekade på tre materialgrupper: Glimmingehusgolvet, Kiviksgravens bildsekvenser och äldre hamnritningar från Kivik.
 
-"Jag fastnade på det där du sa förut," sa Linnea till Maja. "Om att de tagit över något. Så jag gjorde det minst poetiska man kan göra. Jag började mäta fogar."
+"Jag fastnade på det där du sa förut," sa Linnea till Maja. "Om att de tagit över något. Så jag gjorde det minst poetiska man kan göra. Jag började mäta fogar och mellanrum."
 
 Maja tittade upp.
 
-Linnea pekade på Glimmingehusbilden. "Golvet där inne ser ut som pynt om man tittar snabbt. Men lägger man det över bildsekvensen från Kivik..." Hon la över en transparent plast. "Då ser man att de inte bevarat formen. De har plockat isär den och gjort om den till något man kan lägga på plats och äga."
+Linnea pekade på Glimmingehusbilden. "Golvet där inne ser ut som pynt om man tittar snabbt. Men lägger man det över bildsekvensen från Kivik..." Hon la över en transparent plast. "Då ser man att de inte bevarat formen. De har brutit upp den och byggt om den till något man kan lägga inomhus, visa upp och kalla sitt."
 
 Noah kom närmare. "Och på vanlig svenska?"
 
-Linnea lät inte ens bli att himla med ögonen. "De tog något som fungerade ute i landskapet och gjorde det till inomhusordning. Från bruk till kontroll."
+Linnea lät inte ens bli att himla med ögonen. "De tog något som fungerade ute på plats och gjorde det till inomhusordning. Från händer och vägar till golv och ägande."
 
 Maja kände hur allt i henne ställde in sig på samma punkt.
 
 "Inte uppåt," sa hon.
 
-"Precis," sa Linnea. "Severin skrev det på flera ställen. Du ska inte läsa från äldre till senare som om det senare bevarar det äldre. Du ska läsa tvärtom. Det senare griper in i det äldre. Omskriver det. Fryser det."
+"Precis," sa Linnea. "Severin skrev det på flera ställen. Du ska inte tänka att det senare skyddar det äldre. Du ska tänka att det senare går in, tar över och låser fast det på sitt eget sätt."
 
 Noah såg mellan dem. "Så Helena försöker inte väcka någon gammal kult."
 
@@ -40,13 +40,13 @@ Noah såg mellan dem. "Så Helena försöker inte väcka någon gammal kult."
 
 Linnea nickade hårt. "Exakt."
 
-Det var där midpointen låste sig fullt ut.
+Det var där allt låste sig fullt ut.
 
 Inte hemlig levande tro.
-Inte kultisk kontinuitet.
-Inte ens främst mördad antikvarie och stulen låda.
+Inte obruten kult.
+Inte ens i första hand en mördad antikvarie och en stulen låda.
 
-Det centrala var att samma operation upprepades genom seklerna: först använda sidlederna för silver, sigill, privilegiebrev, relikfragment och annan liten dyrbar last som inte tålde öppen bokföring, sedan ta samma rörliga, lokala, svårägda kunskapsform och göra den till fixerad auktoritet i händerna på få. Helena Wrede var inte arvtagare till en förkristen orden. Hon var arvtagare till själva tillgreppet.
+Det centrala var att samma grepp upprepats genom seklerna: först flytta silver, sigill, privilegiebrev, relikfragment och annan liten dyrbar last vid sidan av öppen bokföring, sedan ta samma vägar, samma gamla platser och samma lokala kunskap och få allt att se gammalt, rent och rättmätigt ut i några få händer. Helena Wrede var inte arvtagare till en förkristen orden. Hon hade ärvt själva stöldtricket.
 
 Maja satte båda händerna mot bordskanten tills knogarna vitnade.
 
@@ -60,7 +60,7 @@ Noah såg på henne. "Säg det rent."
 
 Hon gjorde det.
 
-"Han dog inte för att han hittade bevis på gammal tro. Han dog för att han hittade bevis på hur maktbärare först gjorde sidled för dyr last till pengar och anspråk, och sedan gjorde samma sidled till rätt att tala för det förflutna."
+"Han dog inte för att han hittade bevis på gammal tro. Han dog för att han hittade bevis på hur mäktiga människor först gömde dyr last vid sidan av all insyn och sedan gjorde samma väg till rätt att tala för det förflutna."
 
 Orden låg kvar i rummet efteråt som om de ändrat lufttrycket.
 
@@ -68,9 +68,9 @@ Linnea gick till nästa hög. "Det finns mer."
 
 Hon tog fram en katalogpost Maja inte sett tidigare. En torr, byråkratisk notering från sent 1800-tal om en fynddeposition från *västlig lucka i äldre hamnmagasin*, senare överförd till *privat vård i herrskaplig hand* innan föremålet försvann ur officiell redovisning.
 
-"Privat vård i herrskaplig hand," sa Noah. "Det låter som stöld med etikett."
+"Privat vård i herrskaplig hand," sa Noah. "Det låter som stöld i fin rock."
 
-"Ja," sa Linnea. "Först flytta i tysthet. Sen återföra som vård när ära, laglighet och rätt publik kan fästas vid samma hand. Och här." Hon visade en senare marginalanteckning i annan hand. "Åter till kedjan först vid full scen."
+"Ja," sa Linnea. "Först flytta i tysthet. Sen komma tillbaka med rätt ord, rätt publik och rätt person bredvid. Och här." Hon visade en senare marginalanteckning i annan hand. "Tillbaka först när scenen är klar."
 
 Noah drog in luft. "Scen igen."
 

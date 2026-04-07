@@ -10,7 +10,7 @@ Utfall:
 
 ## Iteration 1
 Status: klar
-Syfte: skapa styrsystem, discoverydokument, agentsystem och första projektlåsta story core
+Syfte: skapa styrsystem, discoverydokument, agentsystem och första låsta versionen av romanens kärna
 Klart när:
 - samtliga styr- och planfiler finns
 - romanens kärna är dokumenterad
@@ -20,7 +20,7 @@ Utfall:
 - `AGENTS.md` och projektspecifika agentfiler skapade
 - discovery, brief lock, research log, QA och leveransplan skapade
 - story core, strukturgrid, clue chain, synopsis och kapitelplan låsta
-- byggscript för sammanslaget manus och PDF skapad
+- byggscript för sammanslaget manus och PDF skapade
 
 ## Iteration 2
 Status: klar
@@ -54,23 +54,23 @@ Syfte: slutlig sammanställning, QA och leveransverifiering
 Klart när:
 - QA-checklistan är genomgången
 - leveransfiler finns i rätt format
-- residual risker är dokumenterade
+- kvarvarande risker är dokumenterade
 
 Utfall:
 - QA-checklistan ifylld
-- residual risk om total ordlängd dokumenterad
+- kvarvarande risk kring total ordlängd dokumenterad
 - projektet levererat som komplett sammanhängande manusversion med stödfiler
 
 ## Iteration 5
 Status: klar
-Syfte: expandera romanen från komplett struktur till full romanlängd med lokalt förankrade mellanaktskapitel
+Syfte: bygga ut romanen från komplett struktur till full romanlängd med lokalt förankrade mellanaktskapitel
 Klart när:
 - manusets omfång når minst 75 000 ord
 - Österlens geografi och vardagslogik känns tydligare i scenkedjan
 - expansionskapitel bär mysterium, hot, relation eller fördjupad förståelse
 
 Utfall:
-- interstitialkapitel tillagda genom hela manuskedjan
+- mellanaktskapitel tillagda genom hela manuskedjan
 - lokal detaljnivå skärpt med fler ortsnamn, vägar, småplatser och rörelsepunkter
 - manusets totala längd höjd till över 75 000 ord
 
@@ -80,7 +80,7 @@ Syfte: riktad naturlighetsgranskning av dialog och slutlig leveranssynk
 Klart när:
 - utsatta dialogkapitel reviderats
 - dialogagentens arbetsregler finns i agentsystemet
-- projektdokumentation speglar faktisk fullängdsleverans
+- projektdokumentationen speglar faktisk fullängdsleverans
 
 Utfall:
 - särskild dialogagent definierad
@@ -89,13 +89,13 @@ Utfall:
 
 ## Iteration 7
 Status: klar
-Syfte: stärka Ormledens maktlogik och fördjupa Helena Wredes personliga drivkraft
+Syfte: göra Ormledens maktlogik tydligare och ge Helena Wrede ett skarpare mänskligt motiv
 Klart när:
-- Ormledens historiska vinst framgår som konkret ekonomi, informationsmakt och legitimitetsbygge
-- Helenas nutida hunger efter ära och centralitet läcker fram i flera scener
-- klimaxets anklagelse mot Helena är begriplig på vardaglig nivå
+- det framgår att Ormleden först gav konkret vinst i form av pengar, föremål och kontroll över information
+- Helenas hunger efter ära och centralitet märks i flera scener
+- klimaxets anklagelse mot Helena går att förstå utan akademiska omvägar
 
 Utfall:
-- story core och synopsis skärpta mot sidled, högvärdesflöden och tvättad vårdarmakt
-- nyckelkapitel reviderade så att smuggel, förvaring, juridik och offentlig förvaltning binds ihop tydligare
-- Helena och Cecilia fördjupade med fler konkreta motivspår utan att modern Forn Sed blandas ihop med antagonistens maktbruk
+- story core och synopsis skärpta kring flyttade föremål, dold logistik och senare övertagande
+- nyckelkapitel reviderade så att smuggel, förvaring, juridik och offentlig lansering binds ihop tydligare
+- Helena och Cecilia fördjupade med fler konkreta motivspår utan att modern Forn Sed blandas ihop med antagonistens maktspel

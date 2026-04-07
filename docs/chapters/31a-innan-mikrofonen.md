@@ -59,7 +59,7 @@ Maja stoppade lappen i fickan. "Det är mer än många andra gjort."
 
 Cecilia svarade inte på det. Hon gick bara vidare mot presslinjen och blev i samma ögonblick åter den person alla förväntade sig se där: headset, kontroll, små tecken till kamerateam, vänlig kyla mot för sena gäster. Maja såg henne gå och tänkte att vissa människor aldrig blir mer naturliga än när de spelar den roll de äntligen beslutat att förråda.
 
-Hon vecklade ut sin egen lilla ordningslista en sista gång. 1. Låt Helena visa staven. 2. Bryt med stenen. 3. Läs instruktionen. 4. Visa överföringen från bruk till kontroll. 5. Nämn de döda. 6. Vägra både hennes centrum och rå läcka som första svar. 7. Säkra materialen offentligt, inte privat.
+Hon vecklade ut sin egen lilla ordningslista en sista gång. 1. Låt Helena visa staven. 2. Bryt med stenen. 3. Läs instruktionen. 4. Visa hur det som användes av många gjordes om till något några få tog kontroll över. 5. Nämn de döda. 6. Vägra både hennes centrum och rå läcka som första svar. 7. Säkra materialen offentligt, inte privat.
 
 En vindstöt tog nästan lappen ur hennes hand. Hon tänkte på fadern just då, inte sentimentalt utan med en torr sorts klarhet. Han hade alltid trott att det fanns ett ögonblick då omvärlden skulle höra allt han såg bara han hann bli tillräckligt glödande i kroppen. Hon tänkte inte göra det felet. Hon tänkte inte försöka vinna på intensitet. Hon tänkte vinna på ordning utan att bli ordningsdyrkare.
 

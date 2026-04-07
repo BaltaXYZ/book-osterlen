@@ -18,23 +18,23 @@ Noah låste upp den tillfälliga grinden med lånad kod från platsansvarig. Inn
 
 Han höjde ögonbrynen men gjorde som hon bad.
 
-Det var inte en officiell benämning, bara hennes egen från avhandlingsarbetet. Fjärde kedjan från vänster, där människor med stavar, ett skeppsliknande motiv och en märkligt utdragen djurform möttes i en tät bildkomposition som fått många att säga kult, procession, offer.
+Det var inte en officiell benämning, bara hennes egen från avhandlingsarbetet. Fjärde raden från vänster, där människor med stavar, ett skeppsliknande motiv och en märkligt utdragen figur möttes i en tät bildkomposition som fått många att säga kult, offer och högtid.
 
 Maja stod nära nog att se ristningslinjernas små tveksamheter.
 
-"När min far skrev överföring här," sa hon, "trodde jag att det bara var hans sätt att vilja se system där andra såg ritual."
+"När min far skrev att något förs vidare här," sa hon, "trodde jag att det bara var hans sätt att vilja se ordning där andra såg ritual."
 
 "Och nu?"
 
 "Nu tror jag att han såg rörelsefunktionen rätt men gav den fel språk."
 
-Hon tog fram en genomskinlig plastficka med Severins utskrifter och la en kopia av hans kalkering över bilden. Linjerna passade inte exakt, men principen trädde fram tydligare när de dubblerades. Den långa djurformen blev mindre djur och mer flödande band. Stavbärarna såg plötsligt inte ut att gå mot ett altare utan mot en punktöverföring.
+Hon tog fram en genomskinlig plastficka med Severins utskrifter och la en kopia av hans kalkering över bilden. Linjerna passade inte exakt, men principen trädde fram tydligare när de dubblerades. Den långa figuren blev mindre djur och mer som en markerad väg. Stavbärarna såg plötsligt inte ut att gå mot ett altare utan mot en plats där något lämnas vidare.
 
-"Om du läser det här som religiös procession," sa hon, "hamnar allt i symbolisk högtid. Men om du läser det som en kodad bild av rörelse mellan punkter blir skeppet inte mål utan bärare."
+"Om man ser det här som ett religiöst tåg," sa hon, "blir allt högtid. Men om man ser det som en bild av hur något rör sig mellan platser blir skeppet inte målet. Det blir frakten."
 
 "Bärare av vad?"
 
-"Kunskap. Objekt. Legitimitet. Något som måste flyttas utan att sägas rakt ut."
+"Kunskap. Föremål. Brev. Sånt man vill flytta utan att säga det högt."
 
 Noah riktade ljuset mot den utdragna formen. "Och ormen?"
 
@@ -42,7 +42,7 @@ Noah riktade ljuset mot den utdragna formen. "Och ormen?"
 
 Han såg på henne.
 
-"Eller snarare: inte främst orm. Den sorts figur som senare generationer gärna kallar orm för att det låter starkt och gammalt. Men i en äldre eller mer praktisk läsning kan det vara led, bana, riktning. När de senare vill göra allt till kult och essens blir det orm igen. Det är elegant. Du kan alltid få människor att tro på ett djur snabbare än på en rörelse."
+"Eller snarare: inte främst orm. Senare människor kallar gärna allt sådant här orm för att det låter gammalt och starkt. Men det kan lika gärna handla om en väg, en sträcka, en riktning. Det är lättare att sälja in ett urdjur än att säga att folk bara bar saker mellan två punkter."
 
 Noah log snett. "Du låter som om du talar om nutida politik."
 
@@ -66,7 +66,7 @@ Han gick närmare. "Tre delpunkter på samma linje. Kivik, Glimmingehus, Ales st
 
 "Och Stenshuvud som läsnyckel. Eller tvärtom."
 
-Hon tog ett steg tillbaka, lät blicken glida över alla stenarna samtidigt. Om man såg dem som en enda berättelse blev allt snart mystik. Om man såg dem som separata bilder blev allt för fattigt. Men om man såg dem som ett system av instruktioner som olika tider läst om och brukat på nya sätt...
+Hon tog ett steg tillbaka, lät blicken glida över alla stenarna samtidigt. Såg man dem som en enda stor myt blev allt dimma. Såg man dem som helt skilda bilder blev allt för litet. Men om någon hade använt dem för att visa hur saker skulle föras mellan synliga platser och gömställen...
 
 Majas telefon vibrerade i jackan. Noah kastade en blick på henne när hon tog upp den.
 
@@ -128,7 +128,7 @@ Maja sänkte rösten nästan omedvetet, som om platsen krävde det. "Och jag tro
 
 Noah stoppade undan telefonen. "Vilken är rätt?"
 
-"Vem tjänar på att få det att se ut som religion när det egentligen handlar om kontroll."
+"Vem tjänar på att få det att se heligt ut när det egentligen handlar om vem som får bära, gömma och visa upp saker."
 
 Det var då de hörde ett metalliskt skrap utifrån.
 
@@ -158,7 +158,7 @@ Han såg tillbaka mot gravröset. "De följer oss."
 
 Maja tänkte på telefonsamtalet, på Rutan, på magasinet vid hamnen. På hur snabbt någon dykt upp här, just nu, just efter att de börjat förstå stenen på ett annat sätt.
 
-"Nej," sa hon. "De följer inte spåret. De bevakar berättelsen om spåret."
+"Nej," sa hon. "De följer inte bara spåret. De vaktar sin version av det."
 
 På träspången utanför gravkammaren låg något ljust i lampans återvändande sken. Noah gick dit först och böjde sig.
 
@@ -168,4 +168,4 @@ Inuti fanns bara ett fotografi, nytaget med mobilkamera. Det föreställde Maja 
 
 På baksidan stod:
 
-**DET SOM RÖR SIG I SIDLED KAN OCKSÅ SKÄRA HALSEN AV ER**
+**DET SOM FLYTTAS VID SIDAN AV ALLAS BLICK KAN OCKSÅ SKÄRA HALSEN AV ER**

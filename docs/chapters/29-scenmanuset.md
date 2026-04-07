@@ -16,7 +16,7 @@ Maja vecklade ut kalkstensplattan på bordet och la bredvid den utskrifter från
 
 "Vad menar du?"
 
-"Se här." Hon pekade på instruktionerna längs nederkanten. "Det här är inte trosord. Det är arbetsord. Hur ledet ska markeras, hur bäraren ska stå, när visning ska ske, hur den som ser ska ledas från plats till plats. Praktisk koreografi. Senare händer har lagt på språk om vård, lydnad, ordning. Till slut ser det ut som sakral tradition fast det från början är logistik och överföring."
+"Se här." Hon pekade på instruktionerna längs nederkanten. "Det här är inte trosord. Det är arbetsord. Hur vägen ska markeras, hur bäraren ska stå, när visning ska ske, hur den som ser ska ledas från plats till plats. Praktisk koreografi. Senare händer har lagt på ord om vård, lydnad och ordning. Till slut ser det ut som helig tradition fast det från början bara var logistik för hur saker skulle föras vidare."
 
 Noah drog handen över ansiktet. "Bra. Då har vi exakt det vi behöver."
 
@@ -24,7 +24,7 @@ Noah drog handen över ansiktet. "Bra. Då har vi exakt det vi behöver."
 
 Hon kände allas blickar mot sig. Det var rättvist. Beslutet låg nu hos henne mer än någon annan, vare sig hon ville eller inte.
 
-"Vi har det som kan spräcka hennes berättelse," fortsatte hon. "Men bara om vi presenterar det i en ordning som människor kan ta emot innan hon hinner paketera oss som lokal skandal, skadad dotter eller akademisk detaljsekt."
+"Vi har det som kan spräcka hennes berättelse," fortsatte hon. "Men bara om vi lägger fram det i en ordning människor hinner ta emot innan hon hinner göra oss till lokal skandal, skadad dotter eller akademiskt specialfall."
 
 Ingrid kom in just då utan att knacka. Hon hade två plastkassar med mat i ena handen och Arvids sista block i den andra.
 
@@ -102,7 +102,7 @@ Inte propaganda. Inte läcka. Inte ren exposé.
 
 Ett sätt att bryta Helena på hennes egen scen utan att råmaterialet flög åt alla håll.
 
-Linnea strukturerade beviskedjan i tre steg: 1) Helena visar staven som om den bevisar obruten vård. 2) Maja bryter direkt med morgonstenen och instruktionstexterna som visar att formen är manuellt koreograferad, inte naturligt ärvd. 3) Noahs civila allierade och en kvarvarande lojal åklagarkontakt tar Berg och säkrar låda, original och logistikkedja när Helena förlorat publiken.
+Linnea la upp bevisen i tre steg: 1) Helena visar staven som om den bevisar obruten vård. 2) Maja bryter direkt med morgonstenen och instruktionstexterna som visar att allt är byggt för hand, inte nedärvt av sig självt. 3) Noahs civila allierade och en kvarvarande lojal åklagarkontakt tar Berg och säkrar låda, original och vägen in till scenen när Helena tappar publiken.
 
 Noah kallade det för en kontring på plats. Ingrid kallade det för att äntligen sluta låta andra formulera villkoren. Torkel kallade det för att ge fruntimret där uppe så mycket grus i munnen att hon inte kunde tala rent.
 

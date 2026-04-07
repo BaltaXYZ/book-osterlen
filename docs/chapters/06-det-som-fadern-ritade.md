@@ -126,13 +126,13 @@ Ingrid nickade. "Han och din far gick inte ihop, men de talade samma språk om h
 
 Noah gjorde ett ljud som betydde att ännu en möjlig tråd lagt sig på plats. "Jag pratar med honom igen."
 
-Maja hade redan öppnat nästa kuvert. I det låg en rad fotografier från Kiviksgraven där hennes far gjort små märkningar med blå kulspets. På ett av dem, vid bildstenarnas procession, hade han skrivit:
+Maja hade redan öppnat nästa kuvert. I det låg en rad fotografier från Kiviksgraven där hennes far gjort små märkningar med blå kulspets. På ett av dem, vid bildstenarnas rad av människor, hade han skrivit:
 
-**inte processionsbild. överföring.**
+**inte tåg till offerplats. visar hur något förs vidare.**
 
 På ett annat:
 
-**där de andra ser orm ser jag led**
+**där de andra ser orm ser jag väg**
 
 Severin hade alltså inte uppfunnit läsningen. Han hade återfunnit den.
 

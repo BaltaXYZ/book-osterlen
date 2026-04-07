@@ -159,7 +159,7 @@ Texten beskrev hur *tecken, bild och minne* skulle föras bort från *allmogens 
 
 Noah läste om sista raden långsamt. "Brukas utan att ägas."
 
-Maja kände hur obehaget gick djupt och rent nu. Inte för att texten bevisade obruten hemlig tro. Tvärtom. För att den visade något mer välbekant och mer hållbart: maktens vana att ta symboliskt kapital ur en plats och återutge det som sin egen ordning.
+Maja kände hur obehaget gick djupt och rent nu. Inte för att texten bevisade obruten hemlig tro. Tvärtom. För att den visade något mer välbekant och mer hållbart: hur människor med makt tar ord, föremål och anseende från en plats och sedan lämnar tillbaka allt som sin egen ordning.
 
 "Det här är bara början," sa hon.
 

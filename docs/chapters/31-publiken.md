@@ -1,6 +1,6 @@
 # 31. Publiken
 
-Vid 05.10 hade Ales stenar redan slutat vara plats och blivit apparat.
+Vid 05.10 hade Ales stenar redan slutat vara plats och blivit scenmaskin.
 
 Bilar stod i långa rader nere vid parkeringen. Tillfälliga strålkastare stod avstängda men färdiga. Kameraenheter bar utrustning mellan stativ som mörka insekter mot den grå ljusningen. Stenportens värdar viskade med pressfolk och försökte låta som om gårdagens död och nattens polisrörelser bara varit olyckliga störningar runt en större, noblare händelse.
 
@@ -35,11 +35,11 @@ Helena klev upp på plattformen exakt 05.31.
 
 Vinden tog i hennes kappa. Ljuset låg ännu under horisonten men var tillräckligt för att göra hennes ansikte läsbart. Hon såg inte nervös ut. Hon såg nästan tacksam ut. Som om platsen äntligen levererat det ögonblick hon byggt för.
 
-"Mina vänner," började hon, och den förstärkta rösten gled över gräset och mellan stenarna. "Vi samlas här inte för att äga det förflutna, utan för att lyssna till det som burit oss längre än våra egna institutioner, längre än våra egna konflikter..."
+"Mina vänner," började hon, och den förstärkta rösten gled över gräset och mellan stenarna. "Vi samlas här inte för att äga det förflutna, utan för att lyssna till det som burit oss längre än våra egna gräl och våra egna institutioner..."
 
 Maja kände nästan hur väl det fungerade. Inte som innehåll. Som rytm. Som ett erbjudande om att få stå i något större utan att först behöva ifrågasätta det.
 
-Helena fortsatte genom sin uppbyggnad med exakt den disciplin Cecilia beskrivit. Först plats. Sedan förlust. Sedan vård. Sedan löfte om återfunnen kontinuitet.
+Helena fortsatte exakt enligt den ordning Cecilia beskrivit. Först platsen. Sedan allt som gått förlorat. Sedan löftet om att någon tagit hand om det åt dem. Sedan påståendet att kedjan aldrig brustit.
 
 Vid 05.36 tog Berg ett steg fram och räckte henne staven.
 
@@ -83,13 +83,13 @@ Maja tog mikrofonen innan någon hann stoppa henne.
 
 Nedanför plattformen såg hon Noah röra sig till rätt position. Berg också, stelare nu, vaksam.
 
-"Den här stenen," sa Maja in i ljudet som nu bar över hela platsen, "är inte bevis för obruten helig vård. Den är instruktion. Arbetsyta. Överföringsmall. Den visar hur samma form flyttats, brutits ner och återanvänts för att göra lokal och praktisk kunskap till kontrollerad auktoritet."
+"Den här stenen," sa Maja in i ljudet som nu bar över hela platsen, "är inte bevis för obruten helig vård. Den är en instruktion. Den visar hur människor fört saker vidare, brutit upp gamla former och byggt om dem så att samma händer kunnat ta över både föremålen och rätten att tala för dem."
 
 Någon i publiken sa högt: "Vad betyder det ens?"
 
 Bra, tänkte Maja. Frågan hade börjat bli deras igen.
 
-Helena tog ett steg fram mot henne. "Ni förväxlar forskningsstrid med offentlig sanning."
+Helena tog ett steg fram mot henne. "Ni gör en forskarstrid av något människor behöver kunna förstå."
 
 "Nej," sa Maja, och tog fram kopian av avskriften. "Jag skiljer för första gången på dem."
 

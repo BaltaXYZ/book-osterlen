@@ -22,7 +22,7 @@ Maja tog fram faderns fotografi, Severins skiss och en utskrift av den gamla kus
 
 Han kisade ut mot kusten.
 
-"Där," sa hon och pekade söderut. "Kåseberga ser ut som punkt om du redan vet vad du letar efter. Men från havet läser man inte punkt först. Man läser höjder, ryggar, siluetter, brytningar. Stenshuvud är sjömärke. Ales är en markering närmare ankomst. Om du vill föra silver, sigill eller brev genom landskapet utan att skriva det öppet kan du koda det i det som ändå alla redan använder för orientering."
+"Där," sa hon och pekade söderut. "Kåseberga ser ut som punkt om du redan vet vad du letar efter. Men från havet ser man inte punkt först. Man ser höjder, ryggar, siluetter, brytningar. Stenshuvud är sjömärke. Ales är en markering närmare landningen. Om du vill föra silver, sigill eller brev genom trakten utan att skriva det öppet kan du gömma det i det som alla sjöfarande ändå använder för att hitta rätt."
 
 Noah följde hennes finger. "Så Ormleden är inte hemlig i meningen osynlig. Den är hemlig i meningen fel-läst."
 
@@ -30,11 +30,11 @@ Maja vände blicken mot honom. "Ja."
 
 Det ordet förändrade något mellan dem. Inte mycket. Men nog. För första gången sa hon inte kanske, troligen, eventuellt. Hon sa ja.
 
-Hon tog fram Kivikkalkeringen och höll den mot horisonten. Med den ovanpå fotografiet från havet började skeppsfiguren och den utdragna "ormen" se mindre som symbolvärld och mer som ett rörelsemönster mellan bärande punkter. Stenshuvud var läsnyckel inte för att något heligt bodde här, utan för att landskapet härifrån blev begripligt som system.
+Hon tog fram Kivikkalkeringen och höll den mot horisonten. Med den ovanpå fotografiet från havet började skeppsfiguren och den utdragna "ormen" se mindre ut som myt och mer som ett mönster för hur man tar sig mellan fasta punkter. Stenshuvud var nyckeln inte för att något heligt bodde här, utan för att man härifrån såg vägen klarare.
 
 "Om Glimmingehus sen går in och översätter det till dokument och förvaltning..." sa Noah.
 
-"...så har du överfört något från muntlig och praktisk kustkunskap till institutionell kontroll," sa Maja. "Först varan. Sen rätten att säga vad varan betydde. Sen rätten att förvalta minnet av den."
+"...så har du tagit något från folk som kunde kusten i kroppen och lagt det i händerna på människor med papper och murar," sa Maja. "Först varan. Sen rätten att säga vad varan betydde. Sen rätten att ta hand om minnet av den."
 
 "Brukas utan att ägas."
 
@@ -72,11 +72,11 @@ Helena hade valt sitt ögonblick utifrån just detta. Inte bara dramatik. Siktli
 
 "Du vet vad hon ska visa nu," sa Noah.
 
-"Inte exakt objekt. Men funktion."
+"Inte exakt vilket föremål. Men vad det ska göra."
 
 "Vilken?"
 
-"Hon tänker stå vid slutbilden och påstå att hela kedjan pekat mot en obruten sakral ordning. Men om vi har rätt pekar kedjan mot något annat: hur äldre praktisk och lokal kunskap först användes för att flytta dyr last, sedan togs över, institutionaliserades och förpackades om."
+"Hon tänker stå vid slutbilden och påstå att hela vägen pekat mot en obruten helig ordning. Men om vi har rätt pekar den mot något annat: hur äldre, lokal kunskap först användes för att flytta dyr last och sedan togs över, stängdes in och såldes tillbaka med finare ord."
 
 Noah vände sig mot henne. "Och varför döda för det?"
 

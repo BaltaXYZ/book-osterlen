@@ -18,7 +18,7 @@ Låsta fakta:
 Användning i romanen:
 - öppningschock
 - offentlig finalplats
-- konkret rörelselogik från parkering, by och kustås
+- tydlig rörelselogik mellan parkering, by, kustås och scen
 
 Källor:
 - [Riksantikvarieämbetets broschyr om Ales stenar](https://www.raa.se/publicerat/br2008_8.pdf)
@@ -31,8 +31,8 @@ Låsta fakta:
 - Officiell besöksinformation betonar att platsen ligger ute på den skånska slätten och nås enklast med bil.
 
 Användning i romanen:
-- arkiv, senmedeltida efterliv, gömda dokument och byggnadslogik
-- scenrum där senmedeltid möter nutida kulturarvsförvaltning
+- arkivspår, senmedeltida efterliv, gömda dokument och byggnadslogik
+- ett rum där gammal makt möter nutida kulturarvsarbete
 
 Källor:
 - [Glimmingehus officiella webbplats](https://glimmingehus.se/)
@@ -46,8 +46,8 @@ Låsta fakta:
 - Själva gravröset kan besökas året runt, medan gravkammare och närliggande verksamhet har säsongsberoende öppethållande.
 
 Användning i romanen:
-- bildvärld, ikonografi och feltolkade symbolkedjor
-- konkret plats för en avgörande omtolkning av mysteriet
+- platsen där bildgåtan börjar gå att förstå
+- tydlig scen för när en lockande kultförklaring bryts ned till något mer konkret
 
 Källor:
 - [Riksantikvarieämbetets broschyr om Kiviksgraven](https://www.raa.se/publicerat/br2009_4.pdf)
@@ -61,7 +61,8 @@ Låsta fakta:
 - Berget har varit ett viktigt sjömärke för sjöfarare.
 
 Användning i romanen:
-- siktlinjer, observation, förföljelse, sjömärkeslogik och gräns mellan natur och berättelse
+- siktlinjer, observation, förföljelse och sjömärkeslogik
+- platsen där Maja och Noah ser hur punkterna faktiskt hänger ihop
 
 Källor:
 - [Stenshuvuds nationalpark](https://www.sverigesnationalparker.se/stenshuvud)
@@ -74,8 +75,8 @@ Låsta fakta:
 - Detta ska behandlas som samtida religiös praktik, inte som thrillerkuliss.
 
 Användning i romanen:
-- korrektiv mot antagonistisk mytmissbruk
-- möjlig källa till nyansering kring språkbruk, ritualterminologi och modern självförståelse
+- korrektiv mot Helenas språk och anspråk
+- källa till ett sakligt och respektfullt sätt att skilja levande tro från romanens maktspel
 
 Källor:
 - [Samfundet Forn Sed Sverige](https://www.samfundetfornsed.se/)
@@ -83,5 +84,5 @@ Källor:
 ## Öppna researchpunkter för senare iteration
 - exakta kör- och gångtider mellan använda platser i romanens dygnskedja
 - lokala vädermönster för vald årstid
-- exakta institutionella rutiner för musei- eller arkivåtkomst i specifika scener
+- exakta rutiner för musei- eller arkivåtkomst i specifika scener
 - vilka delar av Ales stenar, Kiviksgraven och Glimmingehus som rimligen kan vara tillgängliga efter stängning

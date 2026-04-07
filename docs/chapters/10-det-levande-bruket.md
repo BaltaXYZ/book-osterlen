@@ -24,21 +24,21 @@ Maja lade fram en utskrift av Stenportens dagjämningsprogram, några av Wredes 
 
 Stina läste länge innan hon svarade.
 
-"Det här är kuraterat för publik som vill känna gammal tyngd utan att behöva kunna särskilt mycket," sa hon. "Det blandar modernt andligt språk, akademisk fernissa, gammalord och suggestiv osäkerhet. Just därför fungerar det."
+"Det här är byggt för publik som vill känna gammal tyngd utan att behöva kunna särskilt mycket," sa hon. "Det blandar lånade ord om tro, några lärda uttryck och precis lagom mycket dimma. Just därför fungerar det."
 
 "Fungerar hur?" sa Noah.
 
-"Som berättelse. Inte som tradition."
+"Som show. Inte som levande tradition."
 
 Maja pekade på en av raderna i programmet där Stenporten talade om *obruten nattväktad linje genom generationer av skyddare*.
 
 "Det här?"
 
-Stina nästan himlade med ögonen. "Ingen seriös nutida Forn Sed-miljö jag känner till skulle uttrycka sig så. Det luktar marknadsförd initiering. Ni vet, den sortens språk som får människor att känna att de står nära något förbjudet och därför särskilt sant."
+Stina nästan himlade med ögonen. "Ingen seriös nutida Forn Sed-miljö jag känner till skulle uttrycka sig så. Det luktar säljtext. Den sortens språk får människor att känna att de står nära något förbjudet och därför särskilt sant."
 
 Noah såg på Maja. "Exakt vad du sa om scen."
 
-Stina fortsatte: "Modern hednisk tro i Sverige är inte obruten järnålder. Det vet alla vuxna som håller på med den. Den är samtida praktik, samtida etik, samtida tolkning. När någon insisterar på obruten hemlig kedja ska man nästan alltid fråga vem som tjänar på den fantasins auktoritet."
+Stina fortsatte: "Modern hednisk tro i Sverige är inte obruten järnålder. Det vet alla vuxna som håller på med den. Den levs nu, av människor som lever nu. När någon tjatar om en hemlig obruten kedja ska man nästan alltid fråga vem som vill vinna på att det låter så gammalt."
 
 Maja lät fingret vila på programmet. "Helena Wrede tjänar på den."
 
@@ -48,7 +48,7 @@ Noah höjde blicken. "Du känner till henne?"
 
 "Av rykte. Hon gillar att bjuda in, rama in och sätta ord på andra människors arbete tills det låter som att hon själv upptäckt världen. Jag har hört om minst två projekt där andra fick stå som upptäckare medan Helena tackades för kuratorisk samordning och vackert programblad. Sådant gör något med människor. Det finns folk inom små trosmiljöer som dragits till hennes pengar och synlighet. Det betyder inte att de står för hennes tolkningar."
 
-Det var viktigt. Maja kände hur en felaktig men dramatisk möjlig version av romanen höll på att rinna av bordet: den om hemlig levande kult. Kvar blev något betydligt mer användbart och mer skrämmande. Samtida människor, samtida nätverk, samtida maktbruk av äldre material.
+Det var viktigt. Den lockande, felaktiga förklaringen rann av bordet: hemlig levande kult. Kvar blev något bättre och värre. Nutida människor. Nutida nätverk. Nutida händer på äldre material.
 
 "Ordet orm," sa Maja. "Hur lätt är det att få människor att läsa det fel?"
 
@@ -56,7 +56,7 @@ Det var viktigt. Maja kände hur en felaktig men dramatisk möjlig version av ro
 
 "Och om den egentliga betydelsen är rörelse? Led? Bana?" sa Maja.
 
-Stina såg upp skarpt. "Då har någon använt ett symbolord för att gömma logistisk kunskap. Det vore inte första gången i historien. Men då talar vi om bruk av symbolik, inte om bevis för helig essens."
+Stina såg upp skarpt. "Då har någon använt ett laddat ord för att gömma praktisk kunskap om hur man rör sig och flyttar saker. Det vore inte första gången. Men då talar vi inte om helig kärna. Vi talar om människor som döljer ett handgrepp bakom rätt ord."
 
 Noah tog fram minnesstickan men la den inte på bordet än. "Om vi hittar material som visar att någon nutida aktör medvetet bygger en offentlig lögn på äldre symbolmaterial, hur hårt kan det slå mot faktiska moderna trosutövare?"
 
@@ -92,7 +92,7 @@ Stina drog in luft långsamt. "Då är ni långt förbi symbolmissbruk. Då har 
 
 Maja tog upp programbladet igen. Nu såg hon varje rad som rökridå. Gryning, berättelse, obruten kedja, heligt landskap. Inte för att någon trodde bokstavligt på allt. Utan för att det skulle fungera offentligt.
 
-"Det levande bruket," sa hon lågt. "Det finns, men inte där de pekar."
+"Det levande finns kvar," sa hon lågt. "Men inte där de pekar."
 
 "Nej," sa Stina. "Och om ni vill göra något rätt i det här, skilj på människors tro och andras hunger efter att äga dess språk."
 
@@ -124,7 +124,7 @@ När de gick ut i den fuktiga natten stod Solveig lutad mot biblioteksväggen me
 
 "Nå?" sa hon.
 
-"Det vi jagar är inte obruten tro," sa Maja. "Det är ett organiserat bruk av dess sken."
+"Det vi jagar är inte obruten tro," sa Maja. "Det är människor som lånar dess språk för att ta makt."
 
 Solveig nickade, nästan som om det var ett sorgligt men väntat examensresultat.
 

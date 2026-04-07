@@ -18,7 +18,7 @@ Han svarade inte genast. Han såg på den tomma ytan där något uppenbart sakna
 
 "Vet du det, eller hatar du det bara?"
 
-Den frågan gick in hårdare än hon tänkt. Han vände sig mot henne med samma trötthet som ilska. "Just nu är skillnaden akademisk."
+Den frågan gick in hårdare än hon tänkt. Han vände sig mot henne med samma trötthet som ilska. "Just nu gör den ingen praktisk skillnad."
 
 En tekniker kom fram med handskar och ett plastomslag. "Hittade ett fingeravtryck på en av kabeltrummorna. Och det här låg under ett bord."
 
@@ -28,7 +28,7 @@ Maja behövde inte säga något. Noah såg det själv. De var fortfarande i spel
 
 Telefonen började ringa i hans hand redan innan han hunnit stoppa undan körplanen.
 
-Regionledningen. Presstjänsten. En chefsåklagare som ville veta varför en välkänd kulturstiftelse behandlades som organiserad brottsplats på indicier som ännu inte lämpar sig för offentlighet. Bakom varje ord hörde Maja samma större sak: institutioner älskar kulturkapital till precis den punkt där det kräver konflikt.
+Regionledningen. Presstjänsten. En chefsåklagare som ville veta varför en välkänd kulturstiftelse behandlades som organiserad brottsplats på indicier som ännu inte lämpar sig för offentlighet. Bakom varje ord hörde Maja samma större sak: alla älskar fina kulturprojekt tills någon måste bråka på riktigt.
 
 "Jag tar det här," sa Noah och gick undan.
 
@@ -68,7 +68,7 @@ Den här gången var det inte trots mellan dem. Bara två människor som båda s
 
 Tillbaka på stationen väntade nästa slag. Någon hade skickat delar av Severins mejl till Solveig till pressen, selektivt beskuret så att det såg ut som om forskarvärlden själv närde idéer om hemlig obruten kult. Exakta formuleringar borttagna. Sensation kvar.
 
-"De äter mellanlederna offentligt nu också," sa Maja.
+"Nu tar de över mellanleden öppet också," sa Maja.
 
 Solveig, som kallats in för att reda ut läckans möjliga källa, stod med armarna i kors och ren vrede i ansiktet. "Det där mejlet har inte lämnat min server annat än till er."
 
@@ -114,7 +114,7 @@ Det var brutalt och precis därför användbart.
 
 "Utveckla."
 
-"Han ville fortfarande någonstans att det skulle leda till en äldre, sann kärna. Till något autentiskt under allt senare. Men kanske finns ingen sådan frikärna. Kanske finns bara återbruk, övertagande, omskrivning."
+"Han ville fortfarande att allt skulle leda fram till något äldre och sant. Något rent under allt senare. Men kanske finns inget sådant. Kanske finns bara människor som tar över, bygger om och säljer tillbaka."
 
 Solveig tittade på henne länge. "Och hur känns det?"
 

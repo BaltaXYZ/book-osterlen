@@ -18,7 +18,7 @@ Maja lät signalen gå ett slag till och tryckte sedan på svar. "Ja."
 
 Maja tittade ut över skärmen där hon just nu jämförde fotograferade skeppsfigurer från bronsåldersmaterial i södra Skandinavien. "Nej."
 
-Solveig drog efter andan på det sätt hon gjorde när hon var arg och försökte låta professionell genom det. "Det har hittats en död man vid Ales stenar. Polisen har bett om hjälp med symbolmaterialet på platsen. Jag sa att de måste ta någon som faktiskt kan ikonografiska överföringar och inte bara prata om runor. Jag gav dem ditt namn."
+Solveig drog efter andan på det sätt hon gjorde när hon var arg och försökte låta professionell genom det. "Det har hittats en död man vid Ales stenar. Polisen har bett om hjälp med symbolmaterialet på platsen. Jag sa att de måste ta någon som faktiskt kan hur sådana bildmotiv visar att något förs vidare och inte bara prata om runor. Jag gav dem ditt namn."
 
 Maja hann tänka nej innan hon hann tänka något annat.
 

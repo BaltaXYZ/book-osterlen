@@ -2,32 +2,32 @@
 
 ## Struktur
 - [x] Story goal är tydligt och stort nog att dra in flera aktörer.
-- [x] Consequence är dramatisk nog att bära hela romanen.
+- [x] Consequence är hård nog att bära hela romanen.
 - [x] Requirements, forewarnings, costs, dividends, prerequisites och preconditions finns på romannivå.
-- [x] Midpoint omtolkar romanens verkliga fråga.
-- [x] Klimax avgör både yttre handling och inre val.
+- [x] Midpointen vrider romanens verkliga fråga i en ny riktning.
+- [x] Klimax avgör både den yttre handlingen och huvudpersonens inre val.
 
 ## Mysterium
-- [x] Huvudgåtan är begriplig på konstruktionsnivå.
-- [x] Ledtrådskedjan kan följas i efterhand.
+- [x] Huvudgåtan är begriplig i efterhand.
+- [x] Ledtrådarna går att följa från början till slut.
 - [x] Minst tre större omtolkningar finns.
-- [x] Villospår är rättvisa och inte tom chock.
-- [x] Avslöjanden kommer i meningsfull ordning.
+- [x] Villospåren känns rättvisa och inte som tom chock.
+- [x] Avslöjandena kommer i en ordning som skärper trycket.
 
 ## Karaktärer
-- [x] Protagonistens kompetens är narrativt nödvändig.
-- [x] Influence character bär genuint alternativ metod.
+- [x] Protagonistens kompetens är nödvändig för att berättelsen ska fungera.
+- [x] Influence character bär en verklig alternativ metod.
 - [x] Antagonisten har begriplig logik.
-- [x] De viktigaste bipersonerna fyller dramatisk funktion.
+- [x] De viktigaste bipersonerna fyller en tydlig dramatisk uppgift.
 
 ## Scener och kapitel
 - [x] Varje kapitel har mål, motstånd och ny förståelse.
-- [x] Varje kapitel fördjupar mysteriet, höjer hotet, omtolkar fakta eller skärper relation/idékonflikt.
+- [x] Varje kapitel fördjupar mysteriet, höjer hotet, omtolkar fakta eller skärper relation och idékonflikt.
 - [x] Kapitelavsluten skapar verklig page-turner-effekt.
-- [x] Exposition är integrerad under press.
+- [x] Exposition hålls under press.
 
 ## Fakta och miljö
-- [x] Platslogik känns konkret och lokal.
+- [x] Platslogiken känns konkret och lokal.
 - [x] Geografi och förflyttningar håller.
 - [x] Arkeologi, historia och institutioner känns researchförankrade.
 - [x] Nutida trospraktik behandlas nyanserat.

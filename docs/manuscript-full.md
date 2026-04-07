@@ -84,7 +84,7 @@ Maja lät signalen gå ett slag till och tryckte sedan på svar. "Ja."
 
 Maja tittade ut över skärmen där hon just nu jämförde fotograferade skeppsfigurer från bronsåldersmaterial i södra Skandinavien. "Nej."
 
-Solveig drog efter andan på det sätt hon gjorde när hon var arg och försökte låta professionell genom det. "Det har hittats en död man vid Ales stenar. Polisen har bett om hjälp med symbolmaterialet på platsen. Jag sa att de måste ta någon som faktiskt kan ikonografiska överföringar och inte bara prata om runor. Jag gav dem ditt namn."
+Solveig drog efter andan på det sätt hon gjorde när hon var arg och försökte låta professionell genom det. "Det har hittats en död man vid Ales stenar. Polisen har bett om hjälp med symbolmaterialet på platsen. Jag sa att de måste ta någon som faktiskt kan hur sådana bildmotiv visar att något förs vidare och inte bara prata om runor. Jag gav dem ditt namn."
 
 Maja hann tänka nej innan hon hann tänka något annat.
 
@@ -1197,13 +1197,13 @@ Ingrid nickade. "Han och din far gick inte ihop, men de talade samma språk om h
 
 Noah gjorde ett ljud som betydde att ännu en möjlig tråd lagt sig på plats. "Jag pratar med honom igen."
 
-Maja hade redan öppnat nästa kuvert. I det låg en rad fotografier från Kiviksgraven där hennes far gjort små märkningar med blå kulspets. På ett av dem, vid bildstenarnas procession, hade han skrivit:
+Maja hade redan öppnat nästa kuvert. I det låg en rad fotografier från Kiviksgraven där hennes far gjort små märkningar med blå kulspets. På ett av dem, vid bildstenarnas rad av människor, hade han skrivit:
 
-**inte processionsbild. överföring.**
+**inte tåg till offerplats. visar hur något förs vidare.**
 
 På ett annat:
 
-**där de andra ser orm ser jag led**
+**där de andra ser orm ser jag väg**
 
 Severin hade alltså inte uppfunnit läsningen. Han hade återfunnit den.
 
@@ -1442,23 +1442,23 @@ Noah låste upp den tillfälliga grinden med lånad kod från platsansvarig. Inn
 
 Han höjde ögonbrynen men gjorde som hon bad.
 
-Det var inte en officiell benämning, bara hennes egen från avhandlingsarbetet. Fjärde kedjan från vänster, där människor med stavar, ett skeppsliknande motiv och en märkligt utdragen djurform möttes i en tät bildkomposition som fått många att säga kult, procession, offer.
+Det var inte en officiell benämning, bara hennes egen från avhandlingsarbetet. Fjärde raden från vänster, där människor med stavar, ett skeppsliknande motiv och en märkligt utdragen figur möttes i en tät bildkomposition som fått många att säga kult, offer och högtid.
 
 Maja stod nära nog att se ristningslinjernas små tveksamheter.
 
-"När min far skrev överföring här," sa hon, "trodde jag att det bara var hans sätt att vilja se system där andra såg ritual."
+"När min far skrev att något förs vidare här," sa hon, "trodde jag att det bara var hans sätt att vilja se ordning där andra såg ritual."
 
 "Och nu?"
 
 "Nu tror jag att han såg rörelsefunktionen rätt men gav den fel språk."
 
-Hon tog fram en genomskinlig plastficka med Severins utskrifter och la en kopia av hans kalkering över bilden. Linjerna passade inte exakt, men principen trädde fram tydligare när de dubblerades. Den långa djurformen blev mindre djur och mer flödande band. Stavbärarna såg plötsligt inte ut att gå mot ett altare utan mot en punktöverföring.
+Hon tog fram en genomskinlig plastficka med Severins utskrifter och la en kopia av hans kalkering över bilden. Linjerna passade inte exakt, men principen trädde fram tydligare när de dubblerades. Den långa figuren blev mindre djur och mer som en markerad väg. Stavbärarna såg plötsligt inte ut att gå mot ett altare utan mot en plats där något lämnas vidare.
 
-"Om du läser det här som religiös procession," sa hon, "hamnar allt i symbolisk högtid. Men om du läser det som en kodad bild av rörelse mellan punkter blir skeppet inte mål utan bärare."
+"Om man ser det här som ett religiöst tåg," sa hon, "blir allt högtid. Men om man ser det som en bild av hur något rör sig mellan platser blir skeppet inte målet. Det blir frakten."
 
 "Bärare av vad?"
 
-"Kunskap. Objekt. Legitimitet. Något som måste flyttas utan att sägas rakt ut."
+"Kunskap. Föremål. Brev. Sånt man vill flytta utan att säga det högt."
 
 Noah riktade ljuset mot den utdragna formen. "Och ormen?"
 
@@ -1466,7 +1466,7 @@ Noah riktade ljuset mot den utdragna formen. "Och ormen?"
 
 Han såg på henne.
 
-"Eller snarare: inte främst orm. Den sorts figur som senare generationer gärna kallar orm för att det låter starkt och gammalt. Men i en äldre eller mer praktisk läsning kan det vara led, bana, riktning. När de senare vill göra allt till kult och essens blir det orm igen. Det är elegant. Du kan alltid få människor att tro på ett djur snabbare än på en rörelse."
+"Eller snarare: inte främst orm. Senare människor kallar gärna allt sådant här orm för att det låter gammalt och starkt. Men det kan lika gärna handla om en väg, en sträcka, en riktning. Det är lättare att sälja in ett urdjur än att säga att folk bara bar saker mellan två punkter."
 
 Noah log snett. "Du låter som om du talar om nutida politik."
 
@@ -1490,7 +1490,7 @@ Han gick närmare. "Tre delpunkter på samma linje. Kivik, Glimmingehus, Ales st
 
 "Och Stenshuvud som läsnyckel. Eller tvärtom."
 
-Hon tog ett steg tillbaka, lät blicken glida över alla stenarna samtidigt. Om man såg dem som en enda berättelse blev allt snart mystik. Om man såg dem som separata bilder blev allt för fattigt. Men om man såg dem som ett system av instruktioner som olika tider läst om och brukat på nya sätt...
+Hon tog ett steg tillbaka, lät blicken glida över alla stenarna samtidigt. Såg man dem som en enda stor myt blev allt dimma. Såg man dem som helt skilda bilder blev allt för litet. Men om någon hade använt dem för att visa hur saker skulle föras mellan synliga platser och gömställen...
 
 Majas telefon vibrerade i jackan. Noah kastade en blick på henne när hon tog upp den.
 
@@ -1552,7 +1552,7 @@ Maja sänkte rösten nästan omedvetet, som om platsen krävde det. "Och jag tro
 
 Noah stoppade undan telefonen. "Vilken är rätt?"
 
-"Vem tjänar på att få det att se ut som religion när det egentligen handlar om kontroll."
+"Vem tjänar på att få det att se heligt ut när det egentligen handlar om vem som får bära, gömma och visa upp saker."
 
 Det var då de hörde ett metalliskt skrap utifrån.
 
@@ -1582,7 +1582,7 @@ Han såg tillbaka mot gravröset. "De följer oss."
 
 Maja tänkte på telefonsamtalet, på Rutan, på magasinet vid hamnen. På hur snabbt någon dykt upp här, just nu, just efter att de börjat förstå stenen på ett annat sätt.
 
-"Nej," sa hon. "De följer inte spåret. De bevakar berättelsen om spåret."
+"Nej," sa hon. "De följer inte bara spåret. De vaktar sin version av det."
 
 På träspången utanför gravkammaren låg något ljust i lampans återvändande sken. Noah gick dit först och böjde sig.
 
@@ -1592,7 +1592,7 @@ Inuti fanns bara ett fotografi, nytaget med mobilkamera. Det föreställde Maja 
 
 På baksidan stod:
 
-**DET SOM RÖR SIG I SIDLED KAN OCKSÅ SKÄRA HALSEN AV ER**
+**DET SOM FLYTTAS VID SIDAN AV ALLAS BLICK KAN OCKSÅ SKÄRA HALSEN AV ER**
 
 # 08. Falsk botten
 
@@ -2060,21 +2060,21 @@ Maja lade fram en utskrift av Stenportens dagjämningsprogram, några av Wredes 
 
 Stina läste länge innan hon svarade.
 
-"Det här är kuraterat för publik som vill känna gammal tyngd utan att behöva kunna särskilt mycket," sa hon. "Det blandar modernt andligt språk, akademisk fernissa, gammalord och suggestiv osäkerhet. Just därför fungerar det."
+"Det här är byggt för publik som vill känna gammal tyngd utan att behöva kunna särskilt mycket," sa hon. "Det blandar lånade ord om tro, några lärda uttryck och precis lagom mycket dimma. Just därför fungerar det."
 
 "Fungerar hur?" sa Noah.
 
-"Som berättelse. Inte som tradition."
+"Som show. Inte som levande tradition."
 
 Maja pekade på en av raderna i programmet där Stenporten talade om *obruten nattväktad linje genom generationer av skyddare*.
 
 "Det här?"
 
-Stina nästan himlade med ögonen. "Ingen seriös nutida Forn Sed-miljö jag känner till skulle uttrycka sig så. Det luktar marknadsförd initiering. Ni vet, den sortens språk som får människor att känna att de står nära något förbjudet och därför särskilt sant."
+Stina nästan himlade med ögonen. "Ingen seriös nutida Forn Sed-miljö jag känner till skulle uttrycka sig så. Det luktar säljtext. Den sortens språk får människor att känna att de står nära något förbjudet och därför särskilt sant."
 
 Noah såg på Maja. "Exakt vad du sa om scen."
 
-Stina fortsatte: "Modern hednisk tro i Sverige är inte obruten järnålder. Det vet alla vuxna som håller på med den. Den är samtida praktik, samtida etik, samtida tolkning. När någon insisterar på obruten hemlig kedja ska man nästan alltid fråga vem som tjänar på den fantasins auktoritet."
+Stina fortsatte: "Modern hednisk tro i Sverige är inte obruten järnålder. Det vet alla vuxna som håller på med den. Den levs nu, av människor som lever nu. När någon tjatar om en hemlig obruten kedja ska man nästan alltid fråga vem som vill vinna på att det låter så gammalt."
 
 Maja lät fingret vila på programmet. "Helena Wrede tjänar på den."
 
@@ -2084,7 +2084,7 @@ Noah höjde blicken. "Du känner till henne?"
 
 "Av rykte. Hon gillar att bjuda in, rama in och sätta ord på andra människors arbete tills det låter som att hon själv upptäckt världen. Jag har hört om minst två projekt där andra fick stå som upptäckare medan Helena tackades för kuratorisk samordning och vackert programblad. Sådant gör något med människor. Det finns folk inom små trosmiljöer som dragits till hennes pengar och synlighet. Det betyder inte att de står för hennes tolkningar."
 
-Det var viktigt. Maja kände hur en felaktig men dramatisk möjlig version av romanen höll på att rinna av bordet: den om hemlig levande kult. Kvar blev något betydligt mer användbart och mer skrämmande. Samtida människor, samtida nätverk, samtida maktbruk av äldre material.
+Det var viktigt. Den lockande, felaktiga förklaringen rann av bordet: hemlig levande kult. Kvar blev något bättre och värre. Nutida människor. Nutida nätverk. Nutida händer på äldre material.
 
 "Ordet orm," sa Maja. "Hur lätt är det att få människor att läsa det fel?"
 
@@ -2092,7 +2092,7 @@ Det var viktigt. Maja kände hur en felaktig men dramatisk möjlig version av ro
 
 "Och om den egentliga betydelsen är rörelse? Led? Bana?" sa Maja.
 
-Stina såg upp skarpt. "Då har någon använt ett symbolord för att gömma logistisk kunskap. Det vore inte första gången i historien. Men då talar vi om bruk av symbolik, inte om bevis för helig essens."
+Stina såg upp skarpt. "Då har någon använt ett laddat ord för att gömma praktisk kunskap om hur man rör sig och flyttar saker. Det vore inte första gången. Men då talar vi inte om helig kärna. Vi talar om människor som döljer ett handgrepp bakom rätt ord."
 
 Noah tog fram minnesstickan men la den inte på bordet än. "Om vi hittar material som visar att någon nutida aktör medvetet bygger en offentlig lögn på äldre symbolmaterial, hur hårt kan det slå mot faktiska moderna trosutövare?"
 
@@ -2128,7 +2128,7 @@ Stina drog in luft långsamt. "Då är ni långt förbi symbolmissbruk. Då har 
 
 Maja tog upp programbladet igen. Nu såg hon varje rad som rökridå. Gryning, berättelse, obruten kedja, heligt landskap. Inte för att någon trodde bokstavligt på allt. Utan för att det skulle fungera offentligt.
 
-"Det levande bruket," sa hon lågt. "Det finns, men inte där de pekar."
+"Det levande finns kvar," sa hon lågt. "Men inte där de pekar."
 
 "Nej," sa Stina. "Och om ni vill göra något rätt i det här, skilj på människors tro och andras hunger efter att äga dess språk."
 
@@ -2160,7 +2160,7 @@ När de gick ut i den fuktiga natten stod Solveig lutad mot biblioteksväggen me
 
 "Nå?" sa hon.
 
-"Det vi jagar är inte obruten tro," sa Maja. "Det är ett organiserat bruk av dess sken."
+"Det vi jagar är inte obruten tro," sa Maja. "Det är människor som lånar dess språk för att ta makt."
 
 Solveig nickade, nästan som om det var ett sorgligt men väntat examensresultat.
 
@@ -2198,7 +2198,7 @@ Stina såg framåt när hon svarade. "Du menar människor som inte själva tror 
 
 "Ja."
 
-"För att de tar två saker på allvar samtidigt som många andra gärna separerar. För det första att symboler fungerar i kropp och grupp långt innan de fungerar i argument. För det andra att människor hatar vakuum. Därför kan de bygga något som känns sant mycket fortare än en hederlig person hinner förklara varför det är ohederligt."
+"För att de tar två saker på allvar samtidigt som många andra gärna delar upp dem. För det första att symboler träffar kroppen innan de träffar huvudet. För det andra att människor hatar tomrum. Därför kan de bygga något som känns sant mycket fortare än en hederlig person hinner förklara varför det är falskt."
 
 Maja lät vinden slå sig tom i några sekunder. "Så Helena har rätt om problemet."
 
@@ -2220,11 +2220,11 @@ Maja svarade inte direkt.
 
 Stina stannade och vände sig mot henne. Bakom dem lyste hamnens lampor som suddiga gula märken i fukten.
 
-"Lyssna," sa hon. "Det finns en annan fälla här också. Du kan bli så upptagen av att Helena missbrukar språk om tro att du i praktiken börjar tala om all tro som missbrukad. Det vore lika slarvigt som hennes version, bara från andra hållet."
+"Lyssna," sa hon. "Det finns en annan fälla här också. Du kan bli så upptagen av att Helena missbrukar ord om tro att du börjar tala som om all tro vore ett missbruk. Det vore lika slarvigt som hennes version, bara från andra hållet."
 
 Maja kände genast igen träffen. "Jag vet."
 
-"Nej, du vet det teoretiskt. Men du bär fortfarande ett förakt för människor som låter mening arbeta i sig innan den passerar kontrollrutan."
+"Nej, du vet det i huvudet. Men du ser fortfarande ner på människor som låter något träffa dem innan de hunnit kontrollera det."
 
 Det där var närmast oförskämt. Och tyvärr för väl träffat för att kunna avfärdas.
 
@@ -2236,7 +2236,7 @@ De började gå igen. Maja tänkte på fadern. På hur ofta hon sagt till sig sj
 
 "Vad tror du då?" sa hon.
 
-Stina skrattade kort. "Den där frågan är alltid så hungrig när den ställs av forskare. Som om ni ska få en ren formel. Jag tror att människor behöver bruk där mening delas utan att någon ensam äger tolkningsrätten. Jag tror att tradition som vet att den är samtida är mindre farlig än institutioner som låtsas att de bara förvaltar det eviga. Och jag tror att de som skriker högst om obruten kedja nästan alltid försöker täcka över ett brott."
+Stina skrattade kort. "Den där frågan är alltid så hungrig när den ställs av forskare. Som om ni ska få en ren formel. Jag tror att människor behöver sätt att samlas där ingen ensam får bestämma vad allt betyder. Jag tror att tradition är mindre farlig när den vet att den levs nu, av människor nu. Och jag tror att de som skriker högst om obruten kedja nästan alltid försöker dölja ett brott."
 
 "Det sista gillar jag särskilt."
 
@@ -2244,7 +2244,7 @@ Stina skrattade kort. "Den där frågan är alltid så hungrig när den ställs 
 
 Maja stannade vid en sten och såg ner på det svarta vattnet som slog över tången.
 
-"Stenporten använder ord som vård, ordning, ansvar," sa hon. "Du använder bruk, delning, samtida. Min far använde ibland arv, ibland led. Jag använder överföring. Allt är språk för vem som får stå mellan plats och människa."
+"Stenporten använder ord som vård, ordning, ansvar," sa hon. "Du använder delning och samtid. Min far använde ibland arv, ibland led. Jag säger att något förs vidare. Allt handlar om vem som får stå mellan platsen och människorna."
 
 "Exakt," sa Stina. "Därför måste du vara väldigt försiktig om du vinner i morgon eller övermorgon eller när det nu sker. Om du bara gör Helena till lögnare och lämnar allt annat öppet kommer någon annan ta platsen som ny ren tolk."
 
@@ -2296,7 +2296,7 @@ Stina stannade vid trottoarkanten och drog huvan tätare. "Om ni går på dem nu
 
 "Vilket av allt?" sa Maja.
 
-"Att ni inte slåss mot tro. Ni slåss mot någon som vill äga hur andra människor ska känna inför det förflutna."
+"Att ni inte slåss mot tro. Ni slåss mot någon som vill bestämma hur andra människor ska känna inför det förflutna."
 
 Det var en liten mening, men den följde Maja in i bilen och blev kvar där längre än de andra denna natt.
 
@@ -2479,7 +2479,7 @@ Texten beskrev hur *tecken, bild och minne* skulle föras bort från *allmogens 
 
 Noah läste om sista raden långsamt. "Brukas utan att ägas."
 
-Maja kände hur obehaget gick djupt och rent nu. Inte för att texten bevisade obruten hemlig tro. Tvärtom. För att den visade något mer välbekant och mer hållbart: maktens vana att ta symboliskt kapital ur en plats och återutge det som sin egen ordning.
+Maja kände hur obehaget gick djupt och rent nu. Inte för att texten bevisade obruten hemlig tro. Tvärtom. För att den visade något mer välbekant och mer hållbart: hur människor med makt tar ord, föremål och anseende från en plats och sedan lämnar tillbaka allt som sin egen ordning.
 
 "Det här är bara början," sa hon.
 
@@ -2623,7 +2623,7 @@ Hon stod under ett svart paraply utan att själv hålla i det; en yngre man i m�
 
 Noah bromsade inte ens farten när han gick fram. "Då har du otur."
 
-Maja följde två steg bakom och kände omedelbart den egendomliga friktionen i att se en människa hon redan förstått som funktion innan hon förstått henne som kropp. Helena Wrede rörde sig utan hastighet, vilket var ett maktmedel i sig. Allt i henne sa att andra fick justera takt efter hennes.
+Maja följde två steg bakom och kände omedelbart den egendomliga friktionen i att se en människa hon redan förstått som ett grepp innan hon förstått henne som kropp. Helena Wrede rörde sig utan hastighet, vilket var ett maktmedel i sig. Allt i henne sa att andra fick justera takt efter hennes.
 
 "Ni kallade hit oss?" sa Noah till Linnea, som stod vid porten.
 
@@ -2649,7 +2649,7 @@ De gick in i norra kammaren i själva borgen. Det gamla tegelgolvet låg mörkt 
 
 Maja stod still och såg hur linjen lades över tegelmönstrets diagonaler. Plötsligt blev Severins överläggning i telefonbilden begripligare. Det handlade inte om att två motiv råkade likna varandra. Det handlade om att ett senare byggt rum fångat upp och återanvänt en äldre rörelseform.
 
-"Det är inte bara jämförelse," sa hon. "Det är appropriering i byggd form."
+"Det här är inte bara en jämförelse," sa hon. "De har tagit en äldre form och byggt in den i sitt eget rum."
 
 Helena hörde henne och klev närmare, fortfarande skyddad av sitt paraply som nu blivit absurt inomhus men ändå inte ifrågasattes av mannen som höll det.
 
@@ -2657,17 +2657,17 @@ Helena hörde henne och klev närmare, fortfarande skyddad av sitt paraply som n
 
 "Ett exakt ord," sa Maja.
 
-Helena såg ner på kalklinjen. "Eller ett trött ord. Vi approprierar alltid det förflutna. Annars vore det dött material i mark. Det intressanta är inte att människor omformar äldre arv, utan hur väl de gör det."
+Helena såg ner på kalklinjen. "Eller ett trött ord. Människor tar alltid det förflutna i bruk. Annars ligger det bara kvar i marken. Frågan är inte om det sker, utan hur skickligt det görs."
 
 Noah tog ett steg mot henne. "Du står alltså här mitt i en mordutredning och håller föreläsning om kulturstrategi."
 
-"Jag står här mitt i ett haveri av offentlig kontroll," sa Helena lugnt. "Nils var en duglig man men inte stark nog att bära vad han trodde sig ha hittat. Nu fylls tomrummet av rykten om sekter och blodsoffer. Om ni inte snabbt får ordning på berättelsen kommer allt värdefullt i materialet drunkna."
+"Jag står här mitt i ett haveri av offentlig kontroll," sa Helena lugnt. "Nils var en duglig man men inte stark nog att bära vad han trodde sig ha hittat. Nu fylls tomrummet av rykten om sekter och blodsoffer. Om ni inte snabbt ser till att en tydlig version går ut kommer allt värdefullt i materialet drunkna."
 
 Maja kände hur ordet berättelsen slog mot alla ledtrådar de redan hade.
 
 "Ordning på berättelsen," upprepade hon.
 
-Helena mötte hennes blick fullt ut. "Ja. Ni säger det som om det vore skamligt. Jag säger det som om det vore civilisation."
+Helena mötte hennes blick fullt ut. "Ja. Ni säger det som om det vore skamligt. Jag säger att något måste hålla ihop det innan allting slits sönder."
 
 Ingen i rummet rörde sig.
 
@@ -2705,7 +2705,7 @@ Helena höjde ögonbrynen. "Vad menar ni?"
 
 Ett nästan omärkligt skifte gick genom hennes ansikte. Inte skuld. Snarare irritation över att frågan ställdes så direkt.
 
-"Nätverk byggs alltid runt idéer som är större än individen," sa hon. "Ni om någon borde förstå det. Eller kanske är det där er svaghet ligger, doktor Malm. Att ni fortfarande tror att sanning verkar av sig själv så länge den bara är exakt nog."
+"Människor samlas alltid runt något som känns större än en enda person," sa hon. "Ni om någon borde förstå det. Eller kanske är det där er svaghet ligger, doktor Malm. Att ni fortfarande tror att sanningen vinner av sig själv bara den är exakt nog."
 
 Maja sa inget. För varje sekund blev hon mer säker på två saker samtidigt: att Helena inte själv utfört våldet med händerna, och att våldet ändå var helt förenligt med hennes projekt.
 
@@ -3101,7 +3101,7 @@ Maja tog fram faderns fotografi, Severins skiss och en utskrift av den gamla kus
 
 Han kisade ut mot kusten.
 
-"Där," sa hon och pekade söderut. "Kåseberga ser ut som punkt om du redan vet vad du letar efter. Men från havet läser man inte punkt först. Man läser höjder, ryggar, siluetter, brytningar. Stenshuvud är sjömärke. Ales är en markering närmare ankomst. Om du vill föra silver, sigill eller brev genom landskapet utan att skriva det öppet kan du koda det i det som ändå alla redan använder för orientering."
+"Där," sa hon och pekade söderut. "Kåseberga ser ut som punkt om du redan vet vad du letar efter. Men från havet ser man inte punkt först. Man ser höjder, ryggar, siluetter, brytningar. Stenshuvud är sjömärke. Ales är en markering närmare landningen. Om du vill föra silver, sigill eller brev genom trakten utan att skriva det öppet kan du gömma det i det som alla sjöfarande ändå använder för att hitta rätt."
 
 Noah följde hennes finger. "Så Ormleden är inte hemlig i meningen osynlig. Den är hemlig i meningen fel-läst."
 
@@ -3109,11 +3109,11 @@ Maja vände blicken mot honom. "Ja."
 
 Det ordet förändrade något mellan dem. Inte mycket. Men nog. För första gången sa hon inte kanske, troligen, eventuellt. Hon sa ja.
 
-Hon tog fram Kivikkalkeringen och höll den mot horisonten. Med den ovanpå fotografiet från havet började skeppsfiguren och den utdragna "ormen" se mindre som symbolvärld och mer som ett rörelsemönster mellan bärande punkter. Stenshuvud var läsnyckel inte för att något heligt bodde här, utan för att landskapet härifrån blev begripligt som system.
+Hon tog fram Kivikkalkeringen och höll den mot horisonten. Med den ovanpå fotografiet från havet började skeppsfiguren och den utdragna "ormen" se mindre ut som myt och mer som ett mönster för hur man tar sig mellan fasta punkter. Stenshuvud var nyckeln inte för att något heligt bodde här, utan för att man härifrån såg vägen klarare.
 
 "Om Glimmingehus sen går in och översätter det till dokument och förvaltning..." sa Noah.
 
-"...så har du överfört något från muntlig och praktisk kustkunskap till institutionell kontroll," sa Maja. "Först varan. Sen rätten att säga vad varan betydde. Sen rätten att förvalta minnet av den."
+"...så har du tagit något från folk som kunde kusten i kroppen och lagt det i händerna på människor med papper och murar," sa Maja. "Först varan. Sen rätten att säga vad varan betydde. Sen rätten att ta hand om minnet av den."
 
 "Brukas utan att ägas."
 
@@ -3151,11 +3151,11 @@ Helena hade valt sitt ögonblick utifrån just detta. Inte bara dramatik. Siktli
 
 "Du vet vad hon ska visa nu," sa Noah.
 
-"Inte exakt objekt. Men funktion."
+"Inte exakt vilket föremål. Men vad det ska göra."
 
 "Vilken?"
 
-"Hon tänker stå vid slutbilden och påstå att hela kedjan pekat mot en obruten sakral ordning. Men om vi har rätt pekar kedjan mot något annat: hur äldre praktisk och lokal kunskap först användes för att flytta dyr last, sedan togs över, institutionaliserades och förpackades om."
+"Hon tänker stå vid slutbilden och påstå att hela vägen pekat mot en obruten helig ordning. Men om vi har rätt pekar den mot något annat: hur äldre, lokal kunskap först användes för att flytta dyr last och sedan togs över, stängdes in och såldes tillbaka med finare ord."
 
 Noah vände sig mot henne. "Och varför döda för det?"
 
@@ -3563,21 +3563,21 @@ När Maja och Noah kom tillbaka till Glimmingehus låg bordet täckt av uppspän
 
 Maja gick direkt till bordet. Linnea pekade på tre materialgrupper: Glimmingehusgolvet, Kiviksgravens bildsekvenser och äldre hamnritningar från Kivik.
 
-"Jag fastnade på det där du sa förut," sa Linnea till Maja. "Om att de tagit över något. Så jag gjorde det minst poetiska man kan göra. Jag började mäta fogar."
+"Jag fastnade på det där du sa förut," sa Linnea till Maja. "Om att de tagit över något. Så jag gjorde det minst poetiska man kan göra. Jag började mäta fogar och mellanrum."
 
 Maja tittade upp.
 
-Linnea pekade på Glimmingehusbilden. "Golvet där inne ser ut som pynt om man tittar snabbt. Men lägger man det över bildsekvensen från Kivik..." Hon la över en transparent plast. "Då ser man att de inte bevarat formen. De har plockat isär den och gjort om den till något man kan lägga på plats och äga."
+Linnea pekade på Glimmingehusbilden. "Golvet där inne ser ut som pynt om man tittar snabbt. Men lägger man det över bildsekvensen från Kivik..." Hon la över en transparent plast. "Då ser man att de inte bevarat formen. De har brutit upp den och byggt om den till något man kan lägga inomhus, visa upp och kalla sitt."
 
 Noah kom närmare. "Och på vanlig svenska?"
 
-Linnea lät inte ens bli att himla med ögonen. "De tog något som fungerade ute i landskapet och gjorde det till inomhusordning. Från bruk till kontroll."
+Linnea lät inte ens bli att himla med ögonen. "De tog något som fungerade ute på plats och gjorde det till inomhusordning. Från händer och vägar till golv och ägande."
 
 Maja kände hur allt i henne ställde in sig på samma punkt.
 
 "Inte uppåt," sa hon.
 
-"Precis," sa Linnea. "Severin skrev det på flera ställen. Du ska inte läsa från äldre till senare som om det senare bevarar det äldre. Du ska läsa tvärtom. Det senare griper in i det äldre. Omskriver det. Fryser det."
+"Precis," sa Linnea. "Severin skrev det på flera ställen. Du ska inte tänka att det senare skyddar det äldre. Du ska tänka att det senare går in, tar över och låser fast det på sitt eget sätt."
 
 Noah såg mellan dem. "Så Helena försöker inte väcka någon gammal kult."
 
@@ -3591,13 +3591,13 @@ Noah såg mellan dem. "Så Helena försöker inte väcka någon gammal kult."
 
 Linnea nickade hårt. "Exakt."
 
-Det var där midpointen låste sig fullt ut.
+Det var där allt låste sig fullt ut.
 
 Inte hemlig levande tro.
-Inte kultisk kontinuitet.
-Inte ens främst mördad antikvarie och stulen låda.
+Inte obruten kult.
+Inte ens i första hand en mördad antikvarie och en stulen låda.
 
-Det centrala var att samma operation upprepades genom seklerna: först använda sidlederna för silver, sigill, privilegiebrev, relikfragment och annan liten dyrbar last som inte tålde öppen bokföring, sedan ta samma rörliga, lokala, svårägda kunskapsform och göra den till fixerad auktoritet i händerna på få. Helena Wrede var inte arvtagare till en förkristen orden. Hon var arvtagare till själva tillgreppet.
+Det centrala var att samma grepp upprepats genom seklerna: först flytta silver, sigill, privilegiebrev, relikfragment och annan liten dyrbar last vid sidan av öppen bokföring, sedan ta samma vägar, samma gamla platser och samma lokala kunskap och få allt att se gammalt, rent och rättmätigt ut i några få händer. Helena Wrede var inte arvtagare till en förkristen orden. Hon hade ärvt själva stöldtricket.
 
 Maja satte båda händerna mot bordskanten tills knogarna vitnade.
 
@@ -3611,7 +3611,7 @@ Noah såg på henne. "Säg det rent."
 
 Hon gjorde det.
 
-"Han dog inte för att han hittade bevis på gammal tro. Han dog för att han hittade bevis på hur maktbärare först gjorde sidled för dyr last till pengar och anspråk, och sedan gjorde samma sidled till rätt att tala för det förflutna."
+"Han dog inte för att han hittade bevis på gammal tro. Han dog för att han hittade bevis på hur mäktiga människor först gömde dyr last vid sidan av all insyn och sedan gjorde samma väg till rätt att tala för det förflutna."
 
 Orden låg kvar i rummet efteråt som om de ändrat lufttrycket.
 
@@ -3619,9 +3619,9 @@ Linnea gick till nästa hög. "Det finns mer."
 
 Hon tog fram en katalogpost Maja inte sett tidigare. En torr, byråkratisk notering från sent 1800-tal om en fynddeposition från *västlig lucka i äldre hamnmagasin*, senare överförd till *privat vård i herrskaplig hand* innan föremålet försvann ur officiell redovisning.
 
-"Privat vård i herrskaplig hand," sa Noah. "Det låter som stöld med etikett."
+"Privat vård i herrskaplig hand," sa Noah. "Det låter som stöld i fin rock."
 
-"Ja," sa Linnea. "Först flytta i tysthet. Sen återföra som vård när ära, laglighet och rätt publik kan fästas vid samma hand. Och här." Hon visade en senare marginalanteckning i annan hand. "Åter till kedjan först vid full scen."
+"Ja," sa Linnea. "Först flytta i tysthet. Sen komma tillbaka med rätt ord, rätt publik och rätt person bredvid. Och här." Hon visade en senare marginalanteckning i annan hand. "Tillbaka först när scenen är klar."
 
 Noah drog in luft. "Scen igen."
 
@@ -4127,7 +4127,7 @@ Han svarade inte genast. Han såg på den tomma ytan där något uppenbart sakna
 
 "Vet du det, eller hatar du det bara?"
 
-Den frågan gick in hårdare än hon tänkt. Han vände sig mot henne med samma trötthet som ilska. "Just nu är skillnaden akademisk."
+Den frågan gick in hårdare än hon tänkt. Han vände sig mot henne med samma trötthet som ilska. "Just nu gör den ingen praktisk skillnad."
 
 En tekniker kom fram med handskar och ett plastomslag. "Hittade ett fingeravtryck på en av kabeltrummorna. Och det här låg under ett bord."
 
@@ -4137,7 +4137,7 @@ Maja behövde inte säga något. Noah såg det själv. De var fortfarande i spel
 
 Telefonen började ringa i hans hand redan innan han hunnit stoppa undan körplanen.
 
-Regionledningen. Presstjänsten. En chefsåklagare som ville veta varför en välkänd kulturstiftelse behandlades som organiserad brottsplats på indicier som ännu inte lämpar sig för offentlighet. Bakom varje ord hörde Maja samma större sak: institutioner älskar kulturkapital till precis den punkt där det kräver konflikt.
+Regionledningen. Presstjänsten. En chefsåklagare som ville veta varför en välkänd kulturstiftelse behandlades som organiserad brottsplats på indicier som ännu inte lämpar sig för offentlighet. Bakom varje ord hörde Maja samma större sak: alla älskar fina kulturprojekt tills någon måste bråka på riktigt.
 
 "Jag tar det här," sa Noah och gick undan.
 
@@ -4177,7 +4177,7 @@ Den här gången var det inte trots mellan dem. Bara två människor som båda s
 
 Tillbaka på stationen väntade nästa slag. Någon hade skickat delar av Severins mejl till Solveig till pressen, selektivt beskuret så att det såg ut som om forskarvärlden själv närde idéer om hemlig obruten kult. Exakta formuleringar borttagna. Sensation kvar.
 
-"De äter mellanlederna offentligt nu också," sa Maja.
+"Nu tar de över mellanleden öppet också," sa Maja.
 
 Solveig, som kallats in för att reda ut läckans möjliga källa, stod med armarna i kors och ren vrede i ansiktet. "Det där mejlet har inte lämnat min server annat än till er."
 
@@ -4223,7 +4223,7 @@ Det var brutalt och precis därför användbart.
 
 "Utveckla."
 
-"Han ville fortfarande någonstans att det skulle leda till en äldre, sann kärna. Till något autentiskt under allt senare. Men kanske finns ingen sådan frikärna. Kanske finns bara återbruk, övertagande, omskrivning."
+"Han ville fortfarande att allt skulle leda fram till något äldre och sant. Något rent under allt senare. Men kanske finns inget sådant. Kanske finns bara människor som tar över, bygger om och säljer tillbaka."
 
 Solveig tittade på henne länge. "Och hur känns det?"
 
@@ -4887,15 +4887,15 @@ Rummet de fått för sig själva på stationen var egentligen för litet för fe
 
 Vid sju på morgonen hade Solveig gjort en grov datering. Linnea hade identifierat två olika senare händer i marginalerna. Maja hade börjat se den egentliga syntesen.
 
-"Det här är inte bara en enstaka stöld," sa hon, och hörde själv hur hes hennes röst blivit. "Det är en modell."
+"Det här är inte bara en enstaka stöld," sa hon, och hörde själv hur hes hennes röst blivit. "Det är samma handgrepp om och om igen."
 
 Hon pekade på tre texter samtidigt. I den ena: överföring från havets folk till säkrad hand. I den andra: markering om att tecken först måste tas ur bruk innan de kan ges rätt vård. I den tredje, senare marginalkommentaren: *kedjan skall förefalla äldre än den är*.
 
-"Där," sa hon. "Det är det avgörande. Inte bara att de tog material. De behövde också att själva överföringen såg naturlig, urgammal, nästan osynlig ut."
+"Där," sa hon. "Det är det avgörande. Inte bara att de tog saker. De behövde också att flytten skulle se gammal och självklar ut."
 
-"Som om berättelsen funnits där hela tiden," sa Noah.
+"Som om allt bara legat där och väntat," sa Noah.
 
-"Ja. Som om makten bara upptäckt det som alltid redan väntat på att erkännas."
+"Ja. Som om de inte stulit något alls, bara tagit hand om det som ändå borde bli deras."
 
 Linnea vände försiktigt ett blad till. "Toste-notisen här... den följs av ett namn till. En kvinna."
 
@@ -4903,19 +4903,19 @@ Maja böjde sig fram. En kort rad, nästan skymd av fläck:
 
 **hon som bar sjömärkesorden vidare skall ej lämnas i tal**
 
-"Inte bara en bärare alltså," sa Solveig. "En kedja av bärare."
+"Inte bara en person alltså," sa Solveig. "Flera som förde orden vidare."
 
 Det gjorde något med Maja. Inte sentimentalt. Mer som att ett mönster blev svårare att hålla rent från kroppar. Hon hade länge kunnat tänka på Arvid som ensam störning i familjehistorien, en privat överdrift. Nu stod hon mitt i en mycket äldre fråga om vem som bär mellanled när institutioner vill äta upp dem.
 
 Noah såg att hon gled iväg tankemässigt. "Var är du?"
 
-"Hos dem som förlorar varje gång sanningen måste paketeras för att få leva."
+"Hos dem som alltid blir av med något när sanningen först måste kläs upp för att få släppas fram."
 
 Han svarade inte direkt, men hans blick stannade kvar.
 
 Vid halv nio kom första juridiska slaget. David Åhs hade advokat. Cecilia drog tillbaka delar av sitt medgivande och började tala om sammanhang, rollmissförstånd och att polis pressat henne i ett känsligt medieläge. Regionledningen begärde tydligare motivering för fortsatt bred insats mot Stenporten.
 
-"De stramar upp narrativet redan," sa Noah och kastade ifrån sig meddelandet på bordet.
+"De håller redan på att snygga till sin version," sa Noah och kastade ifrån sig meddelandet på bordet.
 
 "Självklart," sa Solveig. "Vad trodde du?"
 
@@ -4941,15 +4941,15 @@ Maja tog upp bronsstaven igen. Under bättre ljus syntes de små tecknen längs 
 
 Hon tog fram förstoringsglaset från beviskitet och såg.
 
-"Inte inskrift i vanlig mening," sa hon. "Snarare positionsstöd. Minnesstöd. Som om staven hjälper bäraren att komma ihåg ordningen."
+"Inte inskrift i vanlig mening," sa hon. "Mer som stöd för minnet. Som om staven hjälper bäraren att komma ihåg i vilken ordning något ska visas eller föras vidare."
 
 "En fysisk prompt," sa Noah.
 
 "Ja. För en visning eller ledning."
 
-Solveig såg på föremålet med en forskares hunger som nästan blev barnslig. "Förstår du vad det betyder? Helena kan visa det där i gryningsljus, säga obruten sakral kedja och nästan ingen i publiken kommer kunna se skillnaden. Föremål är tyranniska. De vinner över fotnoter."
+Solveig såg på föremålet med en forskares hunger som nästan blev barnslig. "Förstår du vad det betyder? Helena kan hålla upp den där i gryningsljus, säga obruten helig kedja och nästan ingen i publiken kommer kunna se skillnaden. Föremål kör över fotnoter."
 
-"Därför måste vi visa fotnoten på rätt sätt," sa Maja.
+"Därför måste vi visa beviset på rätt sätt," sa Maja.
 
 Det var då Noahs telefon ringde från chefsåklagaren igen. Han lyssnade längre denna gång. Sa väldigt lite. När han la på hade ansiktet blivit tommare, vilket var värre än när det blev hårt.
 
@@ -4969,7 +4969,7 @@ Linnea svor rakt ut. Solveig gjorde ett ljud som lät gammalt.
 
 "Nu."
 
-I samma ögonblick förstod hon hela elegansen i det. Inte bara för att någon ville stoppa en besvärlig polis. Utan för att Noah var den person som börjat förena hennes läsning av struktur med hans läsning av människor och system. Ta bort honom, och kedjan sprack på nytt.
+I samma ögonblick förstod hon hela elegansen i det. Inte bara för att någon ville stoppa en besvärlig polis. Utan för att Noah var den som fått hennes sätt att läsa papper att gå ihop med hans sätt att läsa människor. Ta bort honom, och allt gled isär igen.
 
 "Vem tar över?" sa hon.
 
@@ -5003,7 +5003,7 @@ Noah stannade i dörren.
 
 Maja såg på bronsstaven, på lådan, på Helena i gryningsljus mellan stolar och kamera.
 
-"Hon tänker inte bara visa föremålet," sa hon. "Hon tänker göra sig själv till dess naturliga förvaltare i samma ögonblick."
+"Hon tänker inte bara visa föremålet," sa hon. "Hon tänker stå bredvid det i rätt ljus och få alla att tro att det hör hemma hos henne."
 
 "Ja," sa Noah. "Och när det väl hänt är det mycket svårare att få någon att se henne som tjuv."
 
@@ -5942,9 +5942,9 @@ Det där fick honom faktiskt att titta upp ordentligt.
 
 "Lokala bärare. Modern. Fiskaren. Museifolk. Rasks kontakter. Sådant du alltid underskattar därför att det inte kommer i organisationsschema."
 
-Berg vek ihop händerna. Han hade i tjugo år levt gott på att veta att informella nätverk sällan vinner mot väldesignad offentlig sekvensering. Men han var inte dum nog att tro att de aldrig kunde ställa till skada.
+Berg vek ihop händerna. Han hade i tjugo år levt gott på att veta att lösa människor sällan vinner mot en välbyggd offentlig lansering. Men han var inte dum nog att tro att de aldrig kunde ställa till skada.
 
-"Därför behöver vi inte bara scenen," sa han. "Vi behöver också möjligheten att diskreditera hennes ingång."
+"Därför behöver vi inte bara scenen," sa han. "Vi behöver också kunna smutsa ner hennes väg in."
 
 "Fadern igen."
 
@@ -5962,7 +5962,7 @@ Berg kände motvilja mot människor som klarade sådana övergångar. De gick fr
 
 "Hur?"
 
-"Genom att låta henne se ut som någon som hellre spränger hela kedjan än låter ansvarig förvaltning ske. En lokal absolutist. En forskare som inte förstår hur offentligheten fungerar."
+"Genom att få henne att se ut som någon som hellre spränger allt än låter någon annan ta hand om det. En lokal extremist. En forskare som inte förstår hur offentligheten fungerar."
 
 Cecilia vände sig om. "Det där är nära sanningen nog för att vara effektivt. Det är också nära lögnen nog för att vara svårt att leva med."
 
@@ -5980,9 +5980,9 @@ Berg reste sig och gick till dokumentskåpet där staven låg i sitt fodral och 
 
 "Jag är räddare?"
 
-"Nej. Du tror fortfarande att rädsla är argument mot nödvändig sekvensering."
+"Nej. Du tror fortfarande att rädsla är ett skäl att inte göra det som krävs."
 
-Hon skrattade då, mjukt och trött. "Och du tror fortfarande att sekvensering är renare ord än manipulation."
+Hon skrattade då, mjukt och trött. "Och du tror fortfarande att planering låter renare än manipulation."
 
 Han lät det passera. Ordet renhet hade aldrig intresserat honom.
 
@@ -6012,7 +6012,7 @@ Det svaret nöjde henne inte. Det såg han.
 
 Berg tog då upp staven ur skåpet och lät den vila på bordet mellan dem. Bronsen drog svagt ljus ur morgonen som kom in genom fönstret.
 
-"Ser du den här?" sa han. "Folk kommer inte se modul, instruktion, överföring. De kommer se ålder, tyngd, rätt att tala. Det är det som är vårt arbete. Inte att hitta en oskyldig sanning. Utan att se till att den tolkning som kan bära världen längst också blir den som först får kropp."
+"Ser du den här?" sa han. "Folk kommer inte se markeringar, instruktioner eller hur något förts vidare. De kommer se ålder, tyngd och rätt att tala. Det är det vi arbetar med. Inte att hitta en oskyldig sanning, utan att se till att den version som håller längst också blir den första människor får i handen."
 
 Cecilia såg inte på honom nu. Hon såg på staven.
 
@@ -7207,7 +7207,7 @@ Det var kanske den bäst förklarade lokala politiken hon hört.
 
 De byggde kartan tillsammans på arbetsbänken. Inte bara över vägar utan över människor. Vem som såg vad från sin köksruta på kvällen. Vem som alltid tog hunden vid fem. Vem som hade ett barn som jobbade extra åt Stenporten. Vem som hatade Helena för att hon kallat byn "rå men formbar" på ett sponsormöte.
 
-Maja såg på nätet och tänkte igen på fadern. Om hur lätt hon hela livet reducerat hans metod till överdrift, när sanningen kanske varit att han visste något mycket svårt: att platskunskap nästan alltid är social innan den blir analytisk. Och att det just därför är så lätt för institutioner att stjäla den från människor som inte skriver rapporter.
+Maja såg på nätet och tänkte igen på fadern. På hur lätt hon hela livet gjort hans metod till ren överdrift, när sanningen kanske varit att han visste något mycket svårt: att platskunskap nästan alltid börjar i människors munnar, kök och minnen innan den hamnar i en rapport. Och att den därför är lätt att ta över för den som har kontor, pengar och rätt stämpel.
 
 Noah kom upp bredvid henne. "Var är du nu?"
 
@@ -7221,13 +7221,13 @@ Torkel ropade från andra sidan bordet. "Om ni två är klara med självkännedo
 
 Det bröt stämningen på exakt rätt sätt.
 
-Mot kvällen kom också Stina kort förbi med två utskrifter om modern Forn Sed-självförståelse och en enkel, skarp formulering Maja fick låna till slutläget om det behövdes: *levande tro är inte samma sak som påstådd obruten förvaltning av symboliskt kapital*. Maja tänkte först att formuleringen var för akademisk för scen. Sedan såg hon hur Stina själv strukit ett streck över halva meningen och skrivit:
+Mot kvällen kom också Stina kort förbi med två utskrifter om hur modern Forn Sed beskriver sig själv och en första formulering Maja kunde låna om hon behövde den i slutläget: *levande tro är inte samma sak som folk som påstår att de alltid haft rätt att äga symbolerna*. Maja tänkte först att även den var för lärd för scen. Sedan såg hon hur Stina själv strukit ett streck över halva meningen och skrivit:
 
 **ni tror inte, ni äger**
 
 Det var bättre. Hårdare. Mänskligare.
 
-När mörkret föll över Kåseberga låg byn inte stilla. Den arbetade. Någon drog igen en boddörr. Någon annan parkerade på fel plats och fick direkt tre blickar på sig. Långt uppe på åsen stod Ales stenar redan som mörk kontur mot himlen, men nu såg Maja dem inte bara som monument eller scen. Hon såg dem som slutpunkt i ett landskap fullt av människor som ännu kunde välja om de tänkte låta sig användas som stumma led eller inte.
+När mörkret föll över Kåseberga låg byn inte stilla. Den arbetade. Någon drog igen en boddörr. Någon annan parkerade på fel plats och fick direkt tre blickar på sig. Långt uppe på åsen stod Ales stenar redan som mörk kontur mot himlen, men nu såg Maja dem inte bara som monument eller scen. Hon såg dem som slutpunkt i ett landskap fullt av människor som ännu kunde välja om de tänkte stå tysta i bakgrunden eller säga ifrån.
 
 "Det här är kanske första gången i hela mitt liv jag faktiskt känner vad plats betyder utan att börja förklara bort det," sa hon lågt.
 
@@ -7907,7 +7907,7 @@ Maja vecklade ut kalkstensplattan på bordet och la bredvid den utskrifter från
 
 "Vad menar du?"
 
-"Se här." Hon pekade på instruktionerna längs nederkanten. "Det här är inte trosord. Det är arbetsord. Hur ledet ska markeras, hur bäraren ska stå, när visning ska ske, hur den som ser ska ledas från plats till plats. Praktisk koreografi. Senare händer har lagt på språk om vård, lydnad, ordning. Till slut ser det ut som sakral tradition fast det från början är logistik och överföring."
+"Se här." Hon pekade på instruktionerna längs nederkanten. "Det här är inte trosord. Det är arbetsord. Hur vägen ska markeras, hur bäraren ska stå, när visning ska ske, hur den som ser ska ledas från plats till plats. Praktisk koreografi. Senare händer har lagt på ord om vård, lydnad och ordning. Till slut ser det ut som helig tradition fast det från början bara var logistik för hur saker skulle föras vidare."
 
 Noah drog handen över ansiktet. "Bra. Då har vi exakt det vi behöver."
 
@@ -7915,7 +7915,7 @@ Noah drog handen över ansiktet. "Bra. Då har vi exakt det vi behöver."
 
 Hon kände allas blickar mot sig. Det var rättvist. Beslutet låg nu hos henne mer än någon annan, vare sig hon ville eller inte.
 
-"Vi har det som kan spräcka hennes berättelse," fortsatte hon. "Men bara om vi presenterar det i en ordning som människor kan ta emot innan hon hinner paketera oss som lokal skandal, skadad dotter eller akademisk detaljsekt."
+"Vi har det som kan spräcka hennes berättelse," fortsatte hon. "Men bara om vi lägger fram det i en ordning människor hinner ta emot innan hon hinner göra oss till lokal skandal, skadad dotter eller akademiskt specialfall."
 
 Ingrid kom in just då utan att knacka. Hon hade två plastkassar med mat i ena handen och Arvids sista block i den andra.
 
@@ -7993,7 +7993,7 @@ Inte propaganda. Inte läcka. Inte ren exposé.
 
 Ett sätt att bryta Helena på hennes egen scen utan att råmaterialet flög åt alla håll.
 
-Linnea strukturerade beviskedjan i tre steg: 1) Helena visar staven som om den bevisar obruten vård. 2) Maja bryter direkt med morgonstenen och instruktionstexterna som visar att formen är manuellt koreograferad, inte naturligt ärvd. 3) Noahs civila allierade och en kvarvarande lojal åklagarkontakt tar Berg och säkrar låda, original och logistikkedja när Helena förlorat publiken.
+Linnea la upp bevisen i tre steg: 1) Helena visar staven som om den bevisar obruten vård. 2) Maja bryter direkt med morgonstenen och instruktionstexterna som visar att allt är byggt för hand, inte nedärvt av sig självt. 3) Noahs civila allierade och en kvarvarande lojal åklagarkontakt tar Berg och säkrar låda, original och vägen in till scenen när Helena tappar publiken.
 
 Noah kallade det för en kontring på plats. Ingrid kallade det för att äntligen sluta låta andra formulera villkoren. Torkel kallade det för att ge fruntimret där uppe så mycket grus i munnen att hon inte kunde tala rent.
 
@@ -8298,7 +8298,7 @@ Maja satte sig vid arbetsbänken och tog ett nytt papper. På det skrev hon den 
 1. Låt Helena visa staven.
 2. Bryt med stenen.
 3. Läs instruktionen.
-4. Visa överföringen från bruk till kontroll.
+4. Visa hur det som en gång användes ute bland folk gjordes om till något några få tog kontroll över.
 5. Nämn de döda.
 6. Vägra både hennes centrum och rå läcka som första svar.
 7. Säkra materialen offentligt, inte privat.
@@ -8545,7 +8545,7 @@ Gryningen var bara ögonblicket då alla andra skulle tvingas märka det också.
 
 # 31. Publiken
 
-Vid 05.10 hade Ales stenar redan slutat vara plats och blivit apparat.
+Vid 05.10 hade Ales stenar redan slutat vara plats och blivit scenmaskin.
 
 Bilar stod i långa rader nere vid parkeringen. Tillfälliga strålkastare stod avstängda men färdiga. Kameraenheter bar utrustning mellan stativ som mörka insekter mot den grå ljusningen. Stenportens värdar viskade med pressfolk och försökte låta som om gårdagens död och nattens polisrörelser bara varit olyckliga störningar runt en större, noblare händelse.
 
@@ -8580,11 +8580,11 @@ Helena klev upp på plattformen exakt 05.31.
 
 Vinden tog i hennes kappa. Ljuset låg ännu under horisonten men var tillräckligt för att göra hennes ansikte läsbart. Hon såg inte nervös ut. Hon såg nästan tacksam ut. Som om platsen äntligen levererat det ögonblick hon byggt för.
 
-"Mina vänner," började hon, och den förstärkta rösten gled över gräset och mellan stenarna. "Vi samlas här inte för att äga det förflutna, utan för att lyssna till det som burit oss längre än våra egna institutioner, längre än våra egna konflikter..."
+"Mina vänner," började hon, och den förstärkta rösten gled över gräset och mellan stenarna. "Vi samlas här inte för att äga det förflutna, utan för att lyssna till det som burit oss längre än våra egna gräl och våra egna institutioner..."
 
 Maja kände nästan hur väl det fungerade. Inte som innehåll. Som rytm. Som ett erbjudande om att få stå i något större utan att först behöva ifrågasätta det.
 
-Helena fortsatte genom sin uppbyggnad med exakt den disciplin Cecilia beskrivit. Först plats. Sedan förlust. Sedan vård. Sedan löfte om återfunnen kontinuitet.
+Helena fortsatte exakt enligt den ordning Cecilia beskrivit. Först platsen. Sedan allt som gått förlorat. Sedan löftet om att någon tagit hand om det åt dem. Sedan påståendet att kedjan aldrig brustit.
 
 Vid 05.36 tog Berg ett steg fram och räckte henne staven.
 
@@ -8628,13 +8628,13 @@ Maja tog mikrofonen innan någon hann stoppa henne.
 
 Nedanför plattformen såg hon Noah röra sig till rätt position. Berg också, stelare nu, vaksam.
 
-"Den här stenen," sa Maja in i ljudet som nu bar över hela platsen, "är inte bevis för obruten helig vård. Den är instruktion. Arbetsyta. Överföringsmall. Den visar hur samma form flyttats, brutits ner och återanvänts för att göra lokal och praktisk kunskap till kontrollerad auktoritet."
+"Den här stenen," sa Maja in i ljudet som nu bar över hela platsen, "är inte bevis för obruten helig vård. Den är en instruktion. Den visar hur människor fört saker vidare, brutit upp gamla former och byggt om dem så att samma händer kunnat ta över både föremålen och rätten att tala för dem."
 
 Någon i publiken sa högt: "Vad betyder det ens?"
 
 Bra, tänkte Maja. Frågan hade börjat bli deras igen.
 
-Helena tog ett steg fram mot henne. "Ni förväxlar forskningsstrid med offentlig sanning."
+Helena tog ett steg fram mot henne. "Ni gör en forskarstrid av något människor behöver kunna förstå."
 
 "Nej," sa Maja, och tog fram kopian av avskriften. "Jag skiljer för första gången på dem."
 
@@ -8705,7 +8705,7 @@ Maja stoppade lappen i fickan. "Det är mer än många andra gjort."
 
 Cecilia svarade inte på det. Hon gick bara vidare mot presslinjen och blev i samma ögonblick åter den person alla förväntade sig se där: headset, kontroll, små tecken till kamerateam, vänlig kyla mot för sena gäster. Maja såg henne gå och tänkte att vissa människor aldrig blir mer naturliga än när de spelar den roll de äntligen beslutat att förråda.
 
-Hon vecklade ut sin egen lilla ordningslista en sista gång. 1. Låt Helena visa staven. 2. Bryt med stenen. 3. Läs instruktionen. 4. Visa överföringen från bruk till kontroll. 5. Nämn de döda. 6. Vägra både hennes centrum och rå läcka som första svar. 7. Säkra materialen offentligt, inte privat.
+Hon vecklade ut sin egen lilla ordningslista en sista gång. 1. Låt Helena visa staven. 2. Bryt med stenen. 3. Läs instruktionen. 4. Visa hur det som användes av många gjordes om till något några få tog kontroll över. 5. Nämn de döda. 6. Vägra både hennes centrum och rå läcka som första svar. 7. Säkra materialen offentligt, inte privat.
 
 En vindstöt tog nästan lappen ur hennes hand. Hon tänkte på fadern just då, inte sentimentalt utan med en torr sorts klarhet. Han hade alltid trott att det fanns ett ögonblick då omvärlden skulle höra allt han såg bara han hann bli tillräckligt glödande i kroppen. Hon tänkte inte göra det felet. Hon tänkte inte försöka vinna på intensitet. Hon tänkte vinna på ordning utan att bli ordningsdyrkare.
 
@@ -8919,13 +8919,13 @@ Därför läste hon inte först den längsta texten. Hon läste den kortaste.
 
 Hon lät orden falla ut över platsen innan hon fortsatte.
 
-"Inte troende. Inte folk. Inte arvtagare. Vårdaren. Den som vill göra sig själv till nödvändig mellanled mellan plats och publik."
+"Inte troende. Inte folk. Inte arvtagare. Vårdaren. Den som vill stå mellan platsen och publiken och bli personen alla måste gå genom."
 
 Ett kort ljud gick genom människomassan. Inte förståelse än. Men störning.
 
 Maja höll upp stenen så att de närmaste kamerorna kunde se ristningarna och de modulära markeringarna.
 
-"Det här är inte ett altarspråk. Det är ett arbetsspråk. Här ser ni hur något som människor använt i rörelse bryts ned och förs vidare. Först för silver, sigill, brev och små heliga fragment som inte tålde öppen kontroll. Sedan i kustkunskap. Sedan i rum som andra styr över. Sedan i offentlig scen. Samma sak händer om och om igen: något som levts görs om till berättelse som andra kan äga."
+"Det här är inte ett altarspråk. Det är ett arbetsspråk. Här ser ni hur människor fört silver, sigill, brev och små dyrbara saker från hand till hand utan insyn. Sen har samma väg använts för att ta över kustkunskap, gamla platser och till slut själva berättelsen om dem. Något som först levts av många görs om till något några få kan äga."
 
 Helena försökte ta tillbaka ljudrummet.
 
@@ -8937,13 +8937,13 @@ Inte bokstavligt först. Han gav tecken till den civila åklagarkontakten nere v
 
 Helena märkte rörelsen och gjorde sitt andra försök.
 
-"Ni ser hur snabbt detta blir maktspel," sa hon. "Just därför behövs ansvarig form."
+"Ni ser hur snabbt detta blir maktspel," sa hon. "Just därför behövs någon som håller ihop det."
 
-Maja gick tätt inpå henne nu, inte hotfullt men inom samma bild. "Nej. Det som behövs är att ingen ensam förvaltare får äga första tolkningen."
+Maja gick tätt inpå henne nu, inte hotfullt men inom samma bild. "Nej. Det som behövs är att ingen ensam person får sitta på första ordet."
 
 Hon höll upp en annan sida, den med orden *brukas utan att ägas*.
 
-"Det här dokumentet, och flera andra, visar att äldre monument och symboler medvetet togs ur lokal brukskedja och flyttades till säkrad hand så att de kunde användas utan att de som först bar dem längre kände igen sin egen hand i saken. Först gav det pengar, anspråk och tyst kontroll. Nu ska samma kedja ge ära, auktoritet och nationell betydelse åt samma sorts hand. Det är inte obruten helig kontinuitet. Det är övertagande."
+"Det här dokumentet, och flera andra, visar att äldre monument och symboler togs från människor som brukade dem och flyttades till händer med mer makt. Först gav det pengar, anspråk och tyst kontroll. Nu ska samma knep ge ära, auktoritet och nationell tyngd åt samma sorts hand. Det är inte obruten helig kontinuitet. Det är övertagande."
 
 En journalist längst fram ropade: "Har ni verifierat dateringen?"
 
@@ -8951,7 +8951,7 @@ Linnea svarade från sidan innan Helena hann. "Ja. Och kedjan är korsjämförd 
 
 En annan röst, längre bakifrån, Stina:
 
-"Och inget av detta ska förväxlas med modern Forn Sed-praktik eller samtida tro. Det här är förvaltat maktbruk."
+"Och blanda inte ihop detta med modern Forn Sed eller annan samtida tro. Det här handlar om människor som vill äga ord, föremål och scen."
 
 Bra, tänkte Maja igen. Mellanlederna talade själva nu. Inte genom Helena. Inte genom henne ensam.
 
@@ -8967,7 +8967,7 @@ Hon sparkade inte undan staven. Hon gjorde något värre.
 
 Hon lyfte upp den och la den ner bredvid morgonstenen, sida vid sida, så att kamerorna samtidigt såg föremålet och instruktionen som avslöjade dess bruk.
 
-"Det här," sa hon högt, "är hur berättelser kapas. Först får ni saken. Sedan känslan. Sedan personen som säger att ni måste gå genom henne för att förstå det ni ser. Men den mitten är inte neutral. Den är byggd. Gammal sidled för dyr last blev rätt att styra vad alla andra måste tro."
+"Det här," sa hon högt, "är hur en berättelse kapas. Först får ni saken i handen. Sedan känslan i kroppen. Sedan personen som säger att ni måste gå genom henne för att förstå det ni ser. Men den mitten är inte neutral. Den är byggd. En gammal väg för dyr last blev till slut rätten att bestämma vad alla andra ska tro."
 
 05.47 slog över platsen som ett tunt blad av ljus.
 
@@ -8983,11 +8983,11 @@ Helena insåg det före många andra. Hon försökte inte längre återta publik
 
 Maja höll inte kvar den. Hon höll i stället mikrofonen mellan dem.
 
-"Nej," sa hon. "För du vill fortfarande inte att den ska bli offentlig. Du vill att den ska passera genom dig först. Du vill vara kvinnan genom vars hand museum, departement och tv lär sig att detta betyder något."
+"Nej," sa hon. "För du vill fortfarande inte att den ska bli offentlig. Du vill att den ska passera genom dig först. Du vill vara kvinnan som museum, departement och tv måste gå genom för att förstå vad de ser."
 
 Det var där Helena till sist sprack öppet.
 
-"Naturligtvis!" sa hon, och rösten bar över platsen starkare än någon planerad retorik. "För annars gör ni den till byte! Förstår du ingenting om hur världen fungerar? Människor kan inte bära rå fragmentering! De kommer alltid välja vem som helst som erbjuder dem hel figur. Någon måste vara handen genom vilken det här blir nationellt begripligt! Jag valde bara att se till att figuren åtminstone blev hållbar!"
+"Naturligtvis!" sa hon, och rösten bar över platsen starkare än någon planerad retorik. "För annars gör ni den till byte! Förstår du inte hur världen fungerar? Människor bär inte högar av lösa delar. De följer den som ger dem en hel bild. Någon måste vara handen genom vilken det här blir begripligt för landet! Jag såg bara till att den bilden höll!"
 
 Tystnaden efteråt var enorm.
 
@@ -8995,7 +8995,7 @@ Inte för att alla plötsligt förstod allt. Men för att centrumet talat om sig
 
 Maja tog ett steg närmare, nästan sorgset nu.
 
-"Det är skillnaden mellan oss," sa hon. "Du tror att människor måste ledas in i en färdig berättelse. Jag tror att sanningen får tåla att vara ofärdig och ändå bäras öppet."
+"Det är skillnaden mellan oss," sa hon. "Du tror att människor måste ledas in i en färdig berättelse. Jag tror att sanningen får tåla att vara ofärdig och ändå sägas öppet."
 
 Helena stod mycket stilla. Ansiktet återtog långsamt kontroll, men för sent. Journalisterna hade redan hennes utbrott inspelat. Politikerna såg plötsligt ut som människor som försökte räkna ut hur fort man kan lämna en gryningsscen utan att synas fly.
 
@@ -9067,7 +9067,7 @@ Hon tänkte på fadern. På hur mycket av honom som nu skulle återvända i andr
 
 Noah såg på henne. "Nej."
 
-"Men det finns kanske bättre sätt att bära mellanlederna."
+"Men det finns kanske bättre sätt att bära det vidare."
 
 "Ja," sa han. "Särskilt om man gör det tillsammans."
 

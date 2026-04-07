@@ -12,13 +12,13 @@ Därför läste hon inte först den längsta texten. Hon läste den kortaste.
 
 Hon lät orden falla ut över platsen innan hon fortsatte.
 
-"Inte troende. Inte folk. Inte arvtagare. Vårdaren. Den som vill göra sig själv till nödvändig mellanled mellan plats och publik."
+"Inte troende. Inte folk. Inte arvtagare. Vårdaren. Den som vill stå mellan platsen och publiken och bli personen alla måste gå genom."
 
 Ett kort ljud gick genom människomassan. Inte förståelse än. Men störning.
 
 Maja höll upp stenen så att de närmaste kamerorna kunde se ristningarna och de modulära markeringarna.
 
-"Det här är inte ett altarspråk. Det är ett arbetsspråk. Här ser ni hur något som människor använt i rörelse bryts ned och förs vidare. Först för silver, sigill, brev och små heliga fragment som inte tålde öppen kontroll. Sedan i kustkunskap. Sedan i rum som andra styr över. Sedan i offentlig scen. Samma sak händer om och om igen: något som levts görs om till berättelse som andra kan äga."
+"Det här är inte ett altarspråk. Det är ett arbetsspråk. Här ser ni hur människor fört silver, sigill, brev och små dyrbara saker från hand till hand utan insyn. Sen har samma väg använts för att ta över kustkunskap, gamla platser och till slut själva berättelsen om dem. Något som först levts av många görs om till något några få kan äga."
 
 Helena försökte ta tillbaka ljudrummet.
 
@@ -30,13 +30,13 @@ Inte bokstavligt först. Han gav tecken till den civila åklagarkontakten nere v
 
 Helena märkte rörelsen och gjorde sitt andra försök.
 
-"Ni ser hur snabbt detta blir maktspel," sa hon. "Just därför behövs ansvarig form."
+"Ni ser hur snabbt detta blir maktspel," sa hon. "Just därför behövs någon som håller ihop det."
 
-Maja gick tätt inpå henne nu, inte hotfullt men inom samma bild. "Nej. Det som behövs är att ingen ensam förvaltare får äga första tolkningen."
+Maja gick tätt inpå henne nu, inte hotfullt men inom samma bild. "Nej. Det som behövs är att ingen ensam person får sitta på första ordet."
 
 Hon höll upp en annan sida, den med orden *brukas utan att ägas*.
 
-"Det här dokumentet, och flera andra, visar att äldre monument och symboler medvetet togs ur lokal brukskedja och flyttades till säkrad hand så att de kunde användas utan att de som först bar dem längre kände igen sin egen hand i saken. Först gav det pengar, anspråk och tyst kontroll. Nu ska samma kedja ge ära, auktoritet och nationell betydelse åt samma sorts hand. Det är inte obruten helig kontinuitet. Det är övertagande."
+"Det här dokumentet, och flera andra, visar att äldre monument och symboler togs från människor som brukade dem och flyttades till händer med mer makt. Först gav det pengar, anspråk och tyst kontroll. Nu ska samma knep ge ära, auktoritet och nationell tyngd åt samma sorts hand. Det är inte obruten helig kontinuitet. Det är övertagande."
 
 En journalist längst fram ropade: "Har ni verifierat dateringen?"
 
@@ -44,7 +44,7 @@ Linnea svarade från sidan innan Helena hann. "Ja. Och kedjan är korsjämförd 
 
 En annan röst, längre bakifrån, Stina:
 
-"Och inget av detta ska förväxlas med modern Forn Sed-praktik eller samtida tro. Det här är förvaltat maktbruk."
+"Och blanda inte ihop detta med modern Forn Sed eller annan samtida tro. Det här handlar om människor som vill äga ord, föremål och scen."
 
 Bra, tänkte Maja igen. Mellanlederna talade själva nu. Inte genom Helena. Inte genom henne ensam.
 
@@ -60,7 +60,7 @@ Hon sparkade inte undan staven. Hon gjorde något värre.
 
 Hon lyfte upp den och la den ner bredvid morgonstenen, sida vid sida, så att kamerorna samtidigt såg föremålet och instruktionen som avslöjade dess bruk.
 
-"Det här," sa hon högt, "är hur berättelser kapas. Först får ni saken. Sedan känslan. Sedan personen som säger att ni måste gå genom henne för att förstå det ni ser. Men den mitten är inte neutral. Den är byggd. Gammal sidled för dyr last blev rätt att styra vad alla andra måste tro."
+"Det här," sa hon högt, "är hur en berättelse kapas. Först får ni saken i handen. Sedan känslan i kroppen. Sedan personen som säger att ni måste gå genom henne för att förstå det ni ser. Men den mitten är inte neutral. Den är byggd. En gammal väg för dyr last blev till slut rätten att bestämma vad alla andra ska tro."
 
 05.47 slog över platsen som ett tunt blad av ljus.
 
@@ -76,11 +76,11 @@ Helena insåg det före många andra. Hon försökte inte längre återta publik
 
 Maja höll inte kvar den. Hon höll i stället mikrofonen mellan dem.
 
-"Nej," sa hon. "För du vill fortfarande inte att den ska bli offentlig. Du vill att den ska passera genom dig först. Du vill vara kvinnan genom vars hand museum, departement och tv lär sig att detta betyder något."
+"Nej," sa hon. "För du vill fortfarande inte att den ska bli offentlig. Du vill att den ska passera genom dig först. Du vill vara kvinnan som museum, departement och tv måste gå genom för att förstå vad de ser."
 
 Det var där Helena till sist sprack öppet.
 
-"Naturligtvis!" sa hon, och rösten bar över platsen starkare än någon planerad retorik. "För annars gör ni den till byte! Förstår du ingenting om hur världen fungerar? Människor kan inte bära rå fragmentering! De kommer alltid välja vem som helst som erbjuder dem hel figur. Någon måste vara handen genom vilken det här blir nationellt begripligt! Jag valde bara att se till att figuren åtminstone blev hållbar!"
+"Naturligtvis!" sa hon, och rösten bar över platsen starkare än någon planerad retorik. "För annars gör ni den till byte! Förstår du inte hur världen fungerar? Människor bär inte högar av lösa delar. De följer den som ger dem en hel bild. Någon måste vara handen genom vilken det här blir begripligt för landet! Jag såg bara till att den bilden höll!"
 
 Tystnaden efteråt var enorm.
 
@@ -88,7 +88,7 @@ Inte för att alla plötsligt förstod allt. Men för att centrumet talat om sig
 
 Maja tog ett steg närmare, nästan sorgset nu.
 
-"Det är skillnaden mellan oss," sa hon. "Du tror att människor måste ledas in i en färdig berättelse. Jag tror att sanningen får tåla att vara ofärdig och ändå bäras öppet."
+"Det är skillnaden mellan oss," sa hon. "Du tror att människor måste ledas in i en färdig berättelse. Jag tror att sanningen får tåla att vara ofärdig och ändå sägas öppet."
 
 Helena stod mycket stilla. Ansiktet återtog långsamt kontroll, men för sent. Journalisterna hade redan hennes utbrott inspelat. Politikerna såg plötsligt ut som människor som försökte räkna ut hur fort man kan lämna en gryningsscen utan att synas fly.
 
@@ -160,7 +160,7 @@ Hon tänkte på fadern. På hur mycket av honom som nu skulle återvända i andr
 
 Noah såg på henne. "Nej."
 
-"Men det finns kanske bättre sätt att bära mellanlederna."
+"Men det finns kanske bättre sätt att bära det vidare."
 
 "Ja," sa han. "Särskilt om man gör det tillsammans."
 

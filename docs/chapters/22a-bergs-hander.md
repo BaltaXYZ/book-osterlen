@@ -46,9 +46,9 @@ Det där fick honom faktiskt att titta upp ordentligt.
 
 "Lokala bärare. Modern. Fiskaren. Museifolk. Rasks kontakter. Sådant du alltid underskattar därför att det inte kommer i organisationsschema."
 
-Berg vek ihop händerna. Han hade i tjugo år levt gott på att veta att informella nätverk sällan vinner mot väldesignad offentlig sekvensering. Men han var inte dum nog att tro att de aldrig kunde ställa till skada.
+Berg vek ihop händerna. Han hade i tjugo år levt gott på att veta att lösa människor sällan vinner mot en välbyggd offentlig lansering. Men han var inte dum nog att tro att de aldrig kunde ställa till skada.
 
-"Därför behöver vi inte bara scenen," sa han. "Vi behöver också möjligheten att diskreditera hennes ingång."
+"Därför behöver vi inte bara scenen," sa han. "Vi behöver också kunna smutsa ner hennes väg in."
 
 "Fadern igen."
 
@@ -66,7 +66,7 @@ Berg kände motvilja mot människor som klarade sådana övergångar. De gick fr
 
 "Hur?"
 
-"Genom att låta henne se ut som någon som hellre spränger hela kedjan än låter ansvarig förvaltning ske. En lokal absolutist. En forskare som inte förstår hur offentligheten fungerar."
+"Genom att få henne att se ut som någon som hellre spränger allt än låter någon annan ta hand om det. En lokal extremist. En forskare som inte förstår hur offentligheten fungerar."
 
 Cecilia vände sig om. "Det där är nära sanningen nog för att vara effektivt. Det är också nära lögnen nog för att vara svårt att leva med."
 
@@ -84,9 +84,9 @@ Berg reste sig och gick till dokumentskåpet där staven låg i sitt fodral och 
 
 "Jag är räddare?"
 
-"Nej. Du tror fortfarande att rädsla är argument mot nödvändig sekvensering."
+"Nej. Du tror fortfarande att rädsla är ett skäl att inte göra det som krävs."
 
-Hon skrattade då, mjukt och trött. "Och du tror fortfarande att sekvensering är renare ord än manipulation."
+Hon skrattade då, mjukt och trött. "Och du tror fortfarande att planering låter renare än manipulation."
 
 Han lät det passera. Ordet renhet hade aldrig intresserat honom.
 
@@ -116,7 +116,7 @@ Det svaret nöjde henne inte. Det såg han.
 
 Berg tog då upp staven ur skåpet och lät den vila på bordet mellan dem. Bronsen drog svagt ljus ur morgonen som kom in genom fönstret.
 
-"Ser du den här?" sa han. "Folk kommer inte se modul, instruktion, överföring. De kommer se ålder, tyngd, rätt att tala. Det är det som är vårt arbete. Inte att hitta en oskyldig sanning. Utan att se till att den tolkning som kan bära världen längst också blir den som först får kropp."
+"Ser du den här?" sa han. "Folk kommer inte se markeringar, instruktioner eller hur något förts vidare. De kommer se ålder, tyngd och rätt att tala. Det är det vi arbetar med. Inte att hitta en oskyldig sanning, utan att se till att den version som håller längst också blir den första människor får i handen."
 
 Cecilia såg inte på honom nu. Hon såg på staven.
 

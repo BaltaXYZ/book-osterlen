@@ -8,7 +8,7 @@ Skäl: Matchar miljö, ton och researchbehov bäst.
 ## Beslut 002
 Fråga: Berättarform
 Beslut: Tät tredje person som huvudform
-Skäl: Ger stark thrillerintimitet utan att låsa informationshanteringen helt.
+Skäl: Ger stark thrillernärhet utan att låsa informationshanteringen helt.
 
 ## Beslut 003
 Fråga: Slutleverans
@@ -18,16 +18,16 @@ Skäl: Matchar användarens uttryckliga krav.
 ## Beslut 004
 Fråga: Stilnivå
 Beslut: Kommersiellt läsbar men intelligent
-Skäl: Följer briefens krav på tillgänglig men idéburen thriller.
+Skäl: Följer briefens krav på en tillgänglig thriller med skarpa idéer.
 
 ## Beslut 005
 Fråga: Våldsnivå
 Beslut: Vuxen thrillerintensitet utan exploaterande överdrift
-Skäl: Stämmer med “mörk men inte nihilistisk”.
+Skäl: Stämmer med kravet mörk men inte nihilistisk.
 
 ## Beslut 006
 Fråga: Nutida hednisk tro i romanen
-Beslut: Verkliga moderna trosgemenskaper behandlas respektfullt och skiljs tydligt från antagonistiskt maktbruk av symboler
+Beslut: Verkliga moderna trosgemenskaper behandlas respektfullt och hålls tydligt isär från romanens maktspel kring äldre symboler
 Skäl: Briefen kräver faktamässig och etisk återhållsamhet.
 
 ## Beslut 007
@@ -37,10 +37,10 @@ Skäl: Krav från projektinstruktionen.
 
 ## Beslut 008
 Fråga: Ormledens historiska funktion
-Beslut: Ormleden definieras som ett dubbelt system: först praktisk sidledsinfrastruktur för små högvärdesflöden, sedan arkiv- och tolkningssystem för att tvätta samma rörelser till legitim vård
-Skäl: Gör maktlogiken konkret och trovärdig utan att reducera romanen till ren smuggelhistoria.
+Beslut: Ormleden definieras i två steg: först ett sätt att flytta små dyrbara saker utanför öppen insyn, sedan ett sätt att få samma flyttar att se gamla, rena och rättmätiga ut
+Skäl: Gör maktlogiken konkret utan att reducera romanen till en enkel smuggelhistoria.
 
 ## Beslut 009
 Fråga: Helena Wredes drivkraft
-Beslut: Helenas nutida vinst förtydligas som personlig hunger efter offentlig konsekration, ära och ofrånkomlig centralitet efter ett vuxet liv av att ha byggt rum som andra fått äran för
-Skäl: Skärper antagonistens motiv och gör vårdarmakten begriplig som mer än en abstrakt idé.
+Beslut: Helenas nutida vinst förtydligas som hunger efter ära, centralitet och kontroll över den första offentliga berättelsen
+Skäl: Skärper antagonistens motiv och gör hennes mål begripliga på mänsklig nivå.

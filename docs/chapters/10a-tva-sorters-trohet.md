@@ -24,7 +24,7 @@ Stina såg framåt när hon svarade. "Du menar människor som inte själva tror 
 
 "Ja."
 
-"För att de tar två saker på allvar samtidigt som många andra gärna separerar. För det första att symboler fungerar i kropp och grupp långt innan de fungerar i argument. För det andra att människor hatar vakuum. Därför kan de bygga något som känns sant mycket fortare än en hederlig person hinner förklara varför det är ohederligt."
+"För att de tar två saker på allvar samtidigt som många andra gärna delar upp dem. För det första att symboler träffar kroppen innan de träffar huvudet. För det andra att människor hatar tomrum. Därför kan de bygga något som känns sant mycket fortare än en hederlig person hinner förklara varför det är falskt."
 
 Maja lät vinden slå sig tom i några sekunder. "Så Helena har rätt om problemet."
 
@@ -46,11 +46,11 @@ Maja svarade inte direkt.
 
 Stina stannade och vände sig mot henne. Bakom dem lyste hamnens lampor som suddiga gula märken i fukten.
 
-"Lyssna," sa hon. "Det finns en annan fälla här också. Du kan bli så upptagen av att Helena missbrukar språk om tro att du i praktiken börjar tala om all tro som missbrukad. Det vore lika slarvigt som hennes version, bara från andra hållet."
+"Lyssna," sa hon. "Det finns en annan fälla här också. Du kan bli så upptagen av att Helena missbrukar ord om tro att du börjar tala som om all tro vore ett missbruk. Det vore lika slarvigt som hennes version, bara från andra hållet."
 
 Maja kände genast igen träffen. "Jag vet."
 
-"Nej, du vet det teoretiskt. Men du bär fortfarande ett förakt för människor som låter mening arbeta i sig innan den passerar kontrollrutan."
+"Nej, du vet det i huvudet. Men du ser fortfarande ner på människor som låter något träffa dem innan de hunnit kontrollera det."
 
 Det där var närmast oförskämt. Och tyvärr för väl träffat för att kunna avfärdas.
 
@@ -62,7 +62,7 @@ De började gå igen. Maja tänkte på fadern. På hur ofta hon sagt till sig sj
 
 "Vad tror du då?" sa hon.
 
-Stina skrattade kort. "Den där frågan är alltid så hungrig när den ställs av forskare. Som om ni ska få en ren formel. Jag tror att människor behöver bruk där mening delas utan att någon ensam äger tolkningsrätten. Jag tror att tradition som vet att den är samtida är mindre farlig än institutioner som låtsas att de bara förvaltar det eviga. Och jag tror att de som skriker högst om obruten kedja nästan alltid försöker täcka över ett brott."
+Stina skrattade kort. "Den där frågan är alltid så hungrig när den ställs av forskare. Som om ni ska få en ren formel. Jag tror att människor behöver sätt att samlas där ingen ensam får bestämma vad allt betyder. Jag tror att tradition är mindre farlig när den vet att den levs nu, av människor nu. Och jag tror att de som skriker högst om obruten kedja nästan alltid försöker dölja ett brott."
 
 "Det sista gillar jag särskilt."
 
@@ -70,7 +70,7 @@ Stina skrattade kort. "Den där frågan är alltid så hungrig när den ställs 
 
 Maja stannade vid en sten och såg ner på det svarta vattnet som slog över tången.
 
-"Stenporten använder ord som vård, ordning, ansvar," sa hon. "Du använder bruk, delning, samtida. Min far använde ibland arv, ibland led. Jag använder överföring. Allt är språk för vem som får stå mellan plats och människa."
+"Stenporten använder ord som vård, ordning, ansvar," sa hon. "Du använder delning och samtid. Min far använde ibland arv, ibland led. Jag säger att något förs vidare. Allt handlar om vem som får stå mellan platsen och människorna."
 
 "Exakt," sa Stina. "Därför måste du vara väldigt försiktig om du vinner i morgon eller övermorgon eller när det nu sker. Om du bara gör Helena till lögnare och lämnar allt annat öppet kommer någon annan ta platsen som ny ren tolk."
 
@@ -122,7 +122,7 @@ Stina stannade vid trottoarkanten och drog huvan tätare. "Om ni går på dem nu
 
 "Vilket av allt?" sa Maja.
 
-"Att ni inte slåss mot tro. Ni slåss mot någon som vill äga hur andra människor ska känna inför det förflutna."
+"Att ni inte slåss mot tro. Ni slåss mot någon som vill bestämma hur andra människor ska känna inför det förflutna."
 
 Det var en liten mening, men den följde Maja in i bilen och blev kvar där längre än de andra denna natt.
 

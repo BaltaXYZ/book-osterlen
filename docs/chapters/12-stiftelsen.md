@@ -8,7 +8,7 @@ Hon stod under ett svart paraply utan att själv hålla i det; en yngre man i m�
 
 Noah bromsade inte ens farten när han gick fram. "Då har du otur."
 
-Maja följde två steg bakom och kände omedelbart den egendomliga friktionen i att se en människa hon redan förstått som funktion innan hon förstått henne som kropp. Helena Wrede rörde sig utan hastighet, vilket var ett maktmedel i sig. Allt i henne sa att andra fick justera takt efter hennes.
+Maja följde två steg bakom och kände omedelbart den egendomliga friktionen i att se en människa hon redan förstått som ett grepp innan hon förstått henne som kropp. Helena Wrede rörde sig utan hastighet, vilket var ett maktmedel i sig. Allt i henne sa att andra fick justera takt efter hennes.
 
 "Ni kallade hit oss?" sa Noah till Linnea, som stod vid porten.
 
@@ -34,7 +34,7 @@ De gick in i norra kammaren i själva borgen. Det gamla tegelgolvet låg mörkt 
 
 Maja stod still och såg hur linjen lades över tegelmönstrets diagonaler. Plötsligt blev Severins överläggning i telefonbilden begripligare. Det handlade inte om att två motiv råkade likna varandra. Det handlade om att ett senare byggt rum fångat upp och återanvänt en äldre rörelseform.
 
-"Det är inte bara jämförelse," sa hon. "Det är appropriering i byggd form."
+"Det här är inte bara en jämförelse," sa hon. "De har tagit en äldre form och byggt in den i sitt eget rum."
 
 Helena hörde henne och klev närmare, fortfarande skyddad av sitt paraply som nu blivit absurt inomhus men ändå inte ifrågasattes av mannen som höll det.
 
@@ -42,17 +42,17 @@ Helena hörde henne och klev närmare, fortfarande skyddad av sitt paraply som n
 
 "Ett exakt ord," sa Maja.
 
-Helena såg ner på kalklinjen. "Eller ett trött ord. Vi approprierar alltid det förflutna. Annars vore det dött material i mark. Det intressanta är inte att människor omformar äldre arv, utan hur väl de gör det."
+Helena såg ner på kalklinjen. "Eller ett trött ord. Människor tar alltid det förflutna i bruk. Annars ligger det bara kvar i marken. Frågan är inte om det sker, utan hur skickligt det görs."
 
 Noah tog ett steg mot henne. "Du står alltså här mitt i en mordutredning och håller föreläsning om kulturstrategi."
 
-"Jag står här mitt i ett haveri av offentlig kontroll," sa Helena lugnt. "Nils var en duglig man men inte stark nog att bära vad han trodde sig ha hittat. Nu fylls tomrummet av rykten om sekter och blodsoffer. Om ni inte snabbt får ordning på berättelsen kommer allt värdefullt i materialet drunkna."
+"Jag står här mitt i ett haveri av offentlig kontroll," sa Helena lugnt. "Nils var en duglig man men inte stark nog att bära vad han trodde sig ha hittat. Nu fylls tomrummet av rykten om sekter och blodsoffer. Om ni inte snabbt ser till att en tydlig version går ut kommer allt värdefullt i materialet drunkna."
 
 Maja kände hur ordet berättelsen slog mot alla ledtrådar de redan hade.
 
 "Ordning på berättelsen," upprepade hon.
 
-Helena mötte hennes blick fullt ut. "Ja. Ni säger det som om det vore skamligt. Jag säger det som om det vore civilisation."
+Helena mötte hennes blick fullt ut. "Ja. Ni säger det som om det vore skamligt. Jag säger att något måste hålla ihop det innan allting slits sönder."
 
 Ingen i rummet rörde sig.
 
@@ -90,7 +90,7 @@ Helena höjde ögonbrynen. "Vad menar ni?"
 
 Ett nästan omärkligt skifte gick genom hennes ansikte. Inte skuld. Snarare irritation över att frågan ställdes så direkt.
 
-"Nätverk byggs alltid runt idéer som är större än individen," sa hon. "Ni om någon borde förstå det. Eller kanske är det där er svaghet ligger, doktor Malm. Att ni fortfarande tror att sanning verkar av sig själv så länge den bara är exakt nog."
+"Människor samlas alltid runt något som känns större än en enda person," sa hon. "Ni om någon borde förstå det. Eller kanske är det där er svaghet ligger, doktor Malm. Att ni fortfarande tror att sanningen vinner av sig själv bara den är exakt nog."
 
 Maja sa inget. För varje sekund blev hon mer säker på två saker samtidigt: att Helena inte själv utfört våldet med händerna, och att våldet ändå var helt förenligt med hennes projekt.
 

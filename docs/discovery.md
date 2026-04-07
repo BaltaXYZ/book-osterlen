@@ -9,32 +9,32 @@ Fas: pågående men tillräckligt långt kommen för att låsa romanens kärna.
 - Leveransformat: kapitelvisa `.md`, sammanslaget `.md`, samt PDF
 
 ## Bindande regler extraherade ur briefen
-- Romanen ska vara en snabb, intelligent Österlenthriller med hög gåttäthet.
-- Huvudgåtan måste ha reell konsekvens.
-- Österlens nyckelplatser ska påverka handlingen fysiskt, logistiskt och symboliskt.
+- Romanen ska vara en snabb, intelligent Österlenthriller med tät gåtkedja.
+- Huvudgåtan måste få verkliga följder.
+- Österlens nyckelplatser ska påverka handlingen fysiskt, logistiskt och känslomässigt.
 - Fornnordiskt material ska vara realistiskt och disciplinerat hanterat.
-- Nutida trospraktik får finnas, men inte sensationaliseras.
+- Nutida trospraktik får finnas, men inte göras till skräckkuliss.
 - Huvudpersonen måste vara kunnig och utsatt.
 - En influence character måste utmana huvudpersonens invanda metod.
 - Kortkapitelsdriv, cliffhangers och återkommande omtolkningar är obligatoriska.
-- Klimax måste innehålla både yttre avgörande handling och inre/etiskt avgörande val.
+- Klimax måste innehålla både yttre avgörande handling och inre eller etiskt avgörande val.
 
 ## Bindande regler extraherade ur `style-guide.pdf`
 - Story goal ska vara tydligt och involvera många aktörer.
-- Consequence ska vara dramatisk nog att rättfärdiga hela romanens tryck.
+- Consequence ska vara hård nog att bära romanens tryck.
 - Requirements och forewarnings ska skapa växel mellan hopp och rädsla.
-- Costs och dividends ska skapa upplevd vikt och emotionell utdelning.
-- Prerequisites och preconditions ska göra vägen svårare utan att stanna berättelsen.
+- Costs och dividends ska ge vikt och känslomässig utdelning.
+- Prerequisites och preconditions ska göra vägen svårare utan att stoppa berättelsen.
 - Huvudpersonen måste vid klimax välja att stå fast eller förändras.
-- Influence character ska representera en genuin alternativ metod eller livshållning.
+- Influence character ska stå för en verklig alternativ metod eller livshållning.
 
 ## Bindande regler extraherade ur `thriller-style.md`
-- öppna med chock eller våldsamt avbrott
-- ledtrådar ska vara materiella, symboliska och platsbundna
-- det förflutna ska agera i nuet
-- stora frågor ska bottna i idékonflikt, inte bara kriminalgåta
-- tiden ska vara komprimerad
-- minst tre större omtolkningar ska finnas
+- öppna med chock eller ett våldsamt avbrott
+- låt ledtrådarna vara bundna till föremål, platser och texter
+- låt det förflutna slå direkt in i nuet
+- låt den stora frågan bottna i mer än själva mordgåtan
+- håll tiden komprimerad
+- låt minst tre större omtolkningar bära romanen
 
 ## Frågor sorterade i tre klasser
 
@@ -50,8 +50,8 @@ Fas: pågående men tillräckligt långt kommen för att låsa romanens kärna.
 ### Kan skjutas till senare iteration
 - exakt kapitelordlängd
 - exakt säsongsväder i enskilda scener
-- slutlig kapitelrubriknivå
-- vilka mindre bipersoner som behöver utvecklas vidare
+- slutlig nivå på kapitelrubrikerna
+- vilka mindre bipersoner som behöver växa mer
 
 ## Låsningsordning för romanens kärna
 1. Stor hemlighet
@@ -65,4 +65,4 @@ Fas: pågående men tillräckligt långt kommen för att låsa romanens kärna.
 9. Slutets etiska val
 
 ## Discoverybedömning
-Projektet är redo att gå vidare till story core och struktur, eftersom inga externa blockerare eller oklargjorda användarbeslut återstår som hindrar trygg planering.
+Projektet är redo att gå vidare till story core och struktur, eftersom inga externa blockerare eller oklara användarbeslut hindrar trygg planering.

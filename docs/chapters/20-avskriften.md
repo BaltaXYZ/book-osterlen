@@ -6,15 +6,15 @@ Rummet de fått för sig själva på stationen var egentligen för litet för fe
 
 Vid sju på morgonen hade Solveig gjort en grov datering. Linnea hade identifierat två olika senare händer i marginalerna. Maja hade börjat se den egentliga syntesen.
 
-"Det här är inte bara en enstaka stöld," sa hon, och hörde själv hur hes hennes röst blivit. "Det är en modell."
+"Det här är inte bara en enstaka stöld," sa hon, och hörde själv hur hes hennes röst blivit. "Det är samma handgrepp om och om igen."
 
 Hon pekade på tre texter samtidigt. I den ena: överföring från havets folk till säkrad hand. I den andra: markering om att tecken först måste tas ur bruk innan de kan ges rätt vård. I den tredje, senare marginalkommentaren: *kedjan skall förefalla äldre än den är*.
 
-"Där," sa hon. "Det är det avgörande. Inte bara att de tog material. De behövde också att själva överföringen såg naturlig, urgammal, nästan osynlig ut."
+"Där," sa hon. "Det är det avgörande. Inte bara att de tog saker. De behövde också att flytten skulle se gammal och självklar ut."
 
-"Som om berättelsen funnits där hela tiden," sa Noah.
+"Som om allt bara legat där och väntat," sa Noah.
 
-"Ja. Som om makten bara upptäckt det som alltid redan väntat på att erkännas."
+"Ja. Som om de inte stulit något alls, bara tagit hand om det som ändå borde bli deras."
 
 Linnea vände försiktigt ett blad till. "Toste-notisen här... den följs av ett namn till. En kvinna."
 
@@ -22,19 +22,19 @@ Maja böjde sig fram. En kort rad, nästan skymd av fläck:
 
 **hon som bar sjömärkesorden vidare skall ej lämnas i tal**
 
-"Inte bara en bärare alltså," sa Solveig. "En kedja av bärare."
+"Inte bara en person alltså," sa Solveig. "Flera som förde orden vidare."
 
 Det gjorde något med Maja. Inte sentimentalt. Mer som att ett mönster blev svårare att hålla rent från kroppar. Hon hade länge kunnat tänka på Arvid som ensam störning i familjehistorien, en privat överdrift. Nu stod hon mitt i en mycket äldre fråga om vem som bär mellanled när institutioner vill äta upp dem.
 
 Noah såg att hon gled iväg tankemässigt. "Var är du?"
 
-"Hos dem som förlorar varje gång sanningen måste paketeras för att få leva."
+"Hos dem som alltid blir av med något när sanningen först måste kläs upp för att få släppas fram."
 
 Han svarade inte direkt, men hans blick stannade kvar.
 
 Vid halv nio kom första juridiska slaget. David Åhs hade advokat. Cecilia drog tillbaka delar av sitt medgivande och började tala om sammanhang, rollmissförstånd och att polis pressat henne i ett känsligt medieläge. Regionledningen begärde tydligare motivering för fortsatt bred insats mot Stenporten.
 
-"De stramar upp narrativet redan," sa Noah och kastade ifrån sig meddelandet på bordet.
+"De håller redan på att snygga till sin version," sa Noah och kastade ifrån sig meddelandet på bordet.
 
 "Självklart," sa Solveig. "Vad trodde du?"
 
@@ -60,15 +60,15 @@ Maja tog upp bronsstaven igen. Under bättre ljus syntes de små tecknen längs 
 
 Hon tog fram förstoringsglaset från beviskitet och såg.
 
-"Inte inskrift i vanlig mening," sa hon. "Snarare positionsstöd. Minnesstöd. Som om staven hjälper bäraren att komma ihåg ordningen."
+"Inte inskrift i vanlig mening," sa hon. "Mer som stöd för minnet. Som om staven hjälper bäraren att komma ihåg i vilken ordning något ska visas eller föras vidare."
 
 "En fysisk prompt," sa Noah.
 
 "Ja. För en visning eller ledning."
 
-Solveig såg på föremålet med en forskares hunger som nästan blev barnslig. "Förstår du vad det betyder? Helena kan visa det där i gryningsljus, säga obruten sakral kedja och nästan ingen i publiken kommer kunna se skillnaden. Föremål är tyranniska. De vinner över fotnoter."
+Solveig såg på föremålet med en forskares hunger som nästan blev barnslig. "Förstår du vad det betyder? Helena kan hålla upp den där i gryningsljus, säga obruten helig kedja och nästan ingen i publiken kommer kunna se skillnaden. Föremål kör över fotnoter."
 
-"Därför måste vi visa fotnoten på rätt sätt," sa Maja.
+"Därför måste vi visa beviset på rätt sätt," sa Maja.
 
 Det var då Noahs telefon ringde från chefsåklagaren igen. Han lyssnade längre denna gång. Sa väldigt lite. När han la på hade ansiktet blivit tommare, vilket var värre än när det blev hårt.
 
@@ -88,7 +88,7 @@ Linnea svor rakt ut. Solveig gjorde ett ljud som lät gammalt.
 
 "Nu."
 
-I samma ögonblick förstod hon hela elegansen i det. Inte bara för att någon ville stoppa en besvärlig polis. Utan för att Noah var den person som börjat förena hennes läsning av struktur med hans läsning av människor och system. Ta bort honom, och kedjan sprack på nytt.
+I samma ögonblick förstod hon hela elegansen i det. Inte bara för att någon ville stoppa en besvärlig polis. Utan för att Noah var den som fått hennes sätt att läsa papper att gå ihop med hans sätt att läsa människor. Ta bort honom, och allt gled isär igen.
 
 "Vem tar över?" sa hon.
 
@@ -122,7 +122,7 @@ Noah stannade i dörren.
 
 Maja såg på bronsstaven, på lådan, på Helena i gryningsljus mellan stolar och kamera.
 
-"Hon tänker inte bara visa föremålet," sa hon. "Hon tänker göra sig själv till dess naturliga förvaltare i samma ögonblick."
+"Hon tänker inte bara visa föremålet," sa hon. "Hon tänker stå bredvid det i rätt ljus och få alla att tro att det hör hemma hos henne."
 
 "Ja," sa Noah. "Och när det väl hänt är det mycket svårare att få någon att se henne som tjuv."
 

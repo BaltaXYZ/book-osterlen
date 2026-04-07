@@ -92,7 +92,7 @@ Det var kanske den bäst förklarade lokala politiken hon hört.
 
 De byggde kartan tillsammans på arbetsbänken. Inte bara över vägar utan över människor. Vem som såg vad från sin köksruta på kvällen. Vem som alltid tog hunden vid fem. Vem som hade ett barn som jobbade extra åt Stenporten. Vem som hatade Helena för att hon kallat byn "rå men formbar" på ett sponsormöte.
 
-Maja såg på nätet och tänkte igen på fadern. Om hur lätt hon hela livet reducerat hans metod till överdrift, när sanningen kanske varit att han visste något mycket svårt: att platskunskap nästan alltid är social innan den blir analytisk. Och att det just därför är så lätt för institutioner att stjäla den från människor som inte skriver rapporter.
+Maja såg på nätet och tänkte igen på fadern. På hur lätt hon hela livet gjort hans metod till ren överdrift, när sanningen kanske varit att han visste något mycket svårt: att platskunskap nästan alltid börjar i människors munnar, kök och minnen innan den hamnar i en rapport. Och att den därför är lätt att ta över för den som har kontor, pengar och rätt stämpel.
 
 Noah kom upp bredvid henne. "Var är du nu?"
 
@@ -106,13 +106,13 @@ Torkel ropade från andra sidan bordet. "Om ni två är klara med självkännedo
 
 Det bröt stämningen på exakt rätt sätt.
 
-Mot kvällen kom också Stina kort förbi med två utskrifter om modern Forn Sed-självförståelse och en enkel, skarp formulering Maja fick låna till slutläget om det behövdes: *levande tro är inte samma sak som påstådd obruten förvaltning av symboliskt kapital*. Maja tänkte först att formuleringen var för akademisk för scen. Sedan såg hon hur Stina själv strukit ett streck över halva meningen och skrivit:
+Mot kvällen kom också Stina kort förbi med två utskrifter om hur modern Forn Sed beskriver sig själv och en första formulering Maja kunde låna om hon behövde den i slutläget: *levande tro är inte samma sak som folk som påstår att de alltid haft rätt att äga symbolerna*. Maja tänkte först att även den var för lärd för scen. Sedan såg hon hur Stina själv strukit ett streck över halva meningen och skrivit:
 
 **ni tror inte, ni äger**
 
 Det var bättre. Hårdare. Mänskligare.
 
-När mörkret föll över Kåseberga låg byn inte stilla. Den arbetade. Någon drog igen en boddörr. Någon annan parkerade på fel plats och fick direkt tre blickar på sig. Långt uppe på åsen stod Ales stenar redan som mörk kontur mot himlen, men nu såg Maja dem inte bara som monument eller scen. Hon såg dem som slutpunkt i ett landskap fullt av människor som ännu kunde välja om de tänkte låta sig användas som stumma led eller inte.
+När mörkret föll över Kåseberga låg byn inte stilla. Den arbetade. Någon drog igen en boddörr. Någon annan parkerade på fel plats och fick direkt tre blickar på sig. Långt uppe på åsen stod Ales stenar redan som mörk kontur mot himlen, men nu såg Maja dem inte bara som monument eller scen. Hon såg dem som slutpunkt i ett landskap fullt av människor som ännu kunde välja om de tänkte stå tysta i bakgrunden eller säga ifrån.
 
 "Det här är kanske första gången i hela mitt liv jag faktiskt känner vad plats betyder utan att börja förklara bort det," sa hon lågt.
 

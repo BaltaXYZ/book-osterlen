@@ -111,7 +111,7 @@ Maja satte sig vid arbetsbänken och tog ett nytt papper. På det skrev hon den 
 1. Låt Helena visa staven.
 2. Bryt med stenen.
 3. Läs instruktionen.
-4. Visa överföringen från bruk till kontroll.
+4. Visa hur det som en gång användes ute bland folk gjordes om till något några få tog kontroll över.
 5. Nämn de döda.
 6. Vägra både hennes centrum och rå läcka som första svar.
 7. Säkra materialen offentligt, inte privat.
