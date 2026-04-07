@@ -18,7 +18,7 @@ Maja såg det direkt när bilen stannade i halvmörkret bakom de gamla sjöbodar
 
 Cecilia nästan log. "Det där är mer elakt än jag trodde du hade ork till utan tjänsteleg."
 
-Maja höll sig tyst först. Hon ville höra Cecilias röst utan att tvinga in den i förhörsform för tidigt. De stod mellan bodväggar som luktade salt trä och gammalt nät, med de första mycket bleka tecknen på morgon bakom åsen.
+Maja höll sig tyst först. Hon ville höra Cecilias röst utan att tvinga in den i förhörsform för tidigt.
 
 "Börja," sa hon till sist. "Inte med skuld. Med scen."
 
@@ -32,21 +32,15 @@ Cecilia såg trött på henne. "Du gjorde precis det där Nils gjorde."
 
 "Gör om det."
 
-Cecilia drog fingrarna genom håret. "Okej. Helena går upp först och får publiken att känna att de står inne i något äldre än dem själva. Berg lämnar staven när alla redan tittar åt rätt håll. Det viktiga är inte vad den är i sig, utan att den kommer in efter hennes förtal om vård. Då verkar det som om föremålet bekräftar hennes rätt att tala."
+Cecilia drog fingrarna genom håret. "Okej. Helena går upp först och får publiken att känna att de står inne i något äldre än dem själva. Berg lämnar staven när alla redan tittar åt rätt håll. Sedan visar hon A. Inte länge. Bara länge nog för att ord som 'privilegiebrev', 'ärftlig linje' och 'återtagen rätt' ska hinna fästa."
 
-"Bra," sa Maja.
+"Och lådan?" sa Noah.
 
-"Sedan öppnas lådan."
+"I den ligger kopior, förstoringar och ett kortfattat svenskt referat av A. Det ska se ut som om allt material pekar åt samma håll fast ni och jag vet att det gör tvärtom."
 
-"Vad finns i lådan?" sa Noah.
+"När kommer jag in?" sa Maja.
 
-"Det ni tror och det ni inte tror. En utvald del av Bok II, kopior snarare än original, och två fotografiska överläggningar som ska få det att se ut som om hela kedjan alltid pekat mot just Ales stenar som kulmination. Inget i sig är rent falskt. Men ordningen ljuger."
-
-Det där var så Cecilia att Maja nästan fysiskt kände igen strukturen i henne: en människa som byggt karriär på att förstå att ordning kan vara mer lögnaktig än enskilda fakta.
-
-"Och var kommer jag in?" sa Maja.
-
-"I deras interna krismanus? Tidigt om du går fram före staven, senare om du bryter efter lådan. Helena föredrar senare. Hon tror att du då ser mer bitter ut och mindre kontrollerad."
+"I deras interna krismanus? Tidigt om du går fram före A, senare om du bryter efter att A redan hunnit ses. Helena föredrar senare. Hon tror att du då ser mer bitter ut och mindre kontrollerad."
 
 "Hon underskattar fortfarande dig," sa Noah.
 
@@ -56,9 +50,39 @@ Den meningen stannade kvar hos Maja.
 
 "När fattade du det?" sa hon.
 
-Cecilia såg mot havet, inte mot dem. "Sent. Inte när Nils dog, om det är vad du hoppas på. Inte heller när Eva föll. Det var en kväll med ett pressutkast. Helena sa att folk måste tro att bilden är deras egen, annars fungerar den inte. Då hörde jag plötsligt hur hon pratade om dem." Hon andades ut. "Och om mig. Och om sig själv. Som någon som bestämt att hon aldrig mer tänkte bygga rum där professorer och ministrar fick första citatet."
+Cecilia såg mot havet, inte mot dem. "Sent. Inte när Nils dog, om det är vad du hoppas på. Inte heller när Eva föll. Det var när jag såg `Olofslinjen` i sin fulla version."
 
-Noah sa inget. Maja gjorde det:
+Maja höll mycket stilla.
+
+"Vad i den?"
+
+Cecilia skrattade kort utan glädje. "Att det aldrig stannade vid scenen. Retreatkorridoren. Anspråken mot stiftet. Formuleringarna om att församlingarna måste blöda för att förlikning ska bli möjlig. Planen för att köpa ut arrendatorer och kalla det ordnad omställning."
+
+Noah sa: "Det räcker för att vända."
+
+"Inte för mig då," sa Cecilia. "Jag var redan för bra på att kalla sådant strategi. Det var bilagorna som gjorde det omöjligt att fortsätta."
+
+"Vilka bilagor?" sa Noah.
+
+"Bolagen. Holdingledet. Optionsutkasten. Wrede Kapitalförvaltning. Då fattade jag att Stenporten inte var hela maskinen."
+
+Maja sa ingenting. Noah gjorde det.
+
+"Och sen?"
+
+"Sen såg jag arbetsbladen. Fågeltofta. Virrestad-Killeröd. Gislövshammar i logistikkolumnen. Prospektörer, täktfönster, upplag. Hon tänker inte bara stänga landskapet. Hon tänker öppna det för grävning."
+
+Maja kände hur nattluften blev tunnare.
+
+"Du är säker?"
+
+"Ja. Och innan du frågar: nej, det betyder inte att hon får börja borra i Stenshuvud i morgon. Hon vet mer juridik än så. Det är det som är så vidrigt. Hon behöver inte allt. Hon behöver tillräckligt mycket mark, tillträde och processläge för att andra bolag ska kunna gå in och göra resten."
+
+"Så Stenporten..." började Noah.
+
+"...är fasaden," sa Cecilia. "Inte hela maskinen."
+
+Maja såg på henne länge.
 
 "Och ändå stannade du."
 
@@ -68,27 +92,25 @@ Det fanns ingen sentimentalitet i rösten. Bara en precision som gjorde den mer 
 
 "Vad gör Berg om Helena tappar bildkontrollen?" sa Noah.
 
-"Försöker reducera allt till stökig lokal konflikt. Han har formuleringar för det. Affektmaterial. Familjekompensation. Regional övertolkning."
+"Försöker reducera allt till stökig lokal konflikt. Affektmaterial. Familjekompensation. Regional övertolkning."
 
 Maja nickade. "Då får han inte tala länge."
 
-"Nej," sa Cecilia. "Och ni får absolut inte låta Helena börja debattera högt om tolkning i allmänhet. Då vinner hon på tonläge även om innehållet går henne emot."
-
-Det där var nyttigt. Och obehagligt. Så mycket av den sista striden skulle inte avgöras i vad som var sant utan i vilken rytm sanningen fick träda fram.
+"Nej," sa Cecilia. "Och ni får absolut inte låta Helena börja debattera tolkning i allmänhet. Då vinner hon på tonläge även om innehållet går henne emot."
 
 "Hur låter hon när hon tappar kontrollen?" frågade Maja.
 
-Cecilia log den här gången utan glädje. "Rakare. Hon slutar låtsas att hon bara hjälper till och säger rakt ut att någon måste hålla ihop folk åt dem. Får du henne dit offentligt är hon körd."
+Cecilia log den här gången utan glädje. "Rakare. Hon slutar låtsas att hon bara hjälper till och säger rakt ut att någon måste få ordning på landskapet. Att småbruk, fri rörlighet och lokalromantik är ineffektivt. Att marken måste samlas. Att kyrkan måste pressas. Får du henne dit offentligt är hon körd."
 
-Maja tänkte på faderns lapp om vårdaren. På hur mycket av hela kedjan som just handlat om att göra en sådan person naturlig. Inte bara stark. Naturlig.
+Maja tänkte på B. På klausulen. På `Olofslinjen`. På bilagan.
 
-"Då räcker det inte att visa stenen," sa hon. "Jag måste få fram vårdaren också."
+"Då räcker det inte att visa brevet," sa hon. "Jag måste få fram Helena själv. Och bolagen."
 
 Cecilia såg på henne med något som liknade respekt, eller kanske lättnad över att inte längre behöva bära förklaringen ensam.
 
 "Ja."
 
-De gick igenom talen en gång till. Helena började med plats, gick till förlust, sedan till vård. Maja måste bryta vid vård, inte före. Cecilia visade på sin mobil exakt när kamerorna skulle gå i närbild och hur Maja behövde röra sig för att åtminstone två av dem skulle tvingas ta in stenen i samma bild som Helena.
+De gick igenom talen en gång till. Helena började med plats, gick till förlust, sedan till trohet, sedan till A. Maja måste bryta efter A, inte före. Cecilia visade på sin mobil exakt när kamerorna skulle gå i närbild och hur Maja behövde röra sig för att åtminstone två av dem skulle tvingas ta in B i samma bild som Helena.
 
 "Det här är absurt," sa Noah efter några minuter.
 
@@ -100,26 +122,6 @@ Maja kunde inte låta bli ett kort, torrt skratt.
 
 Det var kanske den mest användbara dialogråd Maja fått i hela sitt liv. Och den kom från fel människa vid sämsta möjliga tid.
 
-"Varför gav Helena dig så mycket?" sa hon.
-
-Cecilia såg ner på sina händer. "För att jag var bra nog att få allting att se enkelt ut. Och för att sådana som hon alltid tror att den som gör formen vacker också vill leva i den. Helena tålde inte längre att professorn, ministern eller kulturchefen tog första citatet medan hon själv tackades för ramen. Hon gav mig så mycket för att hon behövde någon som kunde göra hennes egen uppstigning till självklar."
-
-Maja tänkte på sin egen disciplin, sin egen dragning mot ren form. Där fanns något farligt nära, även om riktningen inte var densamma. Kanske var det därför hon så snabbt förstått Cecilia på vissa punkter och avskytt henne på andra.
-
-Noah fick ett meddelande under tiden och läste det direkt.
-
-"Torkel säger att de börjar bära upp extra stolar från förrådet nu. Han ser också en mörk bil längre ned som inte hör hemma där."
-
-"Helena är tidig," sa Cecilia.
-
-"Varför?" sa Maja.
-
-"För att hon inte litar på morgonfolk när något redan börjat spricka. Hon vill stå i marken själv innan ljuset kommer."
-
-De blev tysta alla tre.
-
-Det var då Maja såg något annat i Cecilia. Inte bara skuld eller spricka. Trötthet av den sort som uppstår när någon länge låtit sin skicklighet tillhöra fel centrum och nu för första gången måste använda samma verktyg mot det. Och under den, kanske, insikten att Helena inte bara byggt en lögn utan försökt göra sig själv till dess helgonförklarade mittpunkt.
-
 "Du följer inte med upp?" sa Maja.
 
 Cecilia skakade på huvudet. "Jo. Jag måste. Annars vet hon innan ni vet att jag vänt. Men jag går in som om inget ändrats. Förstår du?"
@@ -130,26 +132,6 @@ Cecilia skakade på huvudet. "Jo. Jag måste. Annars vet hon innan ni vet att ja
 
 Det var första gången Cecilia använde hennes förnamn utan titel.
 
-"När du står där, tala inte som för jurister. Tala som för människor som precis blivit lurade i sin egen kropp. Annars får hon dem tillbaka."
+"När du står där, tala inte som för jurister. Tala som för människor som precis blivit lurade i sin egen kropp. Och visa dem vad hon tänker bygga när hon väl vunnit. Inte bara vad hon ljugit om bakåt. Visa dem vägarna, upplagen, borrningarna, stängslen."
 
 Maja nickade. Inte för att hon fullt visste hur ännu. Men för att hon nu visste att hon måste försöka.
-
-När Cecilia gått stod Noah och Maja kvar i halvmörkret mellan bodarna.
-
-"Litar du på henne?" sa han.
-
-"Tillräckligt."
-
-"Inte ett svar."
-
-Maja såg upp mot vägen där de första gryningssvaga skiftningarna började dra i himlen ovanför Kåsebergas tak.
-
-"Jag litar på att hon vet exakt hur man bygger en lögn med sanningsfragment," sa hon. "Och att hon nu vill göra något annat med den kunskapen än i går."
-
-Noah nickade. "Det räcker."
-
-Maja stoppade telefonen i fickan, tog ett djupt andetag av kall, salt luft och tänkte att vissa människor blir farligast precis när de äntligen talar sant. Cecilia var kanske en av dem. Helena definitivt.
-
-Det betydde att nästa timme inte längre bara handlade om fynd, scener och ljus.
-
-Den handlade om vilken sorts röst sanningen själv skulle få låna.

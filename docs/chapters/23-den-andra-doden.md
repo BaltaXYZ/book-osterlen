@@ -18,7 +18,7 @@ Noah lyste över golvet. "De har varit här mycket nyligen."
 
 På cementen låg ännu våta fotspår. Tre personer, minst. En av dem med smalare sko. Den sortens detalj som kanske betydde Cecilia, kanske inte.
 
-Maja drog isär de rivna bladen så gott det gick. På ett stod ett namn hon inte kände igen, följt av orden *vårdare för scenisk återgivning* i en senare hand. På ett annat: *Ales sista bild skall ej möta motröst från bärarkedjan*. På ett tredje, halvt sönderrivet, syntes bara:
+Maja drog isär de rivna bladen så gott det gick. På ett stod ett namn hon inte kände igen, följt av orden *bärare för scenisk återgivning* i en senare hand. På ett annat: *Ales sista bild skall ej möta motröst från bärarkedjan*. På ett tredje, halvt sönderrivet, syntes bara:
 
 **E.H. vägrar**
 

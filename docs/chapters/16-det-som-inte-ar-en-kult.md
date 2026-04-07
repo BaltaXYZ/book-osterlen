@@ -20,7 +20,7 @@ Linnea pekade på Glimmingehusbilden. "Golvet där inne ser ut som pynt om man t
 
 Noah kom närmare. "Och på vanlig svenska?"
 
-Linnea lät inte ens bli att himla med ögonen. "De tog något som fungerade ute på plats och gjorde det till inomhusordning. Från händer och vägar till golv och ägande."
+Linnea lät inte ens bli att himla med ögonen. "De tog något som fungerade ute på plats och gjorde det till inomhusordning. Från händer och vägar till golv, nycklar och ensamrätt."
 
 Maja kände hur allt i henne ställde in sig på samma punkt.
 
@@ -32,11 +32,11 @@ Noah såg mellan dem. "Så Helena försöker inte väcka någon gammal kult."
 
 "Nej," sa Maja.
 
-"Hon försöker sälja känslan av en."
+"Hon försöker använda känslan av en."
 
 "Ja."
 
-"På material som redan en gång användes för att ta över äldre lokal kunskap."
+"För att komma in i rum hon annars inte hade släppts in i."
 
 Linnea nickade hårt. "Exakt."
 
@@ -46,7 +46,7 @@ Inte hemlig levande tro.
 Inte obruten kult.
 Inte ens i första hand en mördad antikvarie och en stulen låda.
 
-Det centrala var att samma grepp upprepats genom seklerna: först flytta silver, sigill, privilegiebrev, relikfragment och annan liten dyrbar last vid sidan av öppen bokföring, sedan ta samma vägar, samma gamla platser och samma lokala kunskap och få allt att se gammalt, rent och rättmätigt ut i några få händer. Helena Wrede var inte arvtagare till en förkristen orden. Hon hade ärvt själva stöldtricket.
+Det centrala var att samma grepp upprepats genom seklerna: först flytta silver, sigill, privilegiebrev, rättelser och annan liten dyrbar last vid sidan av öppen bokföring, sedan skilja det äldre från det som begränsade det, och till sist få tillträdet till de avgörande platserna att se fromt, lärt och ofarligt ut. Helena Wrede var inte arvtagare till en förkristen orden. Hon hade ärvt själva öppningstricket.
 
 Maja satte båda händerna mot bordskanten tills knogarna vitnade.
 
@@ -60,7 +60,7 @@ Noah såg på henne. "Säg det rent."
 
 Hon gjorde det.
 
-"Han dog inte för att han hittade bevis på gammal tro. Han dog för att han hittade bevis på hur mäktiga människor först gömde dyr last vid sidan av all insyn och sedan gjorde samma väg till rätt att tala för det förflutna."
+"Han dog inte för att han hittade bevis på gammal tro. Han dog för att han hittade bevis på hur mäktiga människor först gömde dyr last vid sidan av all insyn, sedan skilde dokument från dokument och till sist lånade heligt språk för att komma in igen utan att någon stoppade dem."
 
 Orden låg kvar i rummet efteråt som om de ändrat lufttrycket.
 
@@ -70,15 +70,15 @@ Hon tog fram en katalogpost Maja inte sett tidigare. En torr, byråkratisk noter
 
 "Privat vård i herrskaplig hand," sa Noah. "Det låter som stöld i fin rock."
 
-"Ja," sa Linnea. "Först flytta i tysthet. Sen komma tillbaka med rätt ord, rätt publik och rätt person bredvid. Och här." Hon visade en senare marginalanteckning i annan hand. "Tillbaka först när scenen är klar."
+"Ja," sa Linnea. "Först flytta i tysthet. Sen komma tillbaka med rätt ord, rätt symbol och rätt person bredvid. Och här." Hon visade en senare marginalanteckning i annan hand. "Tillbaka först när arbetsfönstret är säkrat."
 
-Noah drog in luft. "Scen igen."
+Noah drog in luft. "Inte scen. Fönster."
 
 Maja pekade på ordet *föremålet*. "De har haft en fysisk kärna i kedjan hela tiden. Något som flyttats, dolts, presenterats i olika former."
 
 "Lådan," sa Noah.
 
-"Kanske inte bara lådan. Kanske det som lådan innehåller. Men lådan är den nuvarande scenbäraren."
+"Kanske inte bara lådan. Kanske det som lådan innehåller. Men lådan är den nuvarande nyckelbäraren."
 
 Han slog handflatan mot bordet en gång, inte hårt, mer för att låsa beslutet i kroppen.
 
@@ -94,13 +94,13 @@ Noah såg upp.
 
 "Du tror att lådan inte längre är hos dem."
 
-"Jag tror att 05.47 inte är ett avslöjande. Det är en installation. Om hon vill ha total kontroll sätter hon inte det centrala objektet i ett lägenhetsförråd och hoppas på tur."
+"Jag tror att 05.47 inte är ett avslöjande. Det är en sista ridå. Om hon vill ha total kontroll sätter hon inte det centrala objektet i ett lägenhetsförråd och hoppas på tur."
 
-Linnea nickade långsamt. "Då måste ni tänka som någon som arbetar med scenrum."
+Linnea nickade långsamt. "Då måste ni tänka som någon som arbetar med tillträde."
 
 "Säg," sa Noah.
 
-"Förberedelse nära plats men inte på plats. Någonstans med logistisk åtkomst, låsbar yta och låg misstänksamhet."
+"Förberedelse nära plats men inte på plats. Någonstans med logistisk åtkomst, låsbar yta och låg misstänksamhet. En plats där kulturarbete ser naturligt ut och där ingen omedelbart tänker att någon i själva verket letar efter dokument."
 
 Maja tänkte direkt på Kåseberga. Hamnen. Magasin. Tillfälliga eventförråd. Men också på Glimmingehus som mellanlager. Och då, plötsligt, på något Helena sagt:
 
@@ -114,7 +114,7 @@ Inte arkiv, inte hamn, inte skåpbil. Ett rum nära scen men tillräckligt civil
 
 Noah blinkade. "Vad?"
 
-"Eller servicehuset intill parkeringen. Någon lokal som redan används för evenemangslogistik, catering, talargenomgångar. Något ingen polis automatiskt kallar fyndplats."
+"Eller servicehuset intill parkeringen. Någon lokal som redan används för evenemangslogistik, tillfälligt arbete, talargenomgångar. Något ingen polis automatiskt kallar fyndplats."
 
 Han tog upp telefonen direkt.
 

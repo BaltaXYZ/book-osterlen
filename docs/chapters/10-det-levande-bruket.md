@@ -28,25 +28,35 @@ Stina läste länge innan hon svarade.
 
 "Fungerar hur?" sa Noah.
 
-"Som show. Inte som levande tradition."
+"Som arbetskort," sa Stina. "Som något man kan hålla upp när man vill få tillträde utan att behöva säga allt man egentligen gör."
+
+Maja såg upp.
+
+Stina pekade på programbladet.
+
+"Om du kommer som entreprenör, markutvecklare eller jurist med dålig andedräkt får du vänta i foajén. Om du kommer som kulturprojekt med ord som heligt landskap, obruten linje och återläsning av äldre bruk..." Hon ryckte lätt på axlarna. "Då öppnas kyrkorum efter stängning. Då får du gå ner i magasin. Då får du fem minuter extra vid ett murverk medan andra är artiga nog att låta bli att stå bredvid."
+
+Noah såg på Maja. "Så det handlar inte bara om show."
+
+"Nej," sa Stina. "Showen är bonusen. Det verkliga värdet är nycklarna."
 
 Maja pekade på en av raderna i programmet där Stenporten talade om *obruten nattväktad linje genom generationer av skyddare*.
 
 "Det här?"
 
-Stina nästan himlade med ögonen. "Ingen seriös nutida Forn Sed-miljö jag känner till skulle uttrycka sig så. Det luktar säljtext. Den sortens språk får människor att känna att de står nära något förbjudet och därför särskilt sant."
+Stina nästan himlade med ögonen. "Ingen seriös nutida Forn Sed-miljö jag känner till skulle uttrycka sig så. Det luktar säljtext. Men inte bara säljspråk. Det luktar också någon som behöver få ett arbete att se vördnadsfullt nog ut för att andra människor ska backa."
 
-Noah såg på Maja. "Exakt vad du sa om scen."
+"Backa?" sa Noah.
 
-Stina fortsatte: "Modern hednisk tro i Sverige är inte obruten järnålder. Det vet alla vuxna som håller på med den. Den levs nu, av människor som lever nu. När någon tjatar om en hemlig obruten kedja ska man nästan alltid fråga vem som vill vinna på att det låter så gammalt."
+"Ja. Inte störa. Inte fråga för tidigt. Inte kräva att få se vad som egentligen letas efter."
 
-Maja lät fingret vila på programmet. "Helena Wrede tjänar på den."
+Maja lät fingret vila på programmet. "Helena Wrede tjänar på den sortens språk."
 
 "Då är jag inte förvånad."
 
 Noah höjde blicken. "Du känner till henne?"
 
-"Av rykte. Hon gillar att bjuda in, rama in och sätta ord på andra människors arbete tills det låter som att hon själv upptäckt världen. Jag har hört om minst två projekt där andra fick stå som upptäckare medan Helena tackades för kuratorisk samordning och vackert programblad. Sådant gör något med människor. Det finns folk inom små trosmiljöer som dragits till hennes pengar och synlighet. Det betyder inte att de står för hennes tolkningar."
+"Av rykte. Hon gillar att bjuda in, rama in och sätta ord på andra människors arbete tills det låter som att hon själv upptäckt världen. Jag har också hört om platser där hon fått märkligt generösa tidsfönster. Särskilda kvällsvisningar. Tillgång till stängda rum. Extra förtroende från präster eller fastighetsägare därför att hon kommit med rätt sorts kulturtonfall." Stina såg mellan dem. "Det behöver inte vara brottsligt för att vara ett mönster."
 
 Det var viktigt. Den lockande, felaktiga förklaringen rann av bordet: hemlig levande kult. Kvar blev något bättre och värre. Nutida människor. Nutida nätverk. Nutida händer på äldre material.
 
@@ -56,7 +66,7 @@ Det var viktigt. Den lockande, felaktiga förklaringen rann av bordet: hemlig le
 
 "Och om den egentliga betydelsen är rörelse? Led? Bana?" sa Maja.
 
-Stina såg upp skarpt. "Då har någon använt ett laddat ord för att gömma praktisk kunskap om hur man rör sig och flyttar saker. Det vore inte första gången. Men då talar vi inte om helig kärna. Vi talar om människor som döljer ett handgrepp bakom rätt ord."
+Stina såg upp skarpt. "Då har någon använt ett laddat ord för att gömma praktisk kunskap om hur man rör sig, flyttar saker och öppnar rum utan att väcka fel sorts uppmärksamhet. Det vore inte första gången. Men då talar vi inte om helig kärna. Vi talar om människor som döljer ett handgrepp bakom rätt ord."
 
 Noah tog fram minnesstickan men la den inte på bordet än. "Om vi hittar material som visar att någon nutida aktör medvetet bygger en offentlig lögn på äldre symbolmaterial, hur hårt kan det slå mot faktiska moderna trosutövare?"
 
@@ -90,7 +100,7 @@ Cecilia Torn.
 
 Stina drog in luft långsamt. "Då är ni långt förbi symbolmissbruk. Då har ni organisation."
 
-Maja tog upp programbladet igen. Nu såg hon varje rad som rökridå. Gryning, berättelse, obruten kedja, heligt landskap. Inte för att någon trodde bokstavligt på allt. Utan för att det skulle fungera offentligt.
+Maja tog upp programbladet igen. Nu såg hon varje rad som rökridå och arbetsorder på samma gång. Gryning, berättelse, obruten kedja, heligt landskap. Inte för att någon trodde bokstavligt på allt. Utan för att folk skulle öppna, backa, ursäkta och lämna plats.
 
 "Det levande finns kvar," sa hon lågt. "Men inte där de pekar."
 
@@ -100,7 +110,7 @@ När de reste sig för att gå tog Stina upp sin egen telefon. "Jag skickar er t
 
 Noah nickade. "Det uppskattas."
 
-Stina såg på Maja innan hon tog på sig jackan. "Någon försöker få er att jaga skuggan av en kult. Jaga inte skuggor. Jaga den som riggar ljuset."
+Stina såg på Maja innan hon tog på sig jackan. "Någon försöker få er att jaga skuggan av en kult. Jaga inte skuggor. Jaga den som får dörrarna att öppna sig."
 
 Efter att hon gått blev Maja kvar med orden i kroppen. Noah packade ihop pappren utan att stressa.
 
@@ -124,7 +134,7 @@ När de gick ut i den fuktiga natten stod Solveig lutad mot biblioteksväggen me
 
 "Nå?" sa hon.
 
-"Det vi jagar är inte obruten tro," sa Maja. "Det är människor som lånar dess språk för att ta makt."
+"Det vi jagar är inte obruten tro," sa Maja. "Det är människor som lånar dess språk för att få tillträde."
 
 Solveig nickade, nästan som om det var ett sorgligt men väntat examensresultat.
 

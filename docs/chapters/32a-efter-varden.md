@@ -8,6 +8,10 @@ Båda grupperna hade fel på olika sätt. Det hjälpte mindre än man kunde tro.
 
 Hon bodde tillfälligt mellan moderns hus i Kivik och en lånad lägenhet i Lund men tillbringade större delen av oktober i rörelse mellan Simrishamn, Ystad, Glimmingehus och Riksantikvarieämbetets tillfälliga arbetsrum i Malmö där materialet nu gick igenom en process som för en gångs skull inte bara syftade till att göra det oåtkomligt. Linnea satt i den processen som extern sakkunnig och höll den rak med en sorts aggressiv precision Maja kom att älska.
 
+Det viktigaste kom inte först i rubrikerna men väl i protokollen. De preliminära anspråkspaketen mot Lunds stift frös innan de hann lämnas in i full form. Två församlingar som i Helenas planering legat i första förhandlingslinjen slapp gå in i dyrbara panikuppgörelser. Ett markköp via bulvanbolag mellan Hammenhög och Gladsax stoppades när `Olofslinjen` blev offentlig. En arrendatorfamilj i närheten av S:t Olof fick för första gången veta varför deras kontraktsförlängning plötsligt börjat villkoras med märkliga klausuler om framtida användning.
+
+Österlen var inte räddat. Men det hade åtminstone undvikit att tyst glida över i någon annans sammanhängande dröm.
+
 Noah var formellt fortfarande utanför sin gamla roll under en tid, men inte utanför verkligheten. Han blev den som kunde röra sig mellan lokala vittnen, åklagare, praktisk säkring och allt det som aldrig hamnar i kulturartiklar men avgör vad som faktiskt håller i domstol och protokoll.
 
 De sågs sällan ostört de första veckorna. Inte för att de undvek det. För att verklig eftervåg alltid är fulare än klimax. Papper. Tider. Människor som vill äga formuleringar. Små lögner som måste vikas upp igen.
@@ -50,7 +54,7 @@ Noah drog handen genom håret. "Offentligt? Fallit mycket. Privat? Inte färdig 
 
 Maja visste det. Det var en av de saker hon slutat romantisera genom allt detta. Sanning vinner sällan en gång för alla. Den säkrar bara vissa passager och gör nästa stöld något svårare.
 
-Vid Kiviksgraven några dagar senare stod hon med en mindre grupp forskare, två representanter från kulturarvssidan och Stina, som nu frivilligt deltagit i en referensgrupp för hur modern Forn Sed skulle nämnas i det offentliga efterarbetet utan att reduceras till vare sig frikort eller skräckyta. Maja såg på dem och tänkte att det kanske var det närmaste ansvarig vård hon sett: inte en ensam vårdare, utan flera händer som höll varandra i schack.
+Vid S:t Olof några dagar senare stod hon med en mindre grupp forskare, två representanter från kulturarvssidan och Stina, som nu frivilligt deltagit i en referensgrupp för hur modern Forn Sed skulle nämnas i det offentliga efterarbetet utan att reduceras till vare sig frikort eller skräckyta. Maja såg på dem och tänkte att det kanske var det närmaste ansvarig ordning hon sett: inte en ensam räddare, utan flera händer som höll varandra i schack.
 
 Hon återvände också till Glimmingehus. En rå novembervind gick över slätten. Borgen stod lika självklar som förut men med andra dokumentlådor, andra protokoll, andra röster i rummen. Linnea visade henne var de nu byggt en temporär arbetsstation för omkatalogisering av de avskrifter som tidigare legat fel, tyst eller halvt tvättat.
 
@@ -84,9 +88,9 @@ Maja såg ut mot havet. "Han blir mindre användbar som varning och mer användb
 
 Han skrattade.
 
-I januari hölls en första offentlig genomgång i Malmö där materialets förvaringskedja, de historiska dokumenten och den nutida manipuleringen redovisades gemensamt av flera institutioner. Inte perfekt. Inte ren. Men tillräckligt öppen för att ingen ensam figur skulle kunna gå därifrån som självklar vårdare. Helena deltog inte. Bergs namn nämndes. Cecilia lämnade eget skriftligt vittnesmål genom ombud. David talade, som väntat, nästan bara om säkerhetsbedömning.
+I januari hölls en första offentlig genomgång i Malmö där materialets förvaringskedja, A, B, `Olofslinjen` och den nutida manipuleringen redovisades gemensamt av flera institutioner. Inte perfekt. Inte ren. Men tillräckligt öppen för att ingen ensam figur skulle kunna gå därifrån som självklar arvtagare. Helena deltog inte. Bergs namn nämndes. Cecilia lämnade eget skriftligt vittnesmål genom ombud. David talade, som väntat, nästan bara om säkerhetsbedömning.
 
-Efteråt stod Maja i korridoren utanför föreläsningssalen och såg en grupp studenter prata ivrigt om "hur plats blir makt". Det lät nästan banalt i deras munnar. Men det lät också levande. Inte ägt.
+Efteråt stod Maja i korridoren utanför föreläsningssalen och såg en grupp studenter prata ivrigt om "hur plats blir mark" och "hur historia blir förhandlingsmakt". Det lät nästan banalt i deras munnar. Men det lät också levande. Inte ägt.
 
 Hon körde hem till Kivik samma kväll via väg 11 och sedan ner mot havet när mörkret redan lagt sig. Modern hade tänt lampan i köket. På bordet låg ännu ett av Arvids block, men nu inte som anklagelse. Som arbete.
 
@@ -102,7 +106,7 @@ Maja satte sig. Genom köksfönstret anade hon äppelträdet som svart ritning m
 
 Senare samma natt gick hon ner ensam till hamnen. Rutan låg mörk men skyltad. Havet slog mot kajen. Långt bort syntes inga monument, bara mörker, våt luft och några sena lampor från båtar.
 
-Hon tänkte på alla som försökt göra centrum av detta landskap. På hur lätt det är att tro att en berättelse blir sannare ju större scen den får. På hur mycket arbete det krävs för att låta mellanlederna finnas kvar utan att förvandlas till dekor.
+Hon tänkte på hur nära hela landskapet varit att säljas tillbaka till sig självt som exklusiv upplevelse. På hur lätt det är att tro att en berättelse blir sannare ju större scen den får. På hur mycket arbete det krävs för att låta mellanlederna finnas kvar utan att förvandlas till dekor eller investering.
 
 Telefonen vibrerade. Ett meddelande från Noah, kort nog för att vara hans när det gällde sådant som faktiskt betydde något:
 
@@ -114,7 +118,7 @@ Hon svarade:
 
 Efter en halv minut kom:
 
-**Bra plats för att inte låta världen bli för ren.**
+**Bra plats för att minnas vad som fortfarande är öppet.**
 
 Maja log ensam i mörkret.
 

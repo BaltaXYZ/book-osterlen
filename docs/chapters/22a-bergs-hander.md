@@ -130,11 +130,11 @@ Han log nästan. "Och ändå tjänade du den länge."
 
 Hon svarade inte.
 
-Efter att hon gått stod Berg kvar ensam med staven i rummet. Han tänkte inte på Nils Severin eller Eva Holm mer än som störningar som borde ha kunnat hanteras tidigare med mindre spill. Han tänkte på Maja Malm. Inte för att hon var dotter till lokal fabulant. För att hon var en av de få som verkade förstå att Helena inte byggde kult utan vårdarmakt. Hon hade dessutom börjat ana något Berg förstått tidigare än de flesta: att Helena tillbringat år med att bygga rum där männen före henne tog applåden, och att Ormleden var första gången hon vägrade nöja sig med att vara handen som bar fram saken åt andra. Om Maja hann få rätt sorts objekt i handen kunde hela operationen förskjutas från mystik till stöld. Det vore betydligt värre.
+Efter att hon gått stod Berg kvar ensam med staven i rummet. Han tänkte inte på Nils Severin eller Eva Holm mer än som störningar som borde ha kunnat hanteras tidigare med mindre spill. Han tänkte på Maja Malm. Inte för att hon var dotter till lokal fabulant. För att hon var en av de få som verkade förstå att Helena inte byggde kult utan anspråksmaskin. Hon hade dessutom börjat ana något Berg förstått tidigare än de flesta: att Helena tillbringat år med att bygga rum där männen före henne tog applåden, och att Ormleden var första gången hon vägrade nöja sig med att vara handen som bar fram saken åt andra. Om Maja hann få rätt sorts objekt i handen kunde hela operationen förskjutas från mystik till markstöld. Det vore betydligt värre.
 
 Han tog fram mobilen och skickade ett enda meddelande:
 
-**ryggen kontrolleras igen innan natt**
+**olof kontrolleras igen innan natt**
 
 Sedan gick han till fönstret och såg ner på Simrishamns gator där bageriet på hörnet just öppnat luckan mot trottoaren. Vanliga människor köpte frallor, kaffe, morgon.
 

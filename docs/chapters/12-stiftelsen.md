@@ -14,13 +14,13 @@ Maja följde två steg bakom och kände omedelbart den egendomliga friktionen i 
 
 Linnea nickade stelt. "Inte henne."
 
-Helena log svagt. "Men jag har förstås rätt att vara på en plats som min stiftelse investerat miljoner i att hålla levande."
+Helena log svagt. "Men jag har förstås rätt att vara på en plats som min stiftelse investerat miljoner i att hålla öppen, begriplig och levande."
 
 "Levande?" sa Maja innan hon hann låta bli.
 
 Helena vände blicken mot henne. Ett litet intresse tändes där, något som nästan kunde misstas för respekt om man inte såg hungern bakom.
 
-"Doktor Malm," sa hon. "Nils talade om er som om ni var en av de få som fortfarande kunde läsa utan att genast moralisera."
+"Doktor Malm," sa hon. "Nils talade om er som om ni var en av de få som fortfarande kunde läsa utan att genast vilja göra procedur av allt."
 
 "Då beskrev han mig dåligt."
 
@@ -42,31 +42,31 @@ Helena hörde henne och klev närmare, fortfarande skyddad av sitt paraply som n
 
 "Ett exakt ord," sa Maja.
 
-Helena såg ner på kalklinjen. "Eller ett trött ord. Människor tar alltid det förflutna i bruk. Annars ligger det bara kvar i marken. Frågan är inte om det sker, utan hur skickligt det görs."
+Helena såg ner på kalklinjen. "Eller ett nödvändigt ord. Människor tar alltid det förflutna i bruk. Annars ligger det bara kvar i låsta rum tills fukt och rädsla gjort sitt."
 
 Noah tog ett steg mot henne. "Du står alltså här mitt i en mordutredning och håller föreläsning om kulturstrategi."
 
-"Jag står här mitt i ett haveri av offentlig kontroll," sa Helena lugnt. "Nils var en duglig man men inte stark nog att bära vad han trodde sig ha hittat. Nu fylls tomrummet av rykten om sekter och blodsoffer. Om ni inte snabbt ser till att en tydlig version går ut kommer allt värdefullt i materialet drunkna."
+"Jag står här mitt i ett haveri av offentlig kontroll," sa Helena lugnt. "Nils var en duglig man men inte stark nog att bära vad han trodde sig ha hittat. Nu fylls tomrummet av rykten om sekter och blodsoffer. Om ni inte snabbt ser till att någon håller ihop arbetet kommer präster, fastighetsägare, kommuner och museer börja stänga dörrar i panik. Då försvinner materialet i ännu fler fickor."
 
-Maja kände hur ordet berättelsen slog mot alla ledtrådar de redan hade.
+Maja kände hur ordet arbetet slog mot alla ledtrådar de redan hade.
 
-"Ordning på berättelsen," upprepade hon.
+"Arbetet," upprepade hon.
 
-Helena mötte hennes blick fullt ut. "Ja. Ni säger det som om det vore skamligt. Jag säger att något måste hålla ihop det innan allting slits sönder."
+Helena mötte hennes blick fullt ut. "Ja. Ni säger det som om det vore skamligt. Jag säger att något måste hållas öppet tillräckligt länge för att över huvud taget kunna förstås."
 
 Ingen i rummet rörde sig.
 
 Det var första gången Helena visade hela sitt centrum utan att linda in det. Inte mord. Inte direkt. Men principen bakom alltihop.
 
-"Och om berättelsen måste avvika från det materialet faktiskt visar?" sa Maja.
+"Och om det som hålls öppet egentligen bara är rätt rum för rätt person?" sa Maja.
 
-Helena log inte nu. "Det materialet visar alltid mer än en sak. Frågan är vilken sak ett samhälle tål."
+Helena log inte nu. "Det materialet visar alltid mer än en sak. Frågan är vilken sak ett samhälle tål när mark, kyrkor och gamla tillgångar kan börja röra sig."
 
-Noah såg mellan dem båda, och Maja förstod att han hörde ideologin även om inte alla termer var hans.
+Noah såg mellan dem båda, och Maja förstod att han hörde hotet även om inte alla termer var hans.
 
 "Du talar som om du äger det som finns här," sa han.
 
-"Nej," sa Helena. "Jag talar som någon som är villig att ta ansvar för det när andra inte är det."
+"Nej," sa Helena. "Jag talar som någon som vet hur man får människor att låsa upp innan de hinner bli små och rädda."
 
 Linnea gjorde ett litet ljud av avsmak bakom dem.
 
@@ -78,19 +78,19 @@ Helena svarade utan att tveka. "Gryningslinjen bryter över stenarna."
 
 "Så specifik är du."
 
-"Så specifik måste man vara om man bygger offentlig upplevelse."
+"Så specifik måste man vara om man bygger offentlig upplevelse. Och om man vill att rätt personer ska stå på rätt plats när något visas."
 
-Noah vände sig till teknikerna, men Maja hörde knappt. 05.47. Bild först, förklaring sen. Helena tänkte bokstavligen använda ljuset som del av sitt övertag. Inte som symbol bara, utan som timing för kamera, publik, placering och tolkning.
+Noah vände sig till teknikerna, men Maja hörde knappt. 05.47. Bild först, förklaring sen. Helena tänkte bokstavligen använda ljuset som del av sitt övertag. Inte som symbol bara, utan som timing för kamera, publik, placering och läsordning.
 
 "Du gjorde inte det här själv," sa Maja plötsligt.
 
 Helena höjde ögonbrynen. "Vad menar ni?"
 
-"Kalklinjen. Videon i Rutan. Hamnarkivet. Det är för mycket för en ensam vilja, även en rik sådan. Vem bygger åt dig?"
+"Kalklinjen. Videon i Rutan. Hamnarkivet. Extra tillträden. Det är för mycket för en ensam vilja, även en rik sådan. Vem öppnar åt dig?"
 
 Ett nästan omärkligt skifte gick genom hennes ansikte. Inte skuld. Snarare irritation över att frågan ställdes så direkt.
 
-"Människor samlas alltid runt något som känns större än en enda person," sa hon. "Ni om någon borde förstå det. Eller kanske är det där er svaghet ligger, doktor Malm. Att ni fortfarande tror att sanningen vinner av sig själv bara den är exakt nog."
+"Människor samlas alltid runt något som känns viktigt nog att få arbeta för," sa hon. "Ni om någon borde förstå det. Eller kanske är det där er svaghet ligger, doktor Malm. Att ni fortfarande tror att sanningen vinner av sig själv bara den är exakt nog."
 
 Maja sa inget. För varje sekund blev hon mer säker på två saker samtidigt: att Helena inte själv utfört våldet med händerna, och att våldet ändå var helt förenligt med hennes projekt.
 
@@ -98,13 +98,13 @@ En tekniker kallade på Noah från dörren. Något om ett skoavtryck, storlek, r
 
 Helena lutade sig då en aning närmare Maja. Rösten sjönk så lite att ingen annan rimligen skulle märka det.
 
-"Nils trodde först att han hittat religion," sa hon. "Sedan blev han besviken när han insåg att människans verkliga historia nästan alltid handlar om förvaltning, inte extas. Ni kommer göra samma resa snabbare än han gjorde."
+"Nils trodde först att han hittat religion," sa hon. "Sedan blev han besviken när han insåg att människans verkliga historia nästan alltid handlar om förvaltning, tillträde och vem som hinner låsa upp före nästa hand."
 
 "Och du tänker göra den till show."
 
-"Jag tänker ge den form."
+"Jag tänker ge den form innan andra använder den till sämre anspråk."
 
-Maja kände plötsligt att hon hatade hur rimligt delar av det lät på ytan. Inte för att Helena hade rätt, utan för att hon använde en verklig svaghet hos både institutioner och forskare: att råa, splittrade sanningar ofta förlorar mot sammanhängande lögner.
+Maja kände plötsligt att hon hatade hur rimligt delar av det lät på ytan. Inte för att Helena hade rätt, utan för att hon använde en verklig svaghet hos både institutioner och forskare: att råa, splittrade sanningar ofta förlorar mot sammanhängande arbetsordningar med rätt logotyper på.
 
 "Var det du som pressade Severin?" sa hon.
 
@@ -118,9 +118,9 @@ Noah kom tillbaka. "Vi är klara här."
 
 Helena tog ett steg åt sidan för att släppa förbi honom, men innan Maja gick hann hon säga:
 
-"Om ni har något kvar av samarbetsinstinkt, doktor Malm, råder jag er att inte låta det här drivas av polisens reflexer. Ni kommer bara hitta de smutsiga händerna. Inte den stora skadan."
+"Om ni har något kvar av samarbetsinstinkt, doktor Malm, råder jag er att inte låta det här drivas av polisens reflexer. Ni kommer bara hitta de smutsiga händerna. Inte de rum de försökte nå."
 
-Maja stannade i dörröppningen. "Och om jag följer dig hittar jag bara berättelsen du vill att alla ska knäböja inför."
+Maja stannade i dörröppningen. "Och om jag följer dig hittar jag bara de rum du vill stå ensam i."
 
 Helena nickade nästan uppskattande. "Kanske. Men ni skulle åtminstone stå nära centrum när det händer."
 

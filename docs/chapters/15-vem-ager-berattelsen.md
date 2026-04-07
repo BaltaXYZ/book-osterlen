@@ -26,9 +26,13 @@ Hon såg på tavlan. Rutan. Ormbrädan. Glimmingehus. Stenshuvud. Ales stenar. L
 
 Noah väntade.
 
-"Och göra stölden till arv."
+"Och göra läsningen till nyckel."
 
-Han nickade långsamt. "Bra. Det kan jag använda."
+Han nickade långsamt. "Bättre."
+
+"Bättre hur?"
+
+"Jag kan jobba med nyckel. Jag kan få andra att förstå att det inte bara handlar om vem som får synas först, utan vem som får öppna vad efteråt."
 
 Det knackade. En yngre utredare stack in huvudet. "Cecilia vill bara tala med er två."
 
@@ -60,13 +64,17 @@ Cecilia såg på henne med ett uttryck som nästan liknade medlidande. "Det är 
 
 Noah lutade sig fram. "Förklara."
 
-"Ni är så fast i materialet att ni tror bevis sitter i saker. Det gör det ibland. Men för publik, för stiftelser, för departement..." Hon nickade mot fotot från Ales stenar. "Bevis sitter i ordning. I sekvens. I vem som får visa vad först."
+"Ni är så fast i materialet att ni tror bevis sitter i saker. Det gör det ibland. Men för präster, fastighetsägare, kommuner, sponsorer..." Hon nickade mot fotot från Ales stenar. "Bevis sitter också i ordning. I sekvens. I vem som får vara ensam i ett rum först och sedan komma ut därifrån med rätt språk."
 
-Maja kände hur det gick som elektrisk kyla genom kroppen. Det var exakt därför Helena var så svår att stoppa. Hon behövde inte hela sanningen. Hon behövde första sammanhängande formen.
+Maja kände hur det gick som elektrisk kyla genom kroppen.
 
-"Så lådan är scenobjekt," sa Maja. "En ankareffekt."
+"Så lådan är scenobjekt," sa hon. "Men också arbetsobjekt."
 
-"Om ni vill använda fula reklamspråk, ja."
+"Ja."
+
+"En biljett till nästa dörr."
+
+"Exakt."
 
 "Och Severin?" sa Noah.
 
@@ -84,7 +92,7 @@ Maja såg henne länge. Cecilia var inte Helena. Hon hade inte hennes ideologisk
 
 "Vad är din värld?" sa Maja.
 
-Cecilia svarade utan ironi. "Den där betydelse måste produceras innan någon annan fyller vakuumet med skräp."
+Cecilia svarade utan ironi. "Den där betydelse måste produceras innan någon annan stänger tillgången eller fyller vakuumet med skräp."
 
 "Och därför får människor dö?"
 
@@ -110,7 +118,7 @@ Nu kom det första riktiga motståndet. Cecilia drog in luft, släppte den och l
 
 "Testa oss," sa Noah.
 
-Hon skakade långsamt på huvudet. "Ni tror fortfarande att rätt dokument löser fel berättelse. Men människor väljer nästan alltid den berättelse som ger dem plats i något större. Helena förstod det långt före er."
+Hon skakade långsamt på huvudet. "Ni tror fortfarande att rättelsen löser allt av sig själv. Men om Helena hunnit göra det första brevet till ensam ingång väljer människor nästan alltid den ordning som redan gett henne nycklarna."
 
 "Var. Är. Lådan." Noah sa orden som om de var separata verktyg.
 
@@ -120,7 +128,7 @@ Luften i rummet tunnades ut.
 
 "Vilken?" sa Maja.
 
-"Att mellanlederna kunde rädda sanningen. Det kan de inte. De kan bara göra den mer komplicerad, och komplicerade sanningar förlorar nästan alltid."
+"Att mellanlederna kunde rädda sanningen. Det kan de inte. De kan bara göra den mer komplicerad, och komplicerade sanningar förlorar nästan alltid mot den som redan fått folk att öppna åt sig."
 
 Noah reste sig upp så abrupt att stolen skrapade. "Sluta tala i teser och svara."
 
@@ -134,7 +142,7 @@ Noah lämnade rummet innan han sa något han skulle få skriva rapport om. Maja 
 
 "Jag är det."
 
-"Nej. Du har bara vant dig vid att arbeta åt en person som gjort ordning till gud."
+"Nej. Du har bara vant dig vid att arbeta åt en person som gjort tillträde till gud."
 
 Cecilia log för första gången på riktigt, och det var värre än om hon spottat. "Och du har vant dig vid att tro att sanningen förblir oskyldig bara för att du själv inte rör den smutsigt."
 
@@ -150,7 +158,7 @@ Hon satte sig på bänken mot väggen. "Nej. Du behöver förstå hur Helena tä
 
 Noah stannade upp. "Vad är rätt tid enligt dig då?"
 
-"När hon redan fått sin första bild."
+"När hon redan fått sin första öppning. Inte bara inför publik. I de rum som kommer efter."
 
 Det blev tyst igen. Sedan tog han ett djupt andetag och satte sig bredvid henne, nära nog för att deras armar nästan nuddade.
 

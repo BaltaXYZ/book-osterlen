@@ -1,139 +1,69 @@
 # 29. Scenmanuset
 
-De tog skydd i den gamla redskapsboden igen, nu med morgonstenen på arbetsbänken som om hela projektet till sist kondenserat till ett enda motvilligt block kalksten.
+De tog skydd i det gamla båthuset igen, nu med B på arbetsbänken som om hela projektet till sist kondenserat till ett stycke pergament tunt nog att kunna stoppa en plan stor nog att slita upp ett helt landskap.
 
-Linnea kom först, blöt upp till knäna efter att ha tagit sig över hamnens baksidor för att undvika Stenportens folk. Hon såg stenen, stannade och tog av sig glasögonen för att torka dem trots att de inte behövde torkas.
+Noah stod kvar i örat snarare än i rummet. Linnea hade dragit fram sin laptop på en fiskback. Ingrid satt med `Olofslinjen` framför sig som om hon tänkte bränna hål i papperet med blicken. Torkel höll vakt utanför med samma självklarhet som om hela boden återgått till sitt ursprungliga bruk: förvaring av sådant som inte skulle synas från vägen.
 
-"Herregud," sa hon.
+Maja la B bredvid utskrifterna av A, de räddade sidorna ur etappplanen, bolagsbilagan, faderns block och stillbilderna från Kåsebergas scenyta.
 
-"Ja," sa Maja.
+"Vi har det som kan stoppa henne," sa hon. "Men bara om vi lägger fram det i rätt ordning. Om hon får A ensam i publikens kropp först sitter vi där med ett juridiskt korrekt fotnotspaket efteråt medan hon redan hunnit skapa förhandlingsläge."
 
-Noah låste dörren trots att ett lås nu mest kändes symboliskt. Torkel stod vakt utanför med samma självklarhet som om hela boden återgått till sitt ursprungliga bruk: förvaring av sådant som inte skulle synas från vägen.
+Linnea nickade hårt. "Då är ordningen enkel, även om natten inte är det."
 
-Maja vecklade ut kalkstensplattan på bordet och la bredvid den utskrifter från Stenportens bildmanus, faderns block, kopior ur depån och de trasiga resterna från Bok II. Linnea böjde sig över stenen med en blandning av forskningsdisciplin och något mer sällsynt, nästan vrede.
+Hon pekade på sakerna en efter en.
 
-"De gjorde den till liturgi," sa hon lågt.
+"Först låter ni Helena bygga sin första bild. Staven. A. Trohet. Ormled. Sedan bryter du. Inte med all teori. Med klausulen."
 
-"Vad menar du?"
+Maja läste den för sig själv igen:
 
-"Se här." Hon pekade på instruktionerna längs nederkanten. "Det här är inte trosord. Det är arbetsord. Hur vägen ska markeras, hur bäraren ska stå, när visning ska ske, hur den som ser ska ledas från plats till plats. Praktisk koreografi. Senare händer har lagt på ord om vård, lydnad och ordning. Till slut ser det ut som helig tradition fast det från början bara var logistik för hur saker skulle föras vidare."
+**det första brevet skall ej gälla utan detta senare brev läst därintill**
 
-Noah drog handen över ansiktet. "Bra. Då har vi exakt det vi behöver."
+"Ja," sa hon.
 
-"Har vi?" sa Maja.
+"Sen," fortsatte Linnea, "måste du gå direkt till nutid. Mark. Kyrka. Församlingar. Bönder. Grävning. Om du låter det bli för länge om latin eller datering vinner hon på syre."
 
-Hon kände allas blickar mot sig. Det var rättvist. Beslutet låg nu hos henne mer än någon annan, vare sig hon ville eller inte.
+Torkel stack in huvudet genom dörren. "Det där kan till och med jag förstå, så det är nog bra."
 
-"Vi har det som kan spräcka hennes berättelse," fortsatte hon. "Men bara om vi lägger fram det i en ordning människor hinner ta emot innan hon hinner göra oss till lokal skandal, skadad dotter eller akademiskt specialfall."
+Maja tänkte på sin fars lapp. På hur nära han varit och hur långt ifrån samma punkt han ändå hamnat när han började fylla i det tomma med för mycket eld.
 
-Ingrid kom in just då utan att knacka. Hon hade två plastkassar med mat i ena handen och Arvids sista block i den andra.
+"Jag måste också visa vad hon vill göra med Österlen," sa hon.
 
-"Om ni ska rädda sanningen kan ni äta samtidigt," sa hon. "Jag tänker inte ha fler hjältar som svimmar i den här familjen."
+Ingrid tryckte handen mot `Olofslinjen`.
 
-Ingen protesterade. Noah tog emot kassarna med en tacksamhet som nästan såg lydig ut. Ingrid lade blocket framför Maja.
+"Det gör du här."
 
-"Jag hittade den här sidan instucken i ett omslag jag missat."
+Hon läste högt, torrt nog för att orden skulle bli värre:
 
-Maja öppnade.
+**småskalig splittring säljs i dag som frihet men ger för låg avkastning**
 
-Fadern hade skrivit med tätare hand än vanligt, som om han själv anat att detta var närmast slutet han kom:
+Sedan tog hon nästa sida.
 
-**om stenen nås skall den ej bara visas. den skall läsas mot den som vill bli vårdare. annars blir avslöjandet bara nytt stoff för nästa anspråk**
+**råvarufönster öppnas i perifera delar innan större opinion formeras**
 
-Under fanns ett namn.
+Stina, som just kommit tillbaka in med mobilen i handen, gjorde en liten grimas.
 
-**Fråga Cecilia om kamerans ordning. Hon är redan mer rädd än trogen.**
+"Där har du hennes själ i managementspråk."
 
-Maja såg upp. Noah gjorde samma sak.
+Maja tog upp papperet. "Det här måste ut samtidigt som B. Annars blir Helena bara en förvanskare av det förflutna. Jag behöver visa att hon också tänker använda den förvanskningen till att öppna leden för prospektering och täkter."
 
-"Han kände alltså till henne?" sa Noah.
+Noah sa i örat:
 
-"Eller kände typen," sa Ingrid. "Din far var ofta bättre på människors rädsla än på sin egen."
+"Bra. Men vi behöver fortfarande Cecilia för exakt timingskifte."
 
-Noah tog upp telefonen. "Då tar vi Cecilia igen. På vårt sätt den här gången."
+"Jag vet."
 
 Det krävdes inte mycket. Bara ett meddelande från det privata nummer hon en gång lämnat till Severin i "logistiksyfte" och ett löfte om att det fortfarande fanns ett val mellan att vara offrad medhjälpare och användbar vittneskälla.
 
 Hon kom efter fyrtio minuter.
 
-Inte till boden utan till den gamla servicevägen bakom hamnen där Noah och Maja mötte henne under släckt lykta. Cecilia såg först nästan förolämpad ut över att ha kallats utan scen. Sedan såg hon stenen i Majas händer.
+Inte till boden utan till servicevägen bakom hamnen där Noah och Maja mötte henne under släckt lykta. Cecilia såg först nästan förolämpad ut över att ha kallats utan scen. Sedan såg hon B i Majas händer.
 
 All färg försvann ur hennes ansikte.
 
-"Ni hittade den."
+"Ni hittade det."
 
 "Ja," sa Maja. "Och nu behöver jag scenmanuset. Det riktiga. Inte det du lät oss hitta."
 
-Cecilia stod länge utan att svara.
+Cecilia stod länge utan att svara. Sedan nickade hon en gång.
 
-"Berg har staven," sa hon till slut. "Helena tänker visa den först, som kärna, och sedan leda publiken till lådan som om den bekräftar obruten vårdande kedja. Hon har byggt hela dramaturgin på att första objektet ger auktoritet och det andra ger berättelse."
-
-"Och stenen?" sa Maja.
-
-"Den trodde hon inte att ni skulle hitta i tid. Den var backup, eller snarare... försegling. Om någon ifrågasatte kunde den användas i andra fasen för att visa att samma form fanns i marken under scenlinjen."
-
-Noah lutade sig mot väggen. "Så hela publikupplevelsen är koreograferad runt en dubbel falsk botten."
-
-"Ja."
-
-"Var står Berg?" sa Maja.
-
-"I sidan av plattformen. Helena vill inte att han syns på bild. Han är bara garant för att objekt och manus möts rätt."
-
-Maja tog ett steg närmare Cecilia. "Och du?"
-
-Ett skört skratt kom ur henne. "Jag står där kameran behöver se att någon fortfarande tror på henne."
-
-Det fanns inget hjältemod i hennes ögon nu. Bara utsliten klarhet.
-
-"Varför hjälper du oss?" sa Noah.
-
-Cecilia såg förbi dem, ut mot den mörka hamnen. "För att jag trodde länge att form kunde skydda människor från kaos. Att om rätt person bara höll ihop berättelsen blev världen mindre farlig. Sen såg jag Nils ligga död, Eva försvinna ur sin egen motvilja och Berg tala om dem som processkostnad." Hon svalde. "Det finns en punkt där ansvar blir samma sak som dyrkad lydnad."
-
-Maja hörde i sig själv hur lätt det vore att avfärda det som senkommen moral. Men sanningen behövde inte vara tidig för att vara verklig.
-
-"Då ger du mig allt," sa hon. "Kameravinklar, talordning, krislinjer, presskontakt, allt."
-
-Cecilia nickade.
-
-Tillbaka i boden byggde de sedan hela natten ett motmanus.
-
-Inte propaganda. Inte läcka. Inte ren exposé.
-
-Ett sätt att bryta Helena på hennes egen scen utan att råmaterialet flög åt alla håll.
-
-Linnea la upp bevisen i tre steg: 1) Helena visar staven som om den bevisar obruten vård. 2) Maja bryter direkt med morgonstenen och instruktionstexterna som visar att allt är byggt för hand, inte nedärvt av sig självt. 3) Noahs civila allierade och en kvarvarande lojal åklagarkontakt tar Berg och säkrar låda, original och vägen in till scenen när Helena tappar publiken.
-
-Noah kallade det för en kontring på plats. Ingrid kallade det för att äntligen sluta låta andra formulera villkoren. Torkel kallade det för att ge fruntimret där uppe så mycket grus i munnen att hon inte kunde tala rent.
-
-Maja kallade det ingenting. Hon satt bara och läste sin fars sista rad om och om igen.
-
-*Den skall läsas mot den som vill bli vårdare.*
-
-Det var inte nog att visa Helena som lögnare. Hon måste också visas som det hon faktiskt var: ännu en förvaltare i en kedja av anspråk som kallade sig nödvändiga.
-
-Strax före två på natten somnade Torkel sittande på en låda. Linnea blundade över ett tangentbord i tre minuter och vaknade sedan skamset. Noah gick ut en stund för att ringa den enda åklagare han ännu litade på, en kvinna i Kristianstad som skyldig honom tre gamla tjänster och hatade sceniska kulturmän.
-
-När han kom tillbaka hittade han Maja ensam vid bänken med stenen och faderns block.
-
-"Hur långt kvar?" sa han.
-
-"Till planen eller till att jag tror på den?"
-
-"Båda."
-
-Hon såg upp på honom. "Planen är klar. Resten vet jag inte."
-
-Han ställde sig bredvid henne. Inte så nära att det blev ett val. Bara nära nog.
-
-"Du behöver inte tro på att allt blir rent i morgon," sa han. "Du behöver bara veta vad du inte längre tänker lämna åt henne."
-
-Maja la handen på stenen.
-
-"Berättelsens centrum," sa hon.
-
-Han nickade.
-
-Utanför började vinden vända igen, den där långsamma rörelsen som kommer några timmar före gryning vid kusten. Tidens egen logistik.
-
-I morgon, tänkte Maja. Inte bara scenen. Vårdaren själv.
+"Okej," sa hon. "Men då får ni också allt det andra."

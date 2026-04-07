@@ -46,7 +46,7 @@ Noah tittade upp från sin dator. "Vad?"
 
 Han sköt över en utskrift. "Kolla det här. Stenporten har redan skickat ut intern kommunikation om att deras evenemang hotas av 'desinformation och extremistiska approprieringar'."
 
-Maja läste och kände hur en sorts isklar vrede steg. Det var skickligt gjort. Genom att tala om extremism på ett allmänt plan kunde de framstå som de ansvariga vuxna, samtidigt som de lät den spektakulära kultvinkeln leva offentligt. De behövde inte säga lögnen själva. Det räckte att de byggde rummet där andra tog emot den.
+Maja läste och kände hur en sorts isklar vrede steg. Det var skickligt gjort. Genom att tala om extremism på ett allmänt plan kunde stiftelsen framstå som den ansvariga parten utåt, samtidigt som den spektakulära kultvinkeln fick leva sitt eget liv i offentligheten. Det betydde inte att alla där inne visste vad som pågick. Men någon visste exakt hur rummet skulle möbleras.
 
 "De placerar sig i mitten innan någon hunnit bevisa något," sa hon.
 

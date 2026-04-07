@@ -2,7 +2,7 @@
 
 Noah tyckte bäst om brottsplatser innan de blev berättelser.
 
-Det var en alltmer ovanlig preferens. Folk berättade fort nu. Vittnen berättade innan de sett färdigt. Presstjänster berättade innan de hunnit neka. Politiker berättade genom att tala om vikten av lugn. Och stiftelser som Stenporten berättade genom att påstå att de bara värnade kunskap.
+Det var en alltmer ovanlig preferens. Folk berättade fort nu. Vittnen berättade innan de sett färdigt. Presstjänster berättade innan de hunnit neka. Politiker berättade genom att tala om vikten av lugn. Och stiftelser som Stenporten berättade genom att hålla sig så välformulerade att ingen hann fråga vem som egentligen tjänade på ordningen.
 
 Han stod kvar en bit från avspärrningen och såg hur Maja Malm gick upp och ner över samma tre meter mark som om resten av världen tillfälligt inte fanns. Hon rörde sig inte som de flesta akademiker han träffat genom åren. Inget kringflackande, ingen onödig teatralik. Hon hade den där sortens koncentration som kunde se ut som kyla tills man märkte hur mycket den kostade.
 

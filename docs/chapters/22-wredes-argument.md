@@ -22,11 +22,11 @@ Noah sa inget, men Maja såg hur hans hand slöt sig hårt runt ratten.
 
 "Det låter som du."
 
-Helena fortsatte utan att ta betet. "Ni tror att dokument och mellanled automatiskt är moralisk överhöghet. Men det ni sitter med nu är inte ren sanning. Det är rester. Splittrade, sårade, fragmenterade rester av århundraden av maktkamp. Om ni bara kastar ut dem kommer de bli ännu ett råmaterial för den som ropar högst nästa gång."
+Helena fortsatte utan att ta betet. "Ni tror att dokument och mellanled automatiskt är moralisk överhöghet. Men det ni sitter med nu är inte ren sanning. Det är rester. Splittrade, sårade, fragmenterade rester av århundraden av maktkamp. Om ni bara kastar ut dem låser folk dörrar, stänger magasin och spränger kedjan innan någon ens hunnit förstå vad som hör ihop."
 
 Maja svarade lugnare än hon kände sig. "Och därför ska du få vara den som ropar först?"
 
-"Därför ska någon med struktur göra det."
+"Därför ska någon hinna hålla ihop det innan allt stängs."
 
 Noah kunde inte låta bli längre. "Struktur? Är det ordet du använder för döda människor?"
 
@@ -44,7 +44,7 @@ Maja kände hur något i henne blev mycket kallt. Inte chock längre. Bara en s�
 
 "Därför att du inte står ut med att människor lever utan centrum."
 
-"Därför att människor inte gör det," sa Helena. "De väljer alltid ett centrum. Om inte jag bygger en form av det här materialet gör någon annan det. Någon dummare. Någon hungrigare. En sekt, ett parti, ett mediehus, välj själv. Historien är full av människor som river ned en berättelse och sedan går hem. Kvar står den som är bäst på att använda bråten."
+"Därför att människor inte gör det," sa Helena. "De lämnar inte tomrum tomma. Någon samlar mapparna, någon bokar rummen, någon får präster, fastighetsägare och jurister att öppna innan de hinner bli rädda. Om inte jag gör det gör någon annan det sämre. Någon dummare. Någon hungrigare. Historien är full av människor som river ned en ordning och sedan går hem. Kvar står den som hann skriva processerna och samla marken."
 
 Det var hennes renaste argument hittills. Och därför farligast. Inte för att det var sant som helhet, utan för att varje del innehöll en liten hård kärna av verklighet.
 
@@ -70,11 +70,11 @@ Han blev stilla, inte för att hon sårat honom, utan för att hon visste.
 
 "Jag får den information människor ger när de hoppas bli del av något större än sina befattningar."
 
-Maja kände hur det där gled ihop med allt annat. Helena byggde inte bara show. Hon byggde tillhörighet för rätt sorts medlöpare.
+Maja kände hur det där gled ihop med allt annat. Helena byggde inte bara show. Hon byggde arbetsro för rätt sorts medlöpare.
 
 "Vad vill du egentligen ha av mig?" sa Maja.
 
-"Er intelligens," sa Helena utan att tveka. "Ni kan fortfarande hjälpa till att göra det här svårt nog för att hålla inför publik och rent nog för att inte falla isär vid första granskning."
+"Er intelligens," sa Helena utan att tveka. "Ni kan fortfarande hjälpa till att göra det här läsbart nog att hålla och svårt nog att kapa."
 
 Noah vände sig mot Maja så fort att stolen knarrade. Men hon visste redan svaret innan den kom.
 

@@ -4,7 +4,7 @@ De sista fyrtio minuterna före gryning gick fortare än vanliga minuter och lå
 
 Maja kände det i kroppen redan när hon lämnade båthuset efter den sista genomgången. Tiden hade slutat vara neutral och blivit ett arbetsmaterial i sig. Varje sväng genom byn, varje blick mot himlen, varje människa som tog plats där de skulle ta plats bar på möjligheten att hjälpa eller stjälpa sekvensen.
 
-Hon gick upp genom Kåseberga tillsammans med Linnea först, eftersom de behövde bära sten, dokumentkopior och två reservpaket till olika punkter utan att se ut som exakt det de var. Vindarna hade vänt under natten och drog nu in från havet med rå kallhet som fick hennes ögon att rinna.
+Hon gick upp genom Kåseberga tillsammans med Linnea först, eftersom de behövde bära B, dokumentkopior och två reservpaket till olika punkter utan att se ut som exakt det de var. Vindarna hade vänt under natten och drog nu in från havet med rå kallhet som fick hennes ögon att rinna.
 
 "Du ska inte bära allt själv," sa Linnea och sträckte sig efter väskan igen.
 
@@ -68,7 +68,7 @@ Hon drog handen genom håret och kände hur fukten redan börjat krusa allt. "In
 
 Det var nästan ömt, det sättet att tala om skada som funktion.
 
-Han såg på väskan. "Du bär stenen fortfarande."
+Han såg på väskan. "Du bär B fortfarande."
 
 "Ja."
 
@@ -106,7 +106,7 @@ Maja lyssnade på tonfallet mer än orden. Han lät som sig själv igen, trots a
 
 De sista minuterna före avmarsch gick hon ensam några steg bort till kanten där man såg över hamnen och längre ut mot havet. Kåseberga låg under henne med sina låga tak, fiskebodarna, parkeringen, Ales väg som smal bandning mellan husen. Där nere var allting fortfarande en by. Där uppe höll det på att bli scen.
 
-Hon tänkte på fadern. På Ingrid vid köksbordet. På Stina vid servicehuset. På Linnea med mapparna. På Torkel som ännu läste hamnen bättre än alla eventkonsulter tillsammans. Plötsligt förstod hon att det här inte bara handlade om att hindra Helena från att äga centrum. Det handlade om att återföra tillräckligt mycket av mellanlederna till publiken för att ingen enda person skulle kunna stå som naturlig vårdare efteråt.
+Hon tänkte på fadern. På Ingrid vid köksbordet. På Stina vid servicehuset. På Linnea med mapparna. På Torkel som ännu läste hamnen bättre än alla eventkonsulter tillsammans. Plötsligt förstod hon att det här inte bara handlade om att hindra Helena från att äga centrum. Det handlade om att hindra henne från att använda en gammal lögn för att stänga marken, driva bort folk som brukat den och göra Österlen till ett projekt bara rika människor skulle känna sig hemma i.
 
 Det gjorde henne inte lugn. Men det gjorde henne rakare.
 

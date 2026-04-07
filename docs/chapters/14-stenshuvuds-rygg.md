@@ -76,11 +76,11 @@ Helena hade valt sitt ögonblick utifrån just detta. Inte bara dramatik. Siktli
 
 "Vilken?"
 
-"Hon tänker stå vid slutbilden och påstå att hela vägen pekat mot en obruten helig ordning. Men om vi har rätt pekar den mot något annat: hur äldre, lokal kunskap först användes för att flytta dyr last och sedan togs över, stängdes in och såldes tillbaka med finare ord."
+"Hon tänker stå vid slutbilden och påstå att hela vägen pekat mot en gammal rätt som aldrig brutits. Men om vi har rätt pekar den mot något annat: hur äldre, lokal kunskap först användes för att flytta dyr last och sedan togs över, stängdes in och såldes tillbaka med finare ord."
 
 Noah vände sig mot henne. "Och varför döda för det?"
 
-Maja tänkte på den frågan längre än hon gillade. "För att om dokumenten blir offentliga som de är förlorar hon inte bara en show. Hon förlorar möjligheten att göra sig själv till kvinnan som museer, departement och tv måste gå genom för att förstå vad allt betyder."
+Maja tänkte på den frågan längre än hon gillade. "För att om dokumenten blir offentliga som de är förlorar hon inte bara en show. Hon förlorar möjligheten att göra sig själv till kvinnan som kan resa anspråk på mark, pressa kyrkan och bygga något mycket större än ett event."
 
 "Det är mycket för en person."
 
@@ -108,7 +108,7 @@ Maja bläddrade snabbare.
 
 **KAMERA 1: låg vinkel mot stävsten / publik i silhuett**
 **KAMERA 2: närbild på lådan vid avslöjande**
-**TALPUNKT 6: obruten vårdande kedja genom sekel av tyst trohet**
+**TALPUNKT 6: äldre rättslinje genom sekel av tyst trohet**
 **TALPUNKT 8: nationens minne är större än akademisk detaljstrid**
 
 Noah läste över hennes axel. "Lådan."

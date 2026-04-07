@@ -82,7 +82,7 @@ Noah såg inte från vägen. "Det är nästan ett manifest."
 
 "Ja."
 
-Hon vecklade upp nästa blad. Där kom det våldsamma. En notis om en man kallad Toste, beskriven som bärare av *sjöfolkets felaktiga läsning*, som skulle tystas efter att ha vägrat lämna ifrån sig den sista visningen av tecknens rätta gång. På baksidan en kallare rad: relikfragment och privilegiebrev skulle föras från kustens händer till säkrad hand innan någon fri berättelse hann fästa sig vid dem.
+Hon vecklade upp nästa blad. Där kom det våldsamma. En notis om en man kallad Toste, beskriven som bärare av *sjöfolkets felaktiga läsning*, som skulle tystas efter att ha vägrat lämna ifrån sig den sista visningen av tecknens rätta gång. På baksidan en kallare rad: relikfragment och privilegiebrev skulle föras från kustens händer till säkrad hand innan någon fri berättelse hann fästa sig vid dem. Under det, i senare hand: *det första må bevaras, det senare skiljas därifrån*.
 
 "De dödade någon redan då för samma sak," sa Noah.
 
@@ -90,9 +90,9 @@ Hon vecklade upp nästa blad. Där kom det våldsamma. En notis om en man kallad
 
 Bronsstaven låg tung i hennes hand. Inte magisk. Inte mytisk. Men laddad av allt den burits genom. Praktik, pengar, övertagande, kontroll. Ett föremål som kunde sälja vilken historia som helst till människor som inte hunnit läsa pappret bredvid.
 
-"Det här räcker för att sänka Helenas version," sa Noah.
+"Det här räcker för att förstå Helenas version," sa Noah.
 
-Maja såg ut genom vindrutan mot den mörka vägen. "Om vi hinner ge det rätt ordning."
+Maja såg ut genom vindrutan mot den mörka vägen. "Om vi hinner ge det rätt ordning. Och om vi hittar det senare brevet före henne."
 
 Han sa inget på några kilometer.
 

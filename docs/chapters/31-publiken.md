@@ -12,9 +12,9 @@ Torkel satt på en uppochnervänd låda som om han väntade på dåligt väder o
 
 Maja såg publiken komma uppför leden.
 
-Kulturjournalister i dyra skor.
-Lokala nyfikna som redan visste att något var fel och därför absolut skulle närvara.
-Politiker med den särskilda raska hållning som säger att varje offentlig yta kan bli egen merit.
+Kulturjournalister i dyra skor.  
+Lokala nyfikna som redan visste att något var fel och därför absolut skulle närvara.  
+Politiker med den särskilda raska hållning som säger att varje offentlig yta kan bli egen merit.  
 Ett par människor från moderna Forn Sed-miljöer som Stina varnat för skulle dyka upp om ord som obruten tradition började kastas runt. Deras ansikten var inte andaktsfulla. De var skeptiska.
 
 Bra.
@@ -23,13 +23,13 @@ Stina själv stod längre bak bland publiken, nästan osynlig, men Maja såg hen
 
 05.22.
 
-Cecilia tog sin plats vid presslinjen. Hon bar headset och mörk kappa och såg ut som om hon fortfarande arbetade för Helena. Det var meningen. Maja visste nu att vissa former av omvändelse måste likna koreografi för att vara användbara.
+Cecilia tog sin plats vid presslinjen. Hon bar headset och mörk kappa och såg ut som om hon fortfarande arbetade för Helena. Det var meningen.
 
 På den låga plattformen mellan stolsraderna stod en täckt låda.
 
 Inte den gamla depålådan. En modernare inramning. Men berättelsen i den var densamma.
 
-Johan Berg stod i kanten nästan utom bild, med tygomslaget över staven i händerna.
+Johan Berg stod i kanten nästan utom bild, med tygomslaget över staven i händerna. Vid hans sida stod den tunna portföljen som kunde innehålla A utan att någon i publiken riktigt behövde förstå att det var där morgonens verkliga sprängstoff låg.
 
 Helena klev upp på plattformen exakt 05.31.
 
@@ -55,6 +55,12 @@ Hon lät publiken se staven först. Lät Helena fullborda sin första bild. För
 
 "...och genom denna vårdade kedja," sa Helena, "kan vi i dag åter närma oss det som generationer före oss burit i trohet och tystnad."
 
+Sedan öppnade hon portföljen.
+
+Inte fullt. Bara nog för att kamera två skulle få pergamentets kant, det skadade sigillet, ordet *privilegium* i förstoring och Helenas hand bredvid.
+
+"Det första brevet," sa hon. "Det som bekräftade en rätt äldre än glömskan."
+
 Maja gick då fram.
 
 Inte upp på plattformen direkt. Först in i publikens synfält från sidan, så att kamerorna måste välja mellan att ignorera henne och att visa avbrottet. De valde henne. Så klart.
@@ -65,25 +71,25 @@ Helena såg henne omedelbart. Ett enda ögonblick blev ansiktet riktigt levande,
 
 Maja gick upp på plattformen utan att be om lov.
 
-"Jag är här för att du läser fel," sa hon, utan mikrofon först.
+"Jag är här för att du visar bara halva sanningen," sa hon.
 
-Cecilia gjorde då exakt det hon lovat. Hon sänkte presslinjens sekundärljud så att tystnaden kring plattformen blev total. Alla hörde när Maja tog upp morgonstenen ur väskan och ställde den på plattformens kant med båda händerna.
+Cecilia gjorde då exakt det hon lovat. Hon sänkte presslinjens sekundärljud så att tystnaden kring plattformen blev total. Alla hörde när Maja tog upp B ur väskan och ställde sig så att två kameror tvingades få både hennes händer och Helenas portfölj i samma bild.
 
-Ljuset från gryningen tog den.
+Ljuset från gryningen tog pergamentet.
 
 Det gick en annan sorts rörelse genom publiken nu. Inte andakt. Förskjutning.
 
-Helena såg stenen och för första gången sedan Maja känt henne tappade hon helt kontroll över ansiktet.
+Helena såg brevet och för första gången sedan Maja känt henne tappade hon helt kontroll över ansiktet.
 
-"Ni borde inte ha rört den," sa hon.
+"Det där borde inte vara här," sa hon.
 
 Maja tog mikrofonen innan någon hann stoppa henne.
 
-"Nej," sa hon. "Du borde inte ha gjort scen av den."
+"Nej," sa hon. "Det borde ha lästs bredvid det du just visade."
 
 Nedanför plattformen såg hon Noah röra sig till rätt position. Berg också, stelare nu, vaksam.
 
-"Den här stenen," sa Maja in i ljudet som nu bar över hela platsen, "är inte bevis för obruten helig vård. Den är en instruktion. Den visar hur människor fört saker vidare, brutit upp gamla former och byggt om dem så att samma händer kunnat ta över både föremålen och rätten att tala för dem."
+"Det här," sa Maja in i ljudet som nu bar över hela platsen, "är det senare brevet. Rättelsen. Det som säger att det första brevet inte får användas ensamt för att hävda jord, gåvor, kyrkor, vägar eller tillträde längs Ormleden."
 
 Någon i publiken sa högt: "Vad betyder det ens?"
 
@@ -91,7 +97,7 @@ Bra, tänkte Maja. Frågan hade börjat bli deras igen.
 
 Helena tog ett steg fram mot henne. "Ni gör en forskarstrid av något människor behöver kunna förstå."
 
-"Nej," sa Maja, och tog fram kopian av avskriften. "Jag skiljer för första gången på dem."
+"Nej," sa Maja. "Jag skiljer för första gången på det du klippt sönder."
 
 05.44.
 

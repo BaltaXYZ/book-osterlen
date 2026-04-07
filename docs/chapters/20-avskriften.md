@@ -2,33 +2,51 @@
 
 De läste tills ögonen började ljuga.
 
-Rummet de fått för sig själva på stationen var egentligen för litet för fem människor, men eftersom ingen ville släppa materialet ur sikte blev de kvar. Dokumenten lades ut i lager. Fotograferades. Jämfördes mot kopiorna från minnesstickan, mot hamnarkivets blad, mot Glimmingehusmarginalerna.
+Rummet de fått för sig själva på stationen var egentligen för litet för fem människor, men eftersom ingen ville släppa materialet ur sikte blev de kvar. Dokumenten lades ut i lager. Fotograferades. Jämfördes mot kopiorna från minnesstickan, mot hamnarkivets blad, mot Glimmingehusmarginalerna och mot de torrare registernotiser Linnea dragit fram ur gamla kataloglådor.
 
 Vid sju på morgonen hade Solveig gjort en grov datering. Linnea hade identifierat två olika senare händer i marginalerna. Maja hade börjat se den egentliga syntesen.
 
-"Det här är inte bara en enstaka stöld," sa hon, och hörde själv hur hes hennes röst blivit. "Det är samma handgrepp om och om igen."
+"Det här är inte bara en enstaka stöld," sa hon, och hörde själv hur hes hennes röst blivit. "Det är en kedja byggd för att skilja ett första brev från rättelsen som kom senare."
 
-Hon pekade på tre texter samtidigt. I den ena: överföring från havets folk till säkrad hand. I den andra: markering om att tecken först måste tas ur bruk innan de kan ges rätt vård. I den tredje, senare marginalkommentaren: *kedjan skall förefalla äldre än den är*.
+Hon pekade på tre texter samtidigt. I den ena: överföring från havets folk till säkrad hand. I den andra: markering om att privilegiebrev skulle föras avsides innan fri läsning hann fästa sig vid dem. I den tredje, senare marginalkommentaren: *det första skall vårdas, det andra skall ej möta det första utan trogen hand*.
 
-"Där," sa hon. "Det är det avgörande. Inte bara att de tog saker. De behövde också att flytten skulle se gammal och självklar ut."
+"Där," sa hon. "Det är det avgörande. De tog inte bara saker. De behövde också skilja dokument från dokument så att det äldre såg större ut än det var."
 
 "Som om allt bara legat där och väntat," sa Noah.
 
-"Ja. Som om de inte stulit något alls, bara tagit hand om det som ändå borde bli deras."
+"Ja. Som om någon gammal rätt bara vilat tills rätt person tog upp den igen."
 
-Linnea vände försiktigt ett blad till. "Toste-notisen här... den följs av ett namn till. En kvinna."
+Linnea vände försiktigt ett blad till. "Toste-notisen här... den följs av fler namn. Inte bara S:t Olof."
 
-Maja böjde sig fram. En kort rad, nästan skymd av fläck:
+Maja böjde sig fram. Där stod orter i följd, några skadade, några klara nog:
 
-**hon som bar sjömärkesorden vidare skall ej lämnas i tal**
+**sancti olavi**  
+**bolerop**  
+**glathas**  
+**iarastath**  
+**simris**
 
-"Inte bara en person alltså," sa Solveig. "Flera som förde orden vidare."
+Hon kände hur något i henne låste sig hårt.
 
-Det gjorde något med Maja. Inte sentimentalt. Mer som att ett mönster blev svårare att hålla rent från kroppar. Hon hade länge kunnat tänka på Arvid som ensam störning i familjehistorien, en privat överdrift. Nu stod hon mitt i en mycket äldre fråga om vem som bär mellanled när institutioner vill äta upp dem.
+"Det här är inte ett lokalt brev," sa hon.
+
+"Vad menar du?" sa Noah.
+
+"A gäller inte bara en kyrka eller en källa. Det följer leden. Ett band av mark, vägar, gårdar, härbärgespunkter, avgifter och förvaring. Det är Ormleden som rättighetskropp."
+
+Solveig såg upp över glasögonen. "Ett regionalt privilegiebrev."
+
+"Ja."
+
+"Och B?"
+
+"B är spärren som säger att allt det där inte får göras till privat, evig ägarmakt."
+
+Det gjorde något med Maja. Inte sentimentalt. Mer som att ett mönster blev svårare att hålla rent från kroppar och framtid. Hon hade länge kunnat tänka på Arvid som ensam störning i familjehistorien, en privat överdrift. Nu stod hon mitt i en mycket äldre fråga om vem som bär mellanled när institutioner vill äta upp dem.
 
 Noah såg att hon gled iväg tankemässigt. "Var är du?"
 
-"Hos dem som alltid blir av med något när sanningen först måste kläs upp för att få släppas fram."
+"Hos dem som alltid blir av med något när makt först måste klä upp ett gammalt övergrepp till rättmätigt arv."
 
 Han svarade inte direkt, men hans blick stannade kvar.
 
@@ -44,31 +62,53 @@ Vid halv nio kom första juridiska slaget. David Åhs hade advokat. Cecilia drog
 
 Maja fortsatte läsa avskriften. Där, i slutet, fanns en passage som ingen av dem först förstått fullt:
 
-**när tecken åter visas skall de stå som om de själva valt sin vård, och det folk som först bar dem skall ej längre kunna känna igen sin egen hand i saken**
+**när det första åter visas skall det stå som gammal rätt, och det senare skall förvaras så att ingen ensam hand må hävda jord, gåva, kyrkohus, väg eller marknad genom det första allena**
 
 Hon läste högt.
 
 Rummet blev tyst.
 
-"Det är hela Helena," sa Noah till slut.
+"Där är det," sa Linnea. "Två dokument. Inte ett."
 
-"Ja," sa Maja. "Och hela den äldre operationen hon upprepar."
+Maja nickade. "Det första är ett privilegiebrev. Det andra är en rättelse. Det första låter som rätt att styra ett helt band längs leden. Det andra tar tillbaka nästan allt."
 
-"Så vad innehåller själva föremålet då, mer än symbolisk kraft?"
+Noah stod mycket stilla. "Hur mycket är nästan allt?"
 
-Maja tog upp bronsstaven igen. Under bättre ljus syntes de små tecknen längs ena sidan klarare. Inte runrad. Inte ren ornamentik. En blandning av markeringar, kanske sekundära ristskikt.
+Maja drog fram ännu ett blad. Där stod en senare sammanfattning, sämre hand men klar nog:
+
+**ingen efterkommande må av det första ensam hävda jord, gåva, tionde, vård av kyrka, vägled eller förvaring av kista**
+
+"Inte bara symbolik alltså," sa han.
+
+"Nej," sa Maja. "Det här gäller jord. Inkomster. Kyrkorum. Vägpunkter. Förvaring. Allt som senare kan växa till makt om fel person får stå på det ensam."
+
+Solveig såg på föremålet med en forskares hunger som nästan blev barnslig. "Förstår du vad det betyder? Helena kan hålla upp ett äldre brev i gryningsljus, tala om obruten linje och låta hela Sverige tro att hon bara återtar något som alltid varit hennes."
+
+"Och om det andra brevet saknas," sa Linnea, "kan hon åtminstone starta processerna."
+
+Noah såg från henne till Maja. "Processer?"
+
+Maja hörde själv hur orden blev enklare när rädslan väl fått form.
+
+"Anspråk på mark. Krav mot församlingar. Frysning av användning. Press på Lunds stift. Förhandlingar som gör att folk ger ifrån sig saker bara för att slippa blöda ut juridiskt. Och om leden är tillräckligt sammanhängande får hon också något annat."
+
+"Vad?"
+
+"Tillträde. Kartor. Första rätt att sitta vid bordet när avtal börjar skrivas."
+
+Noah drog handen över ansiktet. "Så Severin dog inte bara för ett fynd."
+
+"Nej," sa Maja. "Han dog för att han förstod att det äldre brevet utan rättelsen kan bli ett vapen."
+
+Hon tog upp bronsstaven igen. Under bättre ljus syntes de små tecknen längs ena sidan klarare. Inte runrad. Inte ren ornamentik. En blandning av markeringar, kanske sekundära ristskikt.
 
 Hon tog fram förstoringsglaset från beviskitet och såg.
 
-"Inte inskrift i vanlig mening," sa hon. "Mer som stöd för minnet. Som om staven hjälper bäraren att komma ihåg i vilken ordning något ska visas eller föras vidare."
+"Inte inskrift i vanlig mening," sa hon. "Mer som stöd för minnet. Som om staven hjälper bäraren att komma ihåg i vilken ordning saker ska visas. Först föremål. Sedan brev. Sedan personen som säger vad de betyder."
 
 "En fysisk prompt," sa Noah.
 
-"Ja. För en visning eller ledning."
-
-Solveig såg på föremålet med en forskares hunger som nästan blev barnslig. "Förstår du vad det betyder? Helena kan hålla upp den där i gryningsljus, säga obruten helig kedja och nästan ingen i publiken kommer kunna se skillnaden. Föremål kör över fotnoter."
-
-"Därför måste vi visa beviset på rätt sätt," sa Maja.
+"Ja. För en offentlig installation. Och för den som behöver få andra att öppna innan de hunnit tänka."
 
 Det var då Noahs telefon ringde från chefsåklagaren igen. Han lyssnade längre denna gång. Sa väldigt lite. När han la på hade ansiktet blivit tommare, vilket var värre än när det blev hårt.
 
@@ -112,17 +152,17 @@ Solveig såg på honom. "Det där lät väldigt lite som ett råd från en omgru
 
 Maja vände åter till avskriften. Längst nere i kanten, nästan utanför bladet, fanns ännu en senare kommentar.
 
-**om vårdaren själv blir scen skall ingen kedja längre finnas kvar att återta**
+**om det senare brevet räddas skall det läsas mot den som vill göra det första till krona över leden**
 
 Hon läste den högt.
 
 Noah stannade i dörren.
 
-"Vårdaren själv blir scen," upprepade han.
+"Över leden," upprepade han.
 
 Maja såg på bronsstaven, på lådan, på Helena i gryningsljus mellan stolar och kamera.
 
-"Hon tänker inte bara visa föremålet," sa hon. "Hon tänker stå bredvid det i rätt ljus och få alla att tro att det hör hemma hos henne."
+"Hon tänker inte bara visa ett gammalt föremål," sa hon. "Hon tänker stå bredvid ett äldre brev i rätt ljus och få alla att tro att det ger henne rätt till ett helt band genom Österlen."
 
 "Ja," sa Noah. "Och när det väl hänt är det mycket svårare att få någon att se henne som tjuv."
 

@@ -110,7 +110,7 @@ Hon gjorde det inte genast. Sedan:
 
 "Och det oroar dig inte?"
 
-Berg knäppte igen lädermappen framför sig. "Alla starka vårdare behöver i någon grad bli sedda i sin funktion. Det är inget fel i sig."
+Berg knäppte igen lädermappen framför sig. "Alla starka anspråksbärare behöver i någon grad bli sedda i sin funktion. Det är inget fel i sig."
 
 "Nej," sa Cecilia. "Men det blir fel när funktionen börjar kräva att verkligheten böjs för att se ut som om den valt henne."
 

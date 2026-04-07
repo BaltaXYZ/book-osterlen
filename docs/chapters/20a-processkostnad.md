@@ -66,7 +66,7 @@ David log med ena mungipan. "Ni får det att låta cyniskt."
 
 "Det är vuxet."
 
-Maja lutade sig fram. "Nej. Vuxet är att förstå att ordning byggd på förrådda bärare inte blir stabil, bara vacker på håll. Cyniskt är att låtsas att det spelar mindre roll så länge berättelsen håller till tv-kameran."
+Maja lutade sig fram. "Nej. Vuxet är att förstå att ordning byggd på förrådda bärare inte blir stabil, bara vacker på håll. Cyniskt är att låtsas att det spelar mindre roll så länge rätt person får stå kvar med nycklarna."
 
 David sa inget. Inte för att han var övertygad. För att han inte hade språket för att försvara sin position i samma register.
 
@@ -94,19 +94,19 @@ David såg på henne för första gången med något som nästan liknade intress
 
 Det var så exakt och så vidrigt att Noah fick ett kort ljud ur sig.
 
-"Och stenen?" sa Maja. "Kalkstenen."
+"Och rättelsen?" sa Maja. "Det senare brevet."
 
 Den första riktiga sprickan kom då. Inte mycket. Men den kom.
 
-"Den var tänkt som senare säkerhet," sa David. "Om någon började tala om konstruktion för tidigt skulle man kunna visa att formen också fanns där i marken. Folk älskar när marken verkar säga ja till en historia."
+"Den var tänkt som riskpost," sa David. "Inte för scenen. För efteråt. Om någon annan hann hitta den måste den bort innan första brevet hunnit bli användbart."
 
-"Också om marken blivit lagd dit av människor?"
+"Så Helena letar inte efter det för att visa det?" sa Maja.
 
-"Särskilt då, om de inte vet det."
+"Nej," sa David. "Hon letar efter det för att slippa det."
 
-Maja satt mycket still. Här var det igen: centrumets hunger efter att låta platsen själv ge sitt samtycke.
+Maja satt mycket still. Här var det igen: systemets hunger efter att låta mark, kyrka och historia samtycka till samma ägare.
 
-Förhöret pågick i nästan en timme till. David gav inga rena bekännelser om död eller direktiv, men han gav struktur nog. Stenportens motor var nu tydligare som system: Helena som centrum, Berg som juridiskt skelett, Cecilia som bild- och pressrytm, David som lågfriktionsled mellan materiell förflyttning och scen.
+Förhöret pågick i nästan en timme till. David gav inga rena bekännelser om död eller direktiv, men han gav struktur nog. Stenportens motor var nu tydligare som system: Helena som vision och hunger, Berg som juridiskt skelett, Cecilia som bild- och pressrytm, David som lågfriktionsled mellan materiell förflyttning och scen.
 
 Efteråt stod Maja och Noah i korridoren med utskrifterna.
 
@@ -136,22 +136,34 @@ Linnea, som stod vid kopiatorn, gav ifrån sig ett torrt skratt. "Och just därf
 
 Maja gick tillbaka till bordet med depåmaterialet och lade Davids utsagor bredvid de äldre texterna. Århundraden emellan. Samma logik. Samma fördelning av hand, ordning, vård, skuld.
 
-Det var då hon såg något hon tidigare missat i en av de sena marginalerna. Ett litet tecken vid en namnrad, nästan som en notering om skuldöverföring:
+Det var då Linnea vinkade åt dem från sin laptop.
 
-**processus**
+"Jag fick tag på Wern," sa hon. "Den kulturarvsjurist jag nämnde i natt. Hon har läst bilderna av A och sammanfattningen av B."
 
-Inte juridik. Inte exakt. Mer som en latinisering av förloppet. Att själva processen i sig bar och fördelade lasten.
+Hon slog på högtalaren.
 
-"Herregud," sa hon.
+En äldre kvinnlig röst kom ut i rummet utan inledning.
 
-"Vad nu?" frågade Noah.
+"Jag säger det hårddraget så att ni förstår risknivån," sa juristen. "Hon får inte Stenshuvud. Hon får inte köra över nationalpark, minerallag och miljöbalk med ett pergamentbrev från 1101. Men om A står ensam och håller för första processvågen kan hon få tillräckligt mycket mark- och avtalsläge för att öppna stora delar av Ormleden för provborrning, täkter och optionsavtal."
 
-Hon pekade.
+Noah stod still.
 
-"Det här är äldre än dem. Mycket äldre. Inte samma ord, men samma idé: fördela handlingen så att ingen enskild bärare syns som hela brottet."
+"Hur stort?" sa han.
 
-Noah såg på raden och sedan på henne. "Då har vi inte bara motiv. Vi har arv i den fulaste bemärkelsen."
+"Tillräckligt stort för att folk i efterhand kommer säga att hon försökte göra Österlen till ett gruvhål. Hårddraget, ja. Men det är så det kommer kännas när prospektörer, täktbolag, vägar, upplag och ersättningsprocesser väl börjat rulla."
 
-"Ja," sa Maja. "Och nu är frågan hur man bryter ett arv som alltid gömmer sig i sina mellanled."
+Maja blundade ett ögonblick.
 
-Svaret kom inte då. Men själva frågan blev tydligare. Och det var, i den här romanen och i den här bygden, ofta första nödvändiga våldet mot en lögn.
+"Så A är inte magi," sa hon.
+
+"Nej," sa rösten torrt. "Det är värre än magi. Det är förhandlingsläge."
+
+Samtalet bröts kort därefter. Ingen i rummet sa något först.
+
+Noah var den som till sist formulerade det.
+
+"Då har vi inte bara motiv," sa han. "Vi har en framtida krigszon."
+
+Maja såg på raden i marginalen och sedan på staven.
+
+"Ja," sa hon. "Och nu är frågan hur man bryter ett arv som alltid gömmer sig i sina mellanled."

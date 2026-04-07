@@ -99,3 +99,59 @@ Utfall:
 - story core och synopsis skärpta kring flyttade föremål, dold logistik och senare övertagande
 - nyckelkapitel reviderade så att smuggel, förvaring, juridik och offentlig lansering binds ihop tydligare
 - Helena och Cecilia fördjupade med fler konkreta motivspår utan att modern Forn Sed blandas ihop med antagonistens maktspel
+
+## Iteration 8
+Status: klar
+Syfte: låsa om romanens stake kring Dokument A/B, regional markkris och Helenas plan att göra om Österlen i grunden
+Klart när:
+- story core, synopsis, structure grid, clue chain och chapter plan speglar A/B-motorn
+- S:t Olof och Bollerup är låsta som historiska nyckelplatser
+- Helenas mål, Cecilias sena vändning och den större regionala konsekvensen är dokumenterade
+
+Utfall:
+- Dokument A/B, Olofskomplexet och Ormledens senmedeltida separation låsta i kärndokumenten
+- stakes höjda från narrativ prestige till regional jord-, kyrk- och exploateringskris
+- Helena Wredes mål förtydligade som marksamling och hyperkommersialisering av Österlen
+- Cecilia förankrad som sen förrädare via internt planeringsdokument
+
+## Iteration 9
+Status: klar
+Syfte: synka själva romantexten med A/B-motorn och den större Österlen-staken
+Klart när:
+- sena reveal- och finalkapitel bygger på A, B, `Olofslinjen` och S:t Olof i stället för den äldre morgonstensmotorn
+- Helenas konkreta plan för mark, kyrka och exploatering är tydlig i manus, inte bara i stöddokument
+- sammanslaget manus och PDF är ombyggda från uppdaterade kapitel
+
+Utfall:
+- kapitelkedjan från avskrifterna genom finalen omskriven så att B hittas vid S:t Olof och A utan B blir den centrala faran
+- Helena Wredes mål konkretiserade i manus som processer mot kyrkan, marksamling och premiumutveckling av Österlen
+- Cecilias sena vändning förankrad i `Olofslinjen` och hotet att hon själv ska offras
+- äldre sidovarianter med den gamla morgonstensfinalen borttagna för att undvika motstridiga manusspår
+- `docs/manuscript-full.md` och `docs/manuscript.pdf` ombyggda från aktuell kapitelmapp
+
+## Iteration 10
+Status: klar
+Syfte: låsa kultspåret som kamouflage för tillträde, göra Helena till ensam dold exploatör och konkretisera gruv- och täkthotet längs Ormleden
+Klart när:
+- tidiga kapitel visar att kulttolkningen öppnar dörrar och skapar arbetsro snarare än bara publikmagi
+- Dokument A fungerar som Ormleden-dokument med regional räckvidd längs leden
+- mörkaste punkt och final gör råvaru-, täkt- och prospekteringshotet begripligt utan att bryta mot modern svensk juridik
+
+Utfall:
+- story core, synopsis, structure grid och chapter plan uppdaterade med Ormledsbandet, kult som kamouflage och gruv-/täktstråk som konkret stake
+- nyckelkapitel reviderade så att Stenporten blir kapad fasad, Helena ensam dold exploatör och den dolda råvarukopplingen avslöjas sent
+- `Olofslinjen` byggd om till tvåspårig plan med både premiumutveckling och prospekterings-/täktlogik
+
+## Iteration 11
+Status: klar
+Syfte: strama upp reveal-ordningen så att Helena inte blir för tydlig för tidigt och så att Stenporten förblir en delvis godtrogen fasad längre
+Klart när:
+- tidiga kapitel visar Stenporten som polerad kulturaktör snarare än fullt invigd huvudskurk
+- Helenas POV och mittkonfrontation bär tillträde, arbetsro och processlogik utan att för tidigt avslöja råvaruspåret
+- Cecilias sena avslöjande delas upp så att den slutliga maskinen fortfarande upptäcks i steg
+
+Utfall:
+- story core, chapter plan och decisions uppdaterade med bindande revealdisciplin
+- tidiga misstankescener tonade ned kollektiv skuld hos Stenporten
+- Helenas mittkapitel flyttade från abstrakt centrumretorik till mer operativ tillträdeslogik
+- Cecilias sena informationsblock delades upp för bättre upptäckarrytm

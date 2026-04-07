@@ -14,7 +14,7 @@ En kropp hittas vid Ales stenar och brottsplatsen slår fast både chock, symbol
 Maja kallas in, återvänder motvilligt till Österlen och ser tidigt att bronsspåret inte betyder det polisen tror.
 
 ### 03. Noah Rask
-Maja möter Noah och deras olika sätt att arbeta skaver direkt samtidigt som Stenportenstiftelsen träder in.
+Maja möter Noah och deras olika sätt att arbeta skaver direkt samtidigt som Stenportenstiftelsen träder in som polerad kulturaktör med ovanligt stark vilja att styra åtkomst och kommunikation.
 
 ### 04. Glimmingehus efter stängning
 Första besöket i Glimmingehus ger notisen om ormens led och slutar i en fysisk attack.
@@ -29,7 +29,7 @@ Maja öppnar sin fars gamla anteckningar och hittar den första platsvägen.
 Kiviksgraven blir en konkret nyckelplats där bildgåtan börjar lossna.
 
 ### 08. Falsk botten
-En första teori om gammal kult känns övertygande, men någon dödar för att hålla just den teorin vid liv.
+En första teori om gammal kult känns övertygande, men någon håller den aktiv därför att den döljer vad som egentligen jagas.
 
 ## Del II: Vägen genom landskapet
 
@@ -37,13 +37,13 @@ En första teori om gammal kult känns övertygande, men någon dödar för att 
 Platsnamn, lokala berättelser och Majas minnen ger en mer jordnära förståelse av Österlen.
 
 ### 10. Det levande bruket
-Maja möter en nutida Forn Sed-röst som skiljer levande tro från Helenas lånade språk.
+Maja möter en nutida Forn Sed-röst som skiljer levande tro från Helenas lånade språk och visar att kultspåret fungerar som kamouflage för tillträde.
 
 ### 11. Magasin
-Severins arbetsmaterial visar att något flyttats i hemlighet mellan förråd, arkiv och mellanlager.
+Severins arbetsmaterial visar att något flyttats i hemlighet mellan förråd, arkiv och mellanlager och att spåret inte bara gäller fynd utan brev.
 
 ### 12. Stiftelsen
-Helena Wrede träder fram både offentligt och privat och visar hur hon styr rum, tonfall och människor.
+Helena Wrede träder fram både offentligt och privat och visar hur hon använder stiftelsens legitimitet för att säkra tillträde, arbetsro och särskilda undersökningsfönster.
 
 ### 13. Fotograferna
 Ett vittne med nattbilder av transporter hittas och blir nästa mål för våld.
@@ -52,10 +52,10 @@ Ett vittne med nattbilder av transporter hittas och blir nästa mål för våld.
 Maja och Noah ser från Stenshuvud hur platserna hänger ihop som sjömärken och kontrollpunkter.
 
 ### 15. Vem äger berättelsen
-Maja börjar förstå att striden gäller vem som hinner sätta sanningen först, inte bara vem som hittar den.
+Maja börjar förstå att striden gäller vem som genom berättelsen får nycklar till mark, tillträde och framtida avtal.
 
 ### 16. Det som inte är en kult
-Midpoint: Ormleden visar sig vara en gammal väg för dyrbara saker och senare ett sätt att få samma flyttar att se gamla och rättmätiga ut.
+Midpoint: Ormleden visar sig vara en gammal väg för privilegiebrev, sigill och andra dyrbara saker och i nutid ett kultkamouflage som ger Helena tillträde till de platser där A och B kan hittas.
 
 ## Del III: Det som gömts för att användas
 
@@ -63,19 +63,19 @@ Midpoint: Ormleden visar sig vara en gammal väg för dyrbara saker och senare e
 Myndigheter tvekar, polisen binds upp och Stenporten vinner dyrbar tid.
 
 ### 18. Det som fadern såg fel
-Maja omvärderar sin fars arbete och ser skillnaden mellan hans verkliga upptäckt och hans överdrifter.
+Maja omvärderar sin fars arbete och ser skillnaden mellan hans verkliga upptäckt och hans feltolkning av en rättighetskedja som kultspår.
 
 ### 19. Den förseglade depån
-En gömd samling dokument och fyndnotiser hittas.
+En gömd samling dokument, fyndnotiser och sena avskrifter hittas.
 
 ### 20. Avskriften
-Maja läser de senmedeltida notiserna och ser hur våld, stöld och övertagande ligger bakom Ormleden.
+Maja läser de senmedeltida notiserna och ser hur våld, stöld, dokumentseparation och ett regionalt Ormledsband av mark, kyrkor och framtida exploateringsläge ligger bakom Ormleden.
 
 ### 21. Noah stängs ute
 Noah mister sitt officiella mandat genom läckor och intern press.
 
 ### 22. Wredes argument
-Helena säger rent ut att människor hellre följer en stark berättelse än en splittrad sanning.
+Helena försvarar sin rätt att hålla ihop material, rum och tillträden före andra och låter ana hur mycket större hennes plan är än ett evenemang.
 
 ### 23. Den andra döden
 En person som kunde bekräfta Severins invändningar mördas innan vittnesmål säkras.
@@ -86,30 +86,30 @@ Maja och Noah bråkar om hur sanningen ska användas, men konflikten för dem n�
 ## Del IV: Mörkaste punkt
 
 ### 25. Övertaget
-Stenporten får tag i större delen av materialet och gör sig redo för sitt stora framträdande.
+Helena får tag i större delen av materialet, sitter redan på A och börjar avslöjas genom `Olofslinjen` som en dold exploatör utanför Stenportens officiella uppdrag medan jakten på B hårdnar.
 
 ### 26. Inte tillräckligt ren
-Maja inser att hennes gamla arbetsmetod nu är för långsam och för ensam för att stoppa Helena.
+Maja inser att hennes gamla arbetsmetod nu är för långsam och för ensam för att stoppa Helena innan hon gör Österlen till ett privat exploateringsprojekt.
 
 ### 27. Kåseberga natt
-Hamn, by, gamla lojaliteter och lokal logistik blir avgörande.
+Hamn, by, gamla lojaliteter och lokal logistik blir avgörande när B måste nås före gryningen.
 
 ### 28. Den sten som inte skall se morgonljus
-Den sista fysiska nyckeln till Ormleden hittas.
+Den sista fysiska nyckeln till Ormleden hittas och pekar mot B:s verkliga gömställe.
 
 ### 29. Scenmanuset
-Helena Wredes plan för gryningsevenemanget avslöjas i detalj.
+Helena Wredes plan för gryningsevenemanget, `Olofslinjen: Etappplan 1-4` och hennes dolda råvarukoppling fogas ihop till en full läsbar maskin.
 
 ### 30. Valet före gryningen
-Maja måste välja hur mycket hon vågar släppa och hur hon ska göra det utan att tappa kontrollen helt.
+Maja måste välja hur mycket hon vågar släppa, Cecilia måste välja sida och B måste fram innan A görs offentligt utan motvikt.
 
 ## Del V: Gryning över Ormleden
 
 ### 31. Publiken
-Evenemanget vid Ales stenar börjar under hård offentlig press.
+Evenemanget vid Ales stenar börjar under hård offentlig press medan Helenas anspråk redan står på tröskeln till offentlig verklighet.
 
 ### 32. Ormen vänder sig
-Klimax: Maja bryter lögnen inför publik, Noah säkrar bevisen, Helena tappar scenen och sanningen släpps i en form som både räddar och kostar.
+Klimax: Maja bryter lögnen genom att återföra B till A inför publik, Noah säkrar bevisen, Cecilia spräcker Helenas maskin och sanningen släpps i en form som både räddar och kostar.
 
 ## Upplösning
 Läggs som kort efterdel i kapitel 32 eller som en epilogisk sekvens i samma fil beroende på slutredigeringens rytm.

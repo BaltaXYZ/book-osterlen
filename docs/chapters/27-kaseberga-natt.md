@@ -16,75 +16,91 @@ Ingrid satt redan där med armarna hårt korsade över kappan. Linnea kom sist, 
 
 Det var så exakt att Torkel faktiskt fnös till.
 
-Maja lade ut det de hade på arbetsbänken: metallremsan, kopior av körplanen, bilden över stoluppställningen, faderns notering om stenen som inte skall se morgonljus.
+Maja lade ut det de hade på arbetsbänken: blyremsan, kopior av körplanen, bilden över stoluppställningen, faderns notering om stenen som inte skall se morgonljus och sin egen snabba återgivning av `Olofslinjen: Etappplan 1-4`.
 
-"Vi behöver två saker före gryningen," sa hon. "Förstå var sista fysiska nyckeln i kedjan finns och stoppa den sista transporten till scenen."
+"Vi behöver två saker före gryningen," sa hon. "Hitta B innan Helena gör det och stoppa den sista transporten till scenen."
 
-Torkel pekade med sin knivskaftsfinger mot bilden på Ales stenar. "Det här med stolarna. De där raderna är inte satta som vanliga kommunstolar sätts."
+Ingen sa något först. Det var Ingrid som till slut tog upp etappplanen och läste den sida Maja märkt med blyerts.
+
+**första processen måste vara stor nog att få kyrkan att blöda**
+
+Modern lät bladet sjunka.
+
+"Hon tänker alltså inte bara bli berömd."
+
+"Nej," sa Maja.
+
+Linnea fyllde i, sakligare för att slippa vrede. "Om hon får A ensam kan hon åtminstone starta anspråk. Det räcker för att binda mark, pressa församlingar, frysa framtida bruk och tvinga fram uppgörelser."
+
+Torkel pekade med sin knivskaftsfinger mot bilden på Ales stenar. "Och här bygger hon bilden som ska få allt det där att se gammalt och självklart ut."
+
+Noah nickade. "Ja."
+
+Hamid, som dragit upp luvan när han kom in i boden, sa lågt:
+
+"De pratar om det där som om byn redan är deras."
+
+Maja såg på honom.
+
+"Hur då?"
+
+Han drog på axlarna. "Som om allt här bara är dåligt organiserat tills nån rik jävel lägger rätt ritning över det."
+
+Det gjorde henne märkligt mer rädd än Bergs språk. För Hamid sa det utan teori. Bara som någon som hört vad människor säger när de tror att servicepersonal inte räknas.
+
+Torkel pekade på stolbilden igen. "Det här med stolarna. De där raderna är inte satta som vanliga kommunstolar sätts."
 
 Noah såg upp. "Vad menar du?"
 
-"För tätt åt ena hållet, för glest åt andra. Någon anpassar efter något i marken."
+"För tätt åt ena hållet, för glest åt andra. Någon anpassar efter något i marken. Inte viktigt för sanningen kanske. Men viktigt för bilden."
 
 Maja kände hur håren reste sig över armarna.
 
-"Sidosten," sa hon.
+"Ja," sa hon. "Hon tänker fortfarande låta marken runt scenen se samtyckande ut. Men det är inte där B ligger."
 
-Torkel nickade. "Om de ska ställa en låda så att kameran får rätt vinkel kanske de inte bara följer monumentet. Kanske följer de något under eller bredvid."
+Ingrid hade redan faderns block öppet. "Arvid talade om S:t Olof i månader den där hösten. Inte om kyrkan först. Om hur vissa platser låter våtare än de är."
 
-Emil höjde sin svaga röst ur telefonen. "Jag kan visa er klippet från gårdagen med stolsättningen. Det finns mer mark än det som syns på pressbilden."
+"Ja," sa Maja. "Han hörde rätt plats men fyllde den med fel betydelse."
 
-Han delade skärmen. Där, i låg vinkel, syntes två eventarbetare mäta inte från mitten utan från en något förskjuten sten i markplanet, halvt dold av gräs.
+Noah tog över. "Bra. Då behöver vi också transporten. Hamid?"
 
-Linnea sa först: "Den stenen finns inte i nuvarande publikritning."
+Killen stod med cigaretten som en sköld mellan fingrarna trots att han inte tänt den.
 
-"För att den inte ska synas," sa Maja.
+"Det är två leveranser," sa han. "En större innan fyra och en mindre precis innan pressen öppnar. Den mindre går inte via huvudvägen. Den går bakom servicehuset och upp till skärmzonen."
 
-Ingrid, som hittills varit tystare än vanligt, tog upp faderns lapp och läste själv. "Sidosten i mark vid Simris, senare förd till skeppsplats?"
+"Vem sa det?" sa Noah.
 
-Hon såg på Maja. "Han talade om en flyttad sten i flera år. Jag trodde det var ett av hans värsta sidospår."
+"Cecilia först. Sen mannen i kostym och glasögon. Inte den stora säkerhetskillen."
 
-"Det trodde jag med."
+Berg.
 
-"Och nu?"
+"Vad bärs i den mindre?" sa Maja.
 
-"Nu tror jag att han blandade ihop två platser men inte två funktioner. Stenen kan ha märkts upp i Simrisledet eller kommit därifrån, men används vid Ales som dold sidonyckel i själva iscensättningen."
+Hamid drog på munnen. "Om jag visste det skulle jag inte stå här. Men alla beter sig som om den är viktigare än den stora."
 
-Noah tog över. "Bra. Då behöver vi också transporten. Torkel?"
+Det var exakt vad Noah behövde höra.
 
-Den gamle fiskaren ryckte på axlarna. "Om de ska flytta något större till åsen utan att dra för mycket blick går det inte via huvudparkeringen i natt. För många spanande idioter efter allt som hänt. De tar gamla servicevägen bakom bodarna eller kör från den nedre ladan vid hamnen."
+"Varför berättar du?" sa han.
 
-Emil flikade in genom högtalaren: "Jag såg samma skåpbil två gånger där nere. Mörkgrå. Utan märkning."
+Hamid såg på cigaretten. "För att jag är less på att folk kommer hit och talar som om vi bara är funktion för deras jävla upplevelser. Och för att Eva Holm brukade vara schysst mot mig när jag jobbade på Glimmingehus en sommar. Sen såg jag hennes bild i nyheterna."
 
-Linnea drog ett streck på en utskrift av bykartan. "Om vi blockerar här måste de ta den andra vägen. Och då ser ni dem från bodarna."
+Det räckte.
 
-Maja såg runt gruppen. Det här var det hon fruktat och behövt: människor med olika läsningar av samma terräng, inte underordnade en institution utan bundna av omständigheten att de ännu inte låtit Helena definiera deras roller.
-
-"Jag hatar att det fungerar," sa hon.
-
-Ingrid gav henne en blick som varit modern sedan hon var fem. "Det är för att du är din fars dotter på fel sätt."
-
-Torkel hostade till. "Kan vi hålla familjeterapin kort och planen längre?"
-
-Noah gjorde upp den snabbt. Han och Torkel vid hamnens serviceväg. Linnea i redskapsboden med ögon på den andra bilen och direktlinje till Maja. Ingrid hemma men med alla faderns kvarvarande block framme, ifall Simris-spåret gav sista tolkningen. Emil skickade bildutsnitt så långt han orkade.
+Noah gjorde upp planen snabbt. Han och Torkel skulle hålla hamnens serviceväg. Linnea skulle sitta i boden med öron på trafiken och direktlinje till Maja. Stina skulle gå in bland de första åhörarna och störa alla försök att göra modern Forn Sed till Helenas kuliss. Ingrid skulle sitta kvar hemma med blocken och ta emot varje liten detalj Maja hittade i S:t Olof.
 
 "Och du?" sa Noah till Maja.
 
-"Jag går upp till stenarna innan de stänger området helt."
+"Jag åker dit nu."
 
-"Ensam?"
+"Säker?"
 
-"Inte ensam. Med telefon. Med Linnea. Med er. Men ja, kroppsligt ensam."
+"Nej. Men det här är B. Om hon hittar det först finns inget kvar att stoppa."
 
-Han ville säga nej. Hon såg det.
-
-"Jag är den som vet vad jag letar efter."
-
-Torkel spottade ut i en gammal burk. "Jag följer henne till halvvägs. Ni storstadsmänniskor går fel i mörker även när ni tror ni inte gör det."
+Torkel hostade till. "Jag kör. Ingen ska behöva leta kyrkmur åt folk från Lund efter två på natten."
 
 Maja protesterade inte. Hon hade blivit för trött för stolthet där den inte tjänade saken.
 
-De gick ut i natten en efter en. Havet låg svart och tungt under molnen. Hamnens lampor drog gula skåror över det våta gruset. När Maja och Torkel började leden upp mot Ales stenar höll den gamle fiskaren ficklampan släckt nästan hela vägen.
+De gick ut i natten en efter en. Havet låg svart och tungt under molnen. Hamnens lampor drog gula skåror över det våta gruset. När Maja och Torkel satte sig i hans gamla pickup och rullade ut genom byn höll han radion avstängd och blicken stilla på vägen.
 
 "Du vet," sa han efter några minuter, "din far var inte klok."
 
@@ -98,16 +114,12 @@ Maja sa inget.
 
 Det var för mycket fäder i luften nu, för mycket folk som påminde henne om vad hon undvikit. Ändå tog hon emot orden.
 
-Vid den sista stigningen stannade Torkel.
-
-"Därifrån går du själv. Jag håller öga mot hamnen."
-
-Hon nickade. När hon gick vidare ensam låg monumentet redan svart mot himlen. Stenarna stod i nattfukt och väntan.
+När de passerade Hammenhög och vek av mot S:t Olof låg vägarna nästan tomma. Kyrktornet kom fram ur mörkret som en blekare skugga än resten av landskapet. Maja såg det och kände hur kroppen gjorde samma sak den alltid gjorde inför verkliga fyndplatser: drog ihop sig till instrument.
 
 Nedifrån kom ett kort meddelande i öronsnäckan från Noah:
 
 "Skåpbilen i rörelse. Tio minuter."
 
-Maja ökade stegen.
+Maja svarade inte. Hon såg bara tornet växa.
 
 Gryningen var nära nog nu för att natten börjat tappa auktoritet. Men ännu inte så nära att fel sten avslöjade sig själv.

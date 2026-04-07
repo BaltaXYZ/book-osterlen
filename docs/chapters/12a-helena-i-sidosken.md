@@ -18,13 +18,13 @@ Cecilia sa: "Malm var på platsen i morse."
 
 "Hon läste bronsspåret rätt snabbare än väntat."
 
-Helena såg upp först då. "Nej. Hon läste det inte rätt. Hon läste det farligt nära rätt utan att ännu förstå vad som gör en läsning användbar."
+Helena såg upp först då. "Nej. Hon läste det inte rätt. Hon läste det farligt nära rätt utan att ännu förstå vad som faktiskt gör en läsning användbar."
 
 Det var skillnad, och en viktig sådan.
 
-Helena gick bort till fönstret. Ute låg hamnen i kvällsblåst, båtarna dunkade lätt mot sina fästen. Kåseberga gjorde henne alltid lätt rastlös. Inte för att platsen saknade skönhet, utan för att den bar för mycket lokal rättighet. Människor här trodde att närhet gav dem äganderätt till berättelsen. Helena hade tillbringat halva sitt vuxna liv med att veta att närhet i sig är värdelös om den inte formas.
+Helena gick bort till fönstret. Ute låg hamnen i kvällsblåst, båtarna dunkade lätt mot sina fästen. Kåseberga gjorde henne alltid lätt rastlös. Inte för att platsen saknade skönhet, utan för att den bar för mycket lokal rättighet. Människor här trodde att närhet gav dem äganderätt till berättelsen. Helena hade tillbringat halva sitt vuxna liv med att veta att närhet i sig är värdelös om den inte formas till tillträde.
 
-Hon tänkte, mot bättre vetande, på biskopsjubileet i Lund då hon byggt hela utställningssekvensen och fått se en äldre professor beskrivas som rummets egentliga upphovsman i morgontidningen. På museiåteröppningen i Kalmar där hon skrivit talets struktur, valt objekten, lagt presslinjen och sedan tackats från scen för "utmärkt samordning". På departementspanelen där en minister kallat henne ovärderlig i korridoren och sedan citerat hennes formuleringar som sina egna. Det var alltid samma mönster. Hon byggde rummet. Någon annan fick vara den som upptäckt vad rummet betydde.
+Stenporten hade från början passat henne väl. En riktig stiftelse. Riktiga kataloger. Riktiga renoveringar. Riktiga pedagogiska projekt. De andra i styrelsen trodde fortfarande att Ormleden var en djärv men fullt begriplig satsning på södra Skånes sammanhållna kulturarv. Det var nästan rörande. De såg fortfarande ett bättre program. Ett större besöksmål. Ett nytt sätt att hålla ihop berättelser mellan kust och inland. De såg nattvandringar, forskarfönster och förlängda öppettider. Helena lät dem se just det.
 
 "Severin?" sa Cecilia försiktigt.
 
@@ -34,11 +34,11 @@ Helena vände sig om. "Han valde att bli sentimental vid fel tidpunkt."
 
 Helena såg på henne en sekund, prövande. Cecilia hade börjat glida på senare tid, inte i lojalitet exakt men i nervsystem. Hon kände den mänskliga kostnaden för skarpt nu. Det var ofta vad som hände med de näst mest intelligenta i ett projekt. De såg för mycket för att vara maskiner och för lite för att våga bli förrädare tidigt.
 
-"Jag vet vad du frågar," sa Helena. "Och svaret är fortfarande att centrumet måste bäras. Oavsett vilka perifera tragedier som uppstår när människor missförstår sin plats i processen."
+"Jag vet vad du frågar," sa Helena. "Och svaret är fortfarande att fönstren måste hållas öppna. Oavsett vilka perifera tragedier som uppstår när människor missförstår sin plats i processen."
 
 David kom in från dörren. "Depån i ryggen är säkrad en gång till, men jag gillar inte att Rask fortfarande rör sig fritt."
 
-"Rask kommer bindas upp av sitt eget system," sa Helena. "Han är alltför polis för att förstå hur väl den typen av institution går att leda med rätt sorts offentlig skandal."
+"Rask kommer bindas upp av sitt eget system," sa Helena. "Han är alltför polis för att förstå hur väl den typen av institution går att leda med rätt sorts offentlig oro."
 
 "Och Malm?"
 
@@ -48,7 +48,7 @@ Cecilia såg inte nöjd ut med det. "Hon kanske inte tror det fullt ut."
 
 "Nej," sa Helena. "Det är därför hon är intressant."
 
-Hon gick tillbaka till bordet och lät fingret följa morgonens ordning. 05.31 första objekt. 05.36 övergång. 05.47 bild. Det var ingen slump att hon arbetat så hårt med tiderna. Människor kallade det koreografi när de ville förminska kraften i en händelse. Men koreografi är bara en mycket ärlig version av makt.
+Hon gick tillbaka till bordet och lät fingret följa morgonens ordning. 05.31 första objekt. 05.36 övergång. 05.47 bild. Det var ingen slump att hon arbetat så hårt med tiderna. Människor kallade det koreografi när de ville förminska kraften i en händelse. Men koreografi var bara en mycket ärlig version av makt.
 
 "Berg?" sa hon.
 
@@ -78,15 +78,15 @@ David hostade till ett skratt utan glädje. Berg sa ingenting. Cecilia tittade b
 
 Helena noterade allt detta med samma sinnesro som andra människor noterar väderomslag. Hennes erfarenhet var enkel: varje större byggnation av mening kostar människor något i lojalitet, sömn eller självbild. Den som trodde annat var antingen barn eller professor.
 
-"Ni behöver förstå något," sa hon till dem utan att höja rösten. "Om vi inte gör detta nu kommer materialet gå sönder i tre riktningar på en vecka. Delar hamnar hos myndigheter som låser in det tills all kraft försvunnit. Delar läcker till nätets idioter. Delar blir akademisk disputs i tjugo år. Vad jag erbjuder är inte renhet. Jag erbjuder form. Och när föremålen väl går vidare till museer eller nationella enheter ska de gå dit genom en begriplig ordning, inte som upphittat spill."
+"Ni behöver förstå något," sa hon till dem utan att höja rösten. "Om vi inte gör detta nu kommer materialet gå sönder i tre riktningar på en vecka. Delar hamnar hos myndigheter som låser in det tills all kraft försvunnit. Delar läcker till nätets idioter. Delar blir akademisk tvist i tjugo år. Vad jag erbjuder är inte renhet. Jag erbjuder sammanhållen åtkomst. Och när det verkliga arbetet är gjort kan andra få katalogisera resterna."
 
 Det var då David, som sällan sa något ideologiskt, frågade:
 
-"Och om formen kräver blod?"
+"Och om åtkomsten kräver blod?"
 
 Cecilia vände sig direkt mot honom. Berg gjorde det inte.
 
-Helena svarade efter en mycket liten paus. "Då är det fortfarande formen som avgör vad blodet betyder efteråt."
+Helena svarade efter en mycket liten paus. "Då är det fortfarande resultatet som avgör vad blodet betyder efteråt."
 
 Ingen sa något på flera sekunder.
 
@@ -94,20 +94,14 @@ Det var inte skam hon såg i deras ansikten. Inte ens rädsla i första hand. De
 
 Hon la handen på morgonschemat.
 
-"Vi är för långt inne nu för att låta fragmenten vinna. Se till att mellanlederna hålls osynliga. Och om Malm kommer för nära, ge henne något annat att tolka."
+"Vi är för långt inne nu för att låta mellanlederna falla tillbaka i andras händer. Se till att nycklarna hålls samlade. Och om Malm kommer för nära, ge henne något annat att tolka."
 
 Cecilia nickade först. Inte för att hon var mest lojal. För att hon var den som bäst förstod vad ett centrum kräver av sina skickligaste händer.
 
 Senare, när de andra gått ut för sina uppgifter, blev Helena kvar ensam en stund med platsritningen. Hon såg på Ales stenar i flygbild, på stolsraderna och på markerad position för staven.
 
-Det fanns ögonblick då hon nästan önskade att världen fungerade så enkelt som hennes kritiker trodde: att sanningen bara kunde släppas fri och sedan välja sitt eget rätta liv. Men hon hade tillbringat för mycket tid bland institutioner för att tro på sådana sagor.
+Stenporten trodde fortfarande att detta var ett avgörande kulturprojekt. Det skulle det också bli, tänkte hon. Bara inte på det sätt de trodde. När A väl stod ensam och B var borta skulle nästa lås ge med sig. Inte snabbt. Inte synligt. Men tillräckligt för att de rum som hittills bara öppnats på försök skulle börja öppna sig på riktigt.
 
 Nej, tänkte hon. Sanningen väljer aldrig. Den väljs åt. Frågan är bara av vem och med vilken disciplin.
 
-Och denna gång skulle hennes namn inte stå sist i programmet som administrativ efterklang. Denna gång skulle ministrar, museer, kulturredaktioner och departement tvingas passera genom henne först. Inte för att hon ville äga varje föremål. För att hon vägrade låta ännu ett livsverk bli råmaterial för andras invigningar.
-
-När hon lämnade lokalen tog hon med sig en enda utskrift i kappfickan. Inte schemat. Inte presslistan. Utdraget om Malm.
-
-Inte för att hon behövde ammunitionen än.
-
-För att hon ville minnas att de farligaste motståndarna nästan alltid är de som lärt sig hata fel människa av rätt skäl.
+Och denna gång skulle hennes namn inte stå sist i programmet som administrativ efterklang. Denna gång skulle kyrkor, kommuner, jurister, bolag och departement tvingas passera genom henne först.

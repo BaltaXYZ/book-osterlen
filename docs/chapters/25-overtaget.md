@@ -20,44 +20,108 @@ Första rummet var tomt förutom staplade stolar och kartonger med Stenportens l
 
 Metallbord. En bärbar scanner. Två dokumentvagnar. Ett öppet kassaskåp av enklare modell.
 
-Och på bordet: kopior av deras egna kopior.
+Och på bordet: kopior av deras egna kopior, utskrifter av äldre brev, skannade marginaler och ett dokument som låg överst med intern typsättning och Stenportens diskreta blå logga.
 
 Maja stannade som slagen.
 
-"De har varit före oss i allt," sa hon.
+Rubriken löd:
 
-"Inte allt. Annars skulle vi inte stå här."
+**OLOFSLINJEN: ETAPPPLAN 1-4**
 
-Men det kändes nära nog. På en vagn låg fotograferade sidor ur depåmaterialet, markerade med gula lappar. På en annan låg utskrifter från Bok II, mer hela än de rivna fragmenten från fiskauktionen. Helena hade alltså redan haft tillgång till större delen av volymen innan de ens hittat dess ruin.
+Noah tog upp första sidan medan hon läste över hans axel.
 
-Maja gick fram till bordet och började läsa lappkommentarerna.
+**Etapp 1: Offentlig legitimering via A-dokumentet**  
+**Etapp 2: Interimanspråk mot jord, kistor, arkiv, vägar och bruk inom Ormledens historiska område**  
+**Etapp 3: Förlikningstryck mot stift, församlingar och privata brukare**  
+**Etapp 4A: Samlad destinationsutveckling / retreatkorridor / premiumboende**  
+**Etapp 4B: Råvarukluster / undersöknings- och täktfönster**
 
-**använd ej**
-**för rå**
-**kan vändas mot scen**
-**behåll narrativ kärna, avlägsna klassvåld**
+Maja läste vidare. Hon hann till underrubrikerna innan illamåendet slog till på riktigt.
 
-Hon blev illamående av precisionen.
+**prioritera S:t Olof - Bollerup - Gladsax - Simris - Järrestad som sammanhängande kontrollzon**  
+**förbered erbjudanden om ordnad utfasning för svaga arrendatorer**  
+**mindre verksamheter köps ut eller binds till licens**  
+**småskalig splittring säljs i dag som frihet men ger för låg avkastning**
 
-"Johan Bergs arbete," sa hon.
+Det blev kallt under huden.
 
-Noah gick direkt till kassaskåpet. Inuti låg inget föremål, men en hårddisk och en lädermapp. Han tog upp mappen först.
+"Det här är inte bara en scen," sa hon.
 
-I den låg Stenportens fulla dagjämningsmanus, inte för publiken utan för kärnkretsen. Talordning, kameraplaceringar, pressfrågor med förslagssvar, krislinjer för "aggressiv akademisk detaljkritik", och längst bak:
+"Nej," sa Noah.
 
-**vid behov: exponera Malm som dotter till lokal fabulant**
+Det stod värre saker längre bak.
 
-Maja stod mycket stilla medan Noah läste den raden en gång till. Han sa ingenting direkt. Bara lade mappen framför henne så att hon själv skulle få se.
+**första processen måste vara stor nog att få kyrkan att blöda**  
+**målet är inte full vinst i domstol utan förhandlingsläge**  
+**när mark fryses faller priset på motpartens framtid**
 
-Det stack till på ett sätt som var både väntat och ändå friskt. Naturligtvis hade Helena plan för det. Naturligtvis var fadern redan inbyggd som vapen mot henne.
+Sedan kom en bilaga som inte bar Stenportens logga alls utan ett mindre, juridiskt renare brevhuvud:
 
-"Jävla människor," sa Noah lågt.
+**WREDE KAPITALFÖRVALTNING AB**  
+**konfidentiell samverkansbilaga / endast HW + JB**
 
-Maja vek ihop mappen utan att säga något. Om hon talade nu skulle det bli antingen för mycket eller för lite.
+Noah och Maja såg på varandra samtidigt.
 
-Det var hårddisken hon tog i stället. Den kunde bära allt.
+På följande sidor fanns utkast till optionsavtal, områdeskartor och kontakter som inte längre gick att läsa som kulturprojekt.
 
-"Vi går," sa Noah.
+**Fågeltofta - preliminär undersökningsrätt / samordning med extern prospektör**  
+**Virrestad-Killeröd - förhandlingsfönster vid sammanhållen markkontroll**  
+**Gislövshammar - kustnära logistik / framtida upplag**  
+**markägarmineral: täktmöjligheter i sekundära ledstråk där äganderätt ger direktare handlingsläge**
+
+Maja läste de raderna två gånger.
+
+"Hon sitter i det här själv," sa hon.
+
+"Ja."
+
+"Inte bara som kulturperson."
+
+"Nej. Som investerare."
+
+På sista sidan fanns en tabell över bolag med täcknamn, rådgivarroll och mellanled. Ett av dem hade Bergs initialer. Ett annat bar bara HW. Under rubriken **extern fasad** stod:
+
+**Stenporten används oförändrat utåt. Styrelsen informeras successivt efter säkrat A-läge.**
+
+Maja stod mycket stilla när hon läste den raden.
+
+"Så stiftelsen vet inte allt," sa hon.
+
+"Inte ens i det här," sa Noah. "Det här är hennes eget."
+
+På en annan vagn låg fotograferade sidor ur depåmaterialet, markerade med gula lappar. På en tredje låg högupplösta skannade bilder av ett pergamentbrev med två skadade sigill. Latin. Ortsnamn i randnot.
+
+Solveig hade haft rätt. A fanns redan hos Helena.
+
+Överst låg Bergs kommentar i svart penna:
+
+**använd endast A i offentlig fas**  
+**B får ej nämnas**  
+**rättelse = total förlust av hävdbar enkelhet**
+
+Maja läste de orden två gånger.
+
+"De vet exakt vad B gör," sa hon.
+
+"Ja," sa Noah. "Och nu vet vi också exakt vad Helena tänker göra om B försvinner."
+
+Hon bläddrade vidare i `Olofslinjen`.
+
+**framtidsbild: sammanhållen pilgrim- och retreatzon**  
+**kontrollerade tillträden**  
+**råvarufönster öppnas i perifera delar innan större opinion formeras**  
+**sekundära vägar uppgraderas för tung trafik**  
+**krossyta och mellanupplag hålls utanför första pressbild**
+
+Österlen i Helenas språk lät som något som först måste tömmas för att bli vackert och sedan grävas för att bli lönsamt.
+
+"Hon tänker göra om hela platsen," sa Maja.
+
+"Ja."
+
+Det var hårddisken Noah tog. Den kunde bära allt. Maja tog etappplanen, bilagan och bilderna av A.
+
+"Vi går," sa han.
 
 De hann nästan.
 
@@ -119,11 +183,11 @@ Först när de var flera kilometer bort sa Noah:
 
 "Vad har vi kvar?"
 
-Maja stirrade rakt fram. "Kopior i huvudet. Fotona vi redan tagit. Det de inte vet att Linnea har. Och..."
+Maja stirrade rakt fram. "Kopior i huvudet. Etappplanen nästan helt. Bilagan med bolaget. Fotona vi redan tagit. Det de inte vet att Linnea har. Och..."
 
 Hon öppnade handen först då.
 
-I fallet vid bordet hade något lossnat från stavens insida och stannat kvar i hennes grepp. En liten, tunn metallremsa med tre markeringar och en rad nästan osynliga tecken.
+I fallet vid bordet hade något lossnat från stavens insida och stannat kvar i hennes grepp. En liten, tunn blyremsa med tre markeringar och en rad nästan osynliga tecken.
 
 "Och det här," sa hon.
 
@@ -133,9 +197,15 @@ Noah tittade snabbt ner. "Tog du den med mening?"
 
 "Bra," sa han. "Då är det ödet, och sådant gillar folk."
 
-Hon kunde nästan ha skrattat om inte allt bränts tomt inuti.
+Hon kunde nästan ha skrattat om inte allt bränts tomt inuti. Hon vred remsan mot kupéljuset.
 
-Helena hade nu större delen av originalmaterialet. Johan Berg hade staven. Scenen var närmare än någonsin.
+Där stod, knappt synligt:
+
+**S:O**  
+**ej i jord**  
+**i mur där vätan hörs**
+
+Helena hade nu större delen av originalmaterialet. Johan Berg hade staven och A. Scenen var närmare än någonsin.
 
 Detta var övertaget.
 

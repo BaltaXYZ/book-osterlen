@@ -4,7 +4,7 @@ Vid halv två på natten såg Kåseberga ut som om byn höll andan i sömnen.
 
 De få gatlyktorna längs hamnen och backen upp mot parkeringen ritade små fickor av gult ljus i mörkret. Längre in mot de låga husen låg fönster mest svarta. Men den som kunde byar visste att mörker inte är samma sak som overksamhet. Bakom gardiner fanns människor som hört nog för att inte sova djupt.
 
-Maja, Noah och Torkel gick inte sida vid sida genom natten. De rörde sig i lös triangel, som om de bara råkade ha liknande ärenden. Torkel tog alltid några meter längre ut mot hamnen. Noah höll sig där han kunde se både leden och byvägen. Maja växlade mellan dem och servicehuset med telefonen som svagt kartljus mot kroppen.
+Noah och Torkel gick inte sida vid sida genom natten. De rörde sig i lös triangel tillsammans med de människor Hamid pekat ut, som om de bara råkade ha liknande ärenden. Torkel tog alltid några meter längre ut mot hamnen. Noah höll sig där han kunde se både leden och byvägen.
 
 "Det här," sa Torkel lågt när de stod bakom en rad bodar nere vid hamnen, "är var folk utifrån alltid tänker att något mystiskt ska ske."
 
@@ -12,102 +12,60 @@ Maja, Noah och Torkel gick inte sida vid sida genom natten. De rörde sig i lös
 
 "Nej. Här sker bara logistik. Det mystiska säljer man högre upp där vinden tar bättre."
 
-Maja tittade upp mot den mörka konturen av åsen. Ales stenar syntes inte från den vinkeln. Bara backen, husen, de lägre servicevägarna. Just därför var det här mer sant om hur platsen fungerade för dem som faktiskt bar saker.
+Noah tittade upp mot den mörka konturen av åsen. Ales stenar syntes inte från den vinkeln. Bara backen, husen, de lägre servicevägarna. Just därför var det här mer sant om hur platsen fungerade för dem som faktiskt bar saker.
 
-Torkel drog med stöveln i gruset. "Här går gamla vägen upp bakom bodarna. Om de vill få nåt större till servicezonen utan att ta huvudleden går de så här, runt fiskauktionen, bakom toalettbyggnaden, sen upp mellan staket och slänt."
-
-Han visade med hela kroppen, inte bara handen. Maja såg spåret direkt när han gjorde det så. Inte som karta. Som vana.
-
-"Därför valde de Kåseberga," sa hon.
+"Därför valde de Kåseberga," sa han.
 
 "De valde Ales stenar för bilden," sa Torkel. "Kåseberga fick de på köpet och trodde nog inte vi skulle märka det."
 
-Noah såg mot den gamla fiskauktionen. "Och ändå är det här som avgör om bilden kan byggas."
+"Och ändå är det här som avgör om bilden kan byggas."
 
 "Ja," sa Torkel. "Det brukar vara så med fina saker. Någon måste köra skiten dit."
 
 De stod kvar tills Linnea via öronsnäcka rapporterade rörelse från inlandshållet. Inte skåpbil än. Först en mindre bil som långsamt gled genom byn, vidare upp mot parkeringen, sedan ner igen. Rekognosering eller nervös medhjälpare. Svårt att säga.
 
-Maja gick en stund ensam upp mot den lilla tvärvägen mellan Möllevångsvägen och servicehuset för att känna terrängen utan instruktion. I mörkret blev byn mindre igenkännbar och mer kroppslig. Grus under skor. Trång passage mellan staket. En häck som dolde för väl. Ett fönster där tv-ljus blinkade mot gardin. Så många små privata verkligheter intill den stora berättelse Helena tänkte lägga ovanpå allt detta i gryningen.
+Samtidigt satt Maja bredvid Torkel i pickupen norrut med Arvids block i knät och Ingrid i örat. Vägen var svart, dikena osynliga utom när ljuset snuddade dem. Mellan Kivik och S:t Olof låg landskapet som ett ihopvikt papper, fullt av linjer hon inte längre hade råd att läsa romantiskt.
 
-Hon stannade vid muren bakom servicehuset där man kunde se en del av plattformens silhuett i mörkret. Där fann hon ett färskt fotavtryck i den mjuka jorden. Mindre än Davids. Inte Torkels. Inte Noahs.
+"Här," sa Ingrid plötsligt hemma vid köksbordet. Papper prasslade genom telefonen. "Arvid skriver om S:t Olofskälla som 'plats där mur låter som jord'."
 
-Cecilia? Kanske. Eller någon annan ur den där andra yrkeskategorin som arbetar bäst när allt ser logistiskt och känslolöst ut.
+"Läs allt."
 
-"Maja?" Noahs röst i örat.
+"Vänta." Nytt bläddrande. "Och här: 'den som ej skall se morgonljus måste täckas av vanlig sten, inte märkvärdig sten'. Han understryker vanlig två gånger."
 
-"Här."
+Maja såg ut genom rutan. "Vanlig sten."
 
-"Jag har en unge här nere som jobbar extra åt dem. Han vill säga något men bara om du inte står bredvid mig och ser lärd ut."
+"Ja. Han skriver också att fel människor alltid letar efter monumental lösning först."
 
-Hon hann nästan ta illa vid sig. Sedan log hon mot mörkret och gick tillbaka ner.
+Det lät så mycket som hennes far att hon nästan blev arg på honom igen, denna gång för att han varit död och användbar samtidigt.
 
-Killen hette Hamid, var nitton och hade flyttat till Ystad men jobbade extra med event för att betala körkort och något slags musikdröm ingen frågade närmare om. Han stod med cigaretten som en sköld mellan fingrarna.
+I Kåseberga mötte Noah Hamid bakom fiskauktionen. Killen drog på munnen som om han själv inte riktigt trodde att han nu deltog i något som kunde få folk att dö.
 
-"Jag vill inte bli inblandad," sa han.
-
-"Bra början," sa Noah.
-
-"Jag menar det. Men den där kvinnan..." Han nickade upp mot servicehuset. "Hon sa åt oss att om någon frågar om lådor eller extraleverans så är det bara ljusutrustning. Och det är det inte. Jag vet hur ljusutrustning väger."
-
-Maja sa inget. Bara lät honom fortsätta.
-
-"Det är två leveranser. En större innan fyra och en mindre precis innan de öppnar pressen. Den mindre ska inte gå genom huvudvägen. Den ska gå bakom huset och upp till skärmzonen."
+"Det är två leveranser," sa han igen. "Den mindre ska inte gå via huvudvägen. Den ska gå bakom servicehuset och upp till skärmzonen."
 
 "Vem sa det?" sa Noah.
 
-"Cecilia först. Sen mannen i kostym och glasögon. Inte den stora säkerhetskillen."
+"Cecilia först. Sen mannen i kostym och glasögon."
 
 Berg.
 
-"Vad bärs i den mindre?" sa Maja.
-
-Hamid drog på munnen. "Om jag visste det skulle jag inte stå här. Men alla beter sig som om den är viktigare än den stora."
-
-Det var exakt vad de behövde höra.
-
 "Varför berättar du?" sa Noah.
 
-Killen såg på cigaretten. "För att jag är less på att folk kommer hit och talar som om vi bara är funktion för deras jävla upplevelser. Och för att Eva Holm brukade vara schysst mot mig när jag jobbade på Glimmingehus en sommar. Sen såg jag hennes bild i nyheterna."
+Hamid såg på cigaretten. "För att jag är less på att folk kommer hit och talar som om vi bara är funktion för deras jävla upplevelser."
 
 Det räckte.
 
-När han gått stod Maja kvar med röklukten ännu i luften och tänkte på hur sällan stora spel förstås genom stora människor först. Nästan alltid genom någon nittonåring som väger lådor tillräckligt länge för att märka när språket ljuger.
+När Hamid gått ritade Noah den ena kartan på ett gammalt sjökort Torkel haft i boden, just för att det redan var stort nog att bära flera lager av blyerts. Inte officiell evenemangskarta. Inte kommunens. En karta som tålde sidonoteringar, fel och ny användning. Han ritade plattformen, markstenen, servicehuset, skärmzonen, vägen bakom bodarna. Torkel la till var folk tenderade att ställa sig när de ville se men inte synas. Linnea ritade in möjliga stoppunkter för bilar och två punkter där Noah kunde nå både Berg och flyktväg inom sekunder.
 
-"Han gav oss skärmzonen," sa Noah.
+Samtidigt ritade Maja den andra kartan i huvudet. Kyrkomuren. Källan. Den låga ytterlinjen där vattenljudet kunde höras i sten men där pergament ändå kunde hållas torrt om facket låg tillräckligt högt. Två kartor samma natt. En för scenen. En för sanningen bakom den.
 
-"Ja."
-
-"Det är där."
-
-"Ja."
-
-De ritade den andra kartan den natten på ett gammalt sjökort Torkel haft i boden, just för att det redan var stort nog att bära flera lager av blyerts. Inte officiell evenemangskarta. Inte kommunens. En karta som tålde sidonoteringar, fel och ny användning. Maja ritade plattformen, markstenen, servicehuset, skärmzonen, vägen bakom bodarna. Torkel la till var folk tenderade att ställa sig när de ville se men inte synas. Noah ritade in möjliga stoppunkter för bilar, rörelsevägar och två punkter där han kunde nå både Berg och flyktväg inom sekunder.
-
-"Det där är inte en plan," sa Torkel när de var klara.
+"Det där är inte en plan," sa Torkel när Noah var klar.
 
 "Vad är det då?" sa Noah.
 
 "Det är vad man gör när man hoppas på tur men ändå tänker hjälpa den lite."
 
-Maja såg på kartan och tänkte att det kanske var den mest ärliga operationsbeskrivning hon hört.
+I bilen log Maja utan att någon såg det. Det var kanske den mest ärliga operationsbeskrivning hon hört.
 
-Vid fyratiden började himlen ändra svarthet. Inte ljus än. Bara mindre natt. De gick var för sig till sina första positioner. Maja tog den lilla passagen upp mot muren. Noah servicevägens lägre vinkel. Torkel hamnen igen. Linnea i boden. Ingrid i huset med blocken och telefonerna. Stina på väg in bland de första åhörarna.
+Vid fyratiden började himlen ändra svarthet. Inte ljus än. Bara mindre natt. Noah gick till sin första position vid servicevägens lägre vinkel. Torkel rörde sig mellan hamnen och bilen. Linnea höll boden och telefonerna. Ingrid satt kvar i huset med blocken. Stina var på väg in bland de första åhörarna.
 
-Innan Maja lämnade boden la Torkel handen på hennes arm.
-
-"Din far hade blivit olidligt hög på det här läget."
-
-Hon såg på honom.
-
-"Men han hade också varit rädd för att göra fel sorts sanning större än den rätta," fortsatte han. "Det ska du veta. Han var inte bara storsnack."
-
-Det hjälpte på ett sätt hon inte var stolt över att det gjorde.
-
-"Tack," sa hon.
-
-"Gå nu. Och trampa inte där gräset mörknar. Där blir leran värre nära servicehuset."
-
-Lokal kunskap igen. Alltid. Mellanledets disciplin.
-
-Hon gick.
+Och Maja såg S:t Olofs kyrka resa sig ur mörkret framför henne som den andra kartans mittpunkt.

@@ -2,9 +2,9 @@
 
 Klockan var 03.12 när allt låg färdigt nog för att ändå kunna falla sönder.
 
-Maja gick ut från boden för att få luft och hamnade nere vid hamnen där de förtöjda båtarna låg som mörka ryggar i vattnet. Ingen vind för en gångs skull. Bara den låga rörelsen under ytan och ett långt svagt ljud från havet utanför piren.
+Maja gick ut från båthuset för att få luft och hamnade nere vid hamnen där de förtöjda båtarna låg som mörka ryggar i vattnet. Ingen vind för en gångs skull. Bara den låga rörelsen under ytan och ett långt svagt ljud från havet utanför piren.
 
-Hon tog upp telefonen och tittade på filpaketet de byggt för eventualitet: dokumentkopior, stenbilder, avskrifter, Wredes scenmanus, ljudklipp, namn. Ett enda tryck bort från att skjuta allt ut i världen om planen brast.
+Hon tog upp telefonen och tittade på filpaketet de byggt för eventualitet: B, kopiorna av A, `Olofslinjen`, Björkebodafotona, körmanuset, ljudklipp, namn. Ett enda tryck bort från att skjuta allt ut i världen om planen brast.
 
 Det var frestande.
 
@@ -36,7 +36,7 @@ Hon skrattade nästan åt det. "Du borde inte låta så klok utan tjänstevapen.
 
 Han såg ut över vattnet. "Jag var inte klokare med det."
 
-Det låg något i hans ton som fick henne att vända sig om. Mörkret gjorde ansiktet svårare att läsa, men inte omöjligt.
+Det låg något i hans ton som fick henne att vända sig om.
 
 "Vad tänker du på?" sa hon.
 
@@ -100,7 +100,7 @@ Noah nickade. Ingen romantisering. Bara erkännande.
 
 "Ja," sa han. "Framför allt då."
 
-De gick tillbaka mot boden tillsammans. När de steg in reste sig Ingrid från stolen i hörnet där hon låtsats sova i tio minuter utan att lura någon.
+De gick tillbaka mot båthuset tillsammans. När de steg in reste sig Ingrid från stolen i hörnet där hon låtsats sova i tio minuter utan att lura någon.
 
 "Ni ser marginellt mer levande ut," sa hon. "Det får räcka."
 
@@ -109,12 +109,13 @@ Ingen kommenterade det.
 Maja satte sig vid arbetsbänken och tog ett nytt papper. På det skrev hon den ordning hon tänkte hålla sig till på scenen, som motgift mot panik:
 
 1. Låt Helena visa staven.
-2. Bryt med stenen.
-3. Läs instruktionen.
-4. Visa hur det som en gång användes ute bland folk gjordes om till något några få tog kontroll över.
-5. Nämn de döda.
-6. Vägra både hennes centrum och rå läcka som första svar.
-7. Säkra materialen offentligt, inte privat.
+2. Låt henne visa A.
+3. Bryt med B.
+4. Läs klausulen som binder A till B.
+5. Visa `Olofslinjen` och säg vad Helena faktiskt tänker göra med marken.
+6. Nämn de döda.
+7. Vägra både hennes ägarskap och rå läcka som första svar.
+8. Säkra materialen offentligt, inte privat.
 
 Noah läste listan över hennes axel.
 
