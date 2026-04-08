@@ -1,61 +1,57 @@
-# 01. Gryningen vid skeppet
+# 01. Gryningen i Hällevik
 
-Torkel Hane såg alltid havet först.
+Kerstin Löfgren gick Hälleviksstigen innan ljuset blivit användbart.
 
-Inte stenarna, inte turisterna, inte skyltarna som kommunen aldrig lyckades hålla hela en säsong utan ny färg eller nya klotterspår. Havet. Om vattnet låg grått och stelt kunde man lita på att folk gick tystare uppför backen. Om det slog grönt och hårt mot foten av åsen blev allt annorlunda. Då kom de hit med höjda röster, som om vinden gav dem rätt att ropa på platsen.
+Inte för motionens skull. För att hunden blev orolig om morgonen började för sent och för att skogen norr om Stenshuvud fortfarande gick att ha ifred en stund innan folk gjorde den till utflykt. Den här morgonen låg marken våt av nattfukt. Havet anades till höger genom träden som en grå, platt öppning. I backen upp från parkeringen luktade det tång, jord och kallt löv.
 
-Den här morgonen låg havet lågt och blankt under ett tunt lager dimma. Solen hade ännu inte nått upp bakom molnslöjan. Öster om Kåseberga hamn brann bara en smal rand av blekt järn.
+Hon hade just släppt ut kopplet lite när hunden tvärstannade.
 
-Torkel stängde bildörren nere vid parkeringen och drog jackan tätare kring halsen. Det luktade tång, blöt jord och diesel från båtarna i hamnen. Kommunen ville att han skulle gå upp till skeppssättningen och kontrollera de nya stolparna vid leden efter nattens blåst. Egentligen var han pensionerad sedan sex år, men pensionering betydde inget särskilt i Kåseberga. Om man fortfarande kunde gå i backe och svära över dåligt utfört arbete blev man tillfrågad.
+"Men kom nu då."
 
-Han tog stigen upp genom gräset. Fukt slog mot kängorna. Ljungen längs kanterna var mörk av nattvatten. Uppe på åsen stod de resta blocken redan som skuggor, breda och tysta, med havet bakom sig. Torkel hade sett dem i sextio år. Ändå fanns det morgnar när de lyckades stå som om de just kommit dit.
+Den rörde sig inte. Bara stod med huvudet lågt och kroppen spänd mot skogskanten där stigen svängde av in mellan hassel och bok. Kerstin följde blicken och såg först ingenting. Sedan såg hon det felaktiga.
 
-Han stannade halvvägs när han såg att något var fel.
+Något mörkt låg inne bland ormbunkarna, för nära leden för att vara nedfallna grenar och för stort för att vara en sopsäck. Formen störde terrängen. Som om någon lagt dit den utan att kunna platsen.
 
-Först trodde han att någon tältat mellan stenarna. Det hände ibland, särskilt efter varma sommarkvällar när folk ville dricka öl och känna sig hedniska utan att behöva förstå vad ordet betydde. Men formen på marken var för rak, för avsiktlig. Ingen sov så där.
+Hon gick två steg närmare och stannade så hårt att knäet högg till.
 
-Torkel fortsatte uppåt, långsammare nu. Hjärtat började slå på det där torra sättet han inte tyckte om. När han kom upp på planen såg han kroppen ordentligt.
+Det var en man.
 
-Den låg vid den södra stävstenen, på rygg, med armarna rakt längs sidorna. Någon hade lagt den som om den skulle mätas mot monumentet. Den mörka rocken var borstad ren från det värsta gräset. Skorna var fortfarande blanka. Ansiktet däremot såg ut som om det hade tappat allt det mänskliga under natten. Ögonen var halvöppna. Läpparna hade dragit sig tillbaka från framtänderna.
+Han låg halvt på sidan, halvt på rygg, som om kroppen tappats mer än lagts ner. Ena benet låg kvar i snåren. Den mörka rocken hade dragits upp snett över höften. Barr och blöta löv satt fast på axeln och i håret. Ingen ordning. Ingen värdighet. Bara det där obehagliga efteråt som uppstår när någonting mänskligt hamnat där det inte borde vara.
 
-Torkel blev stående så stilla att han först inte märkte måsarna.
+Kerstin drog hunden intill sig med båda händerna.
 
-De kretsade lågt ovanför stenarna och skrek utan att gå ner. En av dem slog med vingarna över kroppen, vek undan och tog höjd mot havet igen.
+Ansiktet såg först främmande ut på det sätt döda ansikten gör. Sedan kände hon igen honom. Inte privat. Från biblioteket i Kivik i våras, från ett samtal om gamla kustvägar där mannen varit ovanligt artig för att vara expert.
 
-Han tog ett steg närmare och såg metallskivan på mannens bröst.
+Nils Severin.
 
-Inte en medaljong. Inte ett smycke. En tunn, matt platta i brons, nästan som något nyss uppgrävt, med en ristad linje som böjde sig över ytan i en slingrande båge. Tre små hack satt längs kurvan. Någon hade lagt den exakt mitt över bröstbenet.
+Hon tog upp telefonen men fick försöka två gånger innan fingrarna lydde.
 
-Torkel kände igen ansiktet efter några sekunder.
+"SOS Alarm, vad har inträffat?"
 
-Nils Severin. Antikvarien. Den där vänlige mannen som stått i bygdegården i våras och pratat om kustlandskap, siktlinjer och missförstådda monument, utan att låta som de andra förståsigpåarna från Lund eller Stockholm. Han hade lyssnat när folk avbröt. Han hade till och med följt med ner till hamnen efter föredraget och frågat om de gamla namnen på grynnorna.
+"Det ligger en man här," sa hon. "Vid Hällevikentrén. In mot stigen. Jag tror..." Hon svalde. "Jag tror han är död."
 
-Torkel drog upp telefonen så fort att han nästan tappade den.
+Operatören började fråga om andning, puls, om hon kunde gå fram och kontrollera. Kerstin såg på kroppen igen, på hudfärgen, på stelheten i den öppna handen, på hur huvudet låg för tungt mot marken.
 
-När larmoperatören svarade fick han säga platsen tre gånger. Rösten bar inte. Han hatade det. Han hade varit fiskare i trettioåtta år och kunde skrika genom kuling, men nu satt orden fel i halsen.
+"Nej," sa hon. "Det här är inte nyss."
 
-"Det ligger en man här," sa han. "Vid Ales stenar. Han är död."
+Hon gick inte fram till honom. Inte ordentligt. Bara runt så långt som kopplet och modet tillät. Då såg hon fler saker.
 
-Operatören började fråga om andning, puls, om Torkel kunde gå fram och undersöka. Han såg åter på ansiktet, den stela käken, färgen i huden, ordningen i hur kroppen placerats.
+En telefon låg i mossan en bit från den högra armen, skärmen sprucken men fortfarande svagt upplyst. På den låg en bild kvar: vita kalklinjer över mörk bakgrund, och under dem ett rödbrunt geometriskt mönster som såg för gammalt ut för att komma från någon mobil alls.
 
-"Nej," sa han. "Det här är inte sånt."
+Ur rockfickan stack ett hopknycklat kvitto fram, vänt med baksidan utåt som om någon tryckt tillbaka det utan att hinna längre. Kerstin böjde sig inte ner, men hon såg texten ändå. Tjock, svart penna. Bråttom skrivet.
 
-Han gick några steg bort medan han pratade, mer av respekt än av rädsla. Marken mellan stenarna var ojämn. Hårt trampad på vissa ställen, långvuxen på andra. När han vände sig om såg han något mer.
+**FÖLJ ORMLEDEN**
 
-En telefon låg i gräset strax utanför mannens högra hand.
+Hon förstod inte orden. Bara att de inte hörde hemma på ett kvitto från Glimmingehus.
 
-Skärmen var sprucken men fortfarande svagt upplyst. Torkel gick inte fram direkt. Han ville inte röra någonting. Ändå kunde han inte låta bli att se.
+I den halvöppna vänsterhanden låg något som först såg ut som skräp. När hon kisade såg hon metallens matta färg. En tunn platta i brons, inte större än en handflata, med en ristad slingrande linje och tre små hack längs kurvan. Inte smycke. Inte mynt. Något burit eller gripet. Något han inte släppt.
 
-På skärmen låg en bild kvar.
+Hunden gav ifrån sig ett lågt ljud långt ner i halsen.
 
-Det såg först ut som ett barns teckning. Vita kalklinjer över mörk bakgrund, bågar och streck som möttes i märkliga vinklar. Men under kalklinjerna gick ett annat mönster, matt rödbrunt och geometriskt, som om någon lagt en gammal ristning ovanpå ett medeltida golv.
+Kerstin vände sig om mot parkeringen fast hon visste att ingen ännu kunde vara där. Operatören bad henne stanna kvar på linjen. Hon gjorde det. Stod med blicken mellan stigen och kroppen och försökte låta bli att tänka på hur kort sträckan var från en bil till den här skogskanten. Hur lite arbete som krävts för att få bort en människa ur vägen.
 
-Torkel hade ingen aning om vad han såg. Bara att det inte hörde hemma där.
+När hon hörde den första bilen nedanför backen hade dimman börjat lätta mellan träden. Havet syntes klarare nu, stumt och blekt bakom grenverket.
 
-Längst ned i hörnet blinkade en textremsa upp och försvann igen innan skärmen slocknade:
+Kerstin tänkte senare att det värsta inte var att någon dött där ute.
 
-**inte skeppet. ledet.**
-
-Torkel stod kvar med telefonen i blicken tills han hörde den första bilen nere från parkeringen.
-
-Blåljusen syntes ännu inte i dimman, men han förstod redan innan han såg dem att platsen inte längre tillhörde morgonen. Den tillhörde någon annan nu. Någon som hade vetat precis var man skulle lägga en kropp för att en hel by, och snart mycket fler än så, skulle börja berätta fel historia.
+Det värsta var att platsen inte kändes vald för döden. Bara använd. Som om någon gjort något snabbt, fult och nästan tillräckligt rent och sedan missat att mannen fortfarande hunnit lämna efter sig en riktning.

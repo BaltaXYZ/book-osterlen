@@ -1,7 +1,7 @@
 # Story Core
 
 ## Arbetslogline
-När en antikvarie mördas vid Ales stenar och lämnar efter sig spår till Kiviksgraven, Glimmingehus, S:t Olof och Stenshuvud tvingas arkeologen Maja Malm tillbaka till Österlen för att stoppa en stiftelseordförande från att använda ett tidigmedeltida Ormledsbrev för att öppna sydöstra Österlen för markrofferi, täkter och ett stängt exploateringslandskap.
+När en antikvarie hittas död i Hällevik vid Stenshuvuds norra entré och lämnar efter sig spår till Kiviksgraven, Glimmingehus, S:t Olof och Stenshuvud tvingas arkeologen Maja Malm tillbaka till Österlen för att stoppa en stiftelseordförande från att använda ett tidigmedeltida Ormledsbrev för att öppna sydöstra Österlen för markrofferi, täkter och ett stängt exploateringslandskap.
 
 ## Huvudidén
 Romanen kretsar kring **Ormleden**, en dold kedja som binder samman Ales stenar, Kiviksgraven, Stenshuvud, S:t Olof, Bollerup och Glimmingehus. Det som först ser ut som spår av en kvarlevande hednisk kult visar sig vara något mer jordnära och mer hotfullt: människor har i flera hundra år använt gamla monument, lokala vägar, dyrbara föremål, brev och rätt ord för att flytta saker i hemlighet, få exklusivt tillträde till känsliga platser och sedan få samma flyttar att se gamla, rena och rättmätiga ut.
@@ -73,7 +73,8 @@ Hennes egentliga plan är konkret: samla mark i sydöstra Österlen till ett sam
 Det är mindre än tre dygn kvar till ett livesänt gryningsevenemang vid höstdagjämningen på Ales stenar. Där ska Stenportenstiftelsen presentera sitt "genombrott" inför press, kulturministrar, sponsorer och internationell publik. När A väl har lanserats utan B blir det mycket svårare att stoppa de juridiska, politiska och ekonomiska följder Helena tänker utlösa.
 
 ## Huvudplatser
-- **Ales stenar**: mordplats, offentlig scen och final
+- **Hällevik / Stenshuvuds norra entré**: fyndplats för Severin och första öppning in i Ormleden
+- **Ales stenar**: offentlig scen och final
 - **Glimmingehus**: sena anteckningar, arkivspår och ett rum där gammal makt möter ny
 - **Kiviksgraven / Bredarör**: platsen där bildgåtan börjar gå att förstå
 - **Stenshuvud**: höjden där sjömärkeslogiken avslöjar vad platserna faktiskt använts till

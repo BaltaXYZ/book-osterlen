@@ -7,8 +7,8 @@ Total verifierad manuslängd: minst 75 000 ord.
 
 ## Del I: Stenarnas mun
 
-### 01. Gryningen vid skeppet
-En kropp hittas vid Ales stenar och brottsplatsen slår fast både chock, symbolspår och gåttryck.
+### 01. Gryningen i Hällevik
+En kropp hittas vid Hällevikentrén till Stenshuvud och öppningen slår fast både chock, symbolspår och gåttryck utan ritualiserad övertydlighet.
 
 ### 02. Den som kan läsa bilder
 Maja kallas in, återvänder motvilligt till Österlen och ser tidigt att bronsspåret inte betyder det polisen tror.

@@ -82,3 +82,13 @@ Om fakta är osäkra:
 
 ## Definition av klart
 Projektet är klart först när den fulla romanen, dess stöddokument och exportformat finns på plats och den samlade QA:n visar att mysterium, struktur, geografi, ton, kontinuitet och leveransformat fungerar tillsammans.
+
+## Kapitel som kräver särskilt tillstånd att ändra
+I mappen docs/chapters finns ett antal kapitel i form av md-filer. Deras filnamn börjar med kapitelnummer, till exempel o2 och 14a. Nedan listas kapitel som har kommit särskilt långt och som därför måste skyddas extra noga mot otillbörliga ändringar. Så fort någon agent önskar ändra i någon av dessa filer måste den därför först redogöra för varför den vill ändra i kapiteltexten, och därefter be användaren specificera ett av alternativen:
+Ändra endast det som är nödvändigt
+Ändra fritt
+Ändra inte alls
+
+Följande kapitel kräver tillstånd:
+01
+02
