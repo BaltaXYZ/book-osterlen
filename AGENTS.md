@@ -1,94 +1,95 @@
 # AGENTS.md
 
-## Projektets uppdrag
-Detta projekt ska leverera en originalskriven, researchförankrad och fullt fungerande thrillerroman med arbetstiteln **The Serpent of Österlen**. Slutmålet är inte synopsis, utkast eller fragment utan ett komplett manus med tillhörande stöddokument och exportformat enligt projektets leveransdefinition.
+## Projektläge
+Projektet är nu i **revision mode**. Uppdraget är att säkert, spårbart och konsekvenskontrollerat vidareutveckla ett redan existerande manusprojekt, inte att generera romanen från noll.
 
-## Hårda projektregler
+Baseline tills vidare:
+- `docs/chapters/*.md`
+- `docs/manuscript-full.md`
+- `docs/story-core.md`
+- `docs/synopsis.md`
+- `docs/structure-grid.md`
+- `docs/chapter-plan.md`
+- `docs/clue-chain.md`
+- `docs/chapter-true-story.md`
+- `docs/research-log.md`
+- `docs/canon-ledger.md`
+
+First-version-systemet är arkiverat i `AGENTS_FIRST_VERSION.md`, `.codex/agents/fv-*.md` och `docs/fv-*.md`.
+Titelfrågan är inte tyst löst i detta läge. Motsägelsen mellan **The Serpent of Österlen** och **Ormleden: En Österlenthriller** är ett spårat revisionsärende, inte fri lokal justering.
+
+## Hårda revisionsregler
 - Arbeta på svenska.
-- Använd tät tredje person som huvudform.
-- Romanen ska vara en högdriven konspirationsthriller / historisk thriller / mysteriethriller.
-- Österlen ska fungera som narrativ maskin, inte som kuliss.
-- Fornnordiskt material ska behandlas realistiskt och researchförankrat.
+- Använd tät tredje person som huvudform om inte ett uttryckligt change request säger annat.
+- Romanen ska fortsatt vara en högdriven konspirationsthriller / historisk thriller / mysteriethriller.
+- Österlen ska fortsatt fungera som narrativ maskin, inte som kuliss.
+- Fornnordiskt material ska fortsatt behandlas realistiskt och researchförankrat.
 - Nutida Forn Sed eller annan modern religiös praktik får inte sensationaliseras eller användas slarvigt som skräckkuliss.
-- `project-instructions.md`, `thriller-style.md` och `style-guide.pdf` är bindande styrdokument.
-- Kortkapitelsdriv, cliffhangers, omtolkningar, tydlig gåtkedja och stigande insatser är obligatoriskt.
-- Ingen fas får markeras som klar om leveransgrinden för fasen inte är verifierad i dokumentation.
+- `project-instructions.md`, `thriller-style.md` och `style-guide.pdf` är fortsatt bindande styrdokument.
+- Ingen revision får kallas klar om följdeffekter, canon, reveal-logik, researchbehov och aktuell QA-nivå inte är verifierade i dokumentation.
 
-## Faser och grindar
+## Baselineprincip
+- Befintligt manus och existerande stöddokument är baseline tills de uttryckligen revideras.
+- Baseline får inte behandlas som fri designyta. Varje större avvikelse måste bära ett formellt ändringsärende.
+- Plotändringar ska först uppdatera relevanta stöddokument och därefter kapiteltext.
+- Språkputs får inte i smyg ändra fakta, motiv, reveal-ordning, POV-funktion eller scenfunktion.
+- Continuity, canon och mystery-integritet ska kontrolleras efter varje revision som rör mer än ren språkputs.
 
-### Fas 1: Styrsystem
-Krav för klarstatus:
-- `AGENTS.md` finns och är projektspecifik.
-- agentfiler under `.codex/agents/` finns och har tydliga ansvarsområden
-- arbetsfiler för discovery, struktur, synopsis, kapitelplan, research, QA, leverans och blockerare finns
+## Revisionsklassificering
+- Typ A: språkputs / language polish. Ingen ny storyinformation, ingen ändrad revealordning, inga ändrade motiv.
+- Typ B: scenrevision utan ändrad storyfunktion. Förbättrar rytm, scenklarhet, dialog eller tryck men bevarar scenens faktiska funktion.
+- Typ C: kapitelrevision med lokal storypåverkan. Kräver lokal impact-analys och uppdatering av berörda stöddokument.
+- Typ D: strukturändring med flera beroenden. Kräver change request, impact map, uppdaterade storydokument före kapiteltext och efterföljande canon- och mystery-kontroll.
+- Typ E: större plotändring med påverkan på mysterium, reveal-ordning, antagonistlogik, tidslinje eller canon. Kräver full revisionskedja och får inte börja i kapiteltext.
 
-### Fas 2: Discovery
-Krav för klarstatus:
-- bindande krav från samtliga styrdokument är extraherade
-- öppna frågor är sorterade i tre klasser: fråga användaren, standardantagande, senare iteration
-- romanens stora hemlighet, story goal, consequence, protagonistens inre brist, influence character, antagonistens logik, tickande klocka, huvudplatser och slutets etiska val är låsta
-- nödvändiga externa beroenden är verifierade
+## Obligatorisk konsekvensprincip
+Ingen större ändring av handling, motiv, tidslinje, antagonistlogik, reveal-ordning, ledtrådskedja eller karaktärsbåge får genomföras direkt i kapiteltext som första steg.
 
-### Fas 3: Struktur och manusberedskap
-Krav för klarstatus:
-- story core, synopsis, strukturgrid, ledtrådskedja och kapitelplan är sammanhängande
-- mysteriet fungerar baklänges och framlänges
-- reveal-ordning, villospår och omtolkningar är kontrollerade
-- agentsystemet är uppdaterat utifrån faktisk discovery
+För Typ D och Typ E gäller alltid:
+1. registrera change request i `docs/change-requests.md`
+2. kartlägg påverkan i `docs/change-impact-map.md`
+3. uppdatera relevanta stöddokument
+4. revidera berörda kapitel
+5. kör continuity-, mystery- och researchkontroll vid behov
+6. logga utfallet i `docs/revision-log.md` och verifiera mot `docs/revision-qa.md`
 
-### Fas 4: Iterativ manusproduktion
-Krav för klarstatus per iteration:
-- en sammanhängande delkedja är färdigskriven, inte bara skissad
-- delkedjan har QA-kontrollerats mot tempo, scenfunktion, mysterium, research, kontinuitet och stil
-- beslut, risker och kvarstående luckor är dokumenterade
+## Aktivt styrsystem
+- Revisionsworkflow: `docs/revision-workflow.md`
+- Revisionsdiscovery och baselinebedömning: `docs/revision-discovery.md`
+- Change requests: `docs/change-requests.md`
+- Impact mapping: `docs/change-impact-map.md`
+- Canon och låsta sanningar: `docs/canon-ledger.md`
+- Revisionslogg: `docs/revision-log.md`
+- Revisions-QA: `docs/revision-qa.md`
+- Blockerare: `docs/blockers.md`
+- Beslut: `docs/decisions.md`
+- Faktaverifiering: `docs/research-log.md`
 
-### Fas 5: Slutrevision och leverans
-Krav för klarstatus:
-- alla kapitel finns som separata `.md`-filer
-- ett sammanslaget manus i `.md` finns
-- en PDF finns
-- QA-checklistan är genomgången
-- blockerarlistan innehåller inga interna blockerare
+## Agentteam i revision mode
+- `revision-orchestrator`: äger revisionsflödet end-to-end och vägrar intern "nästan klar".
+- `plot-structure-revision`: driver Typ C-E med fokus på handling, revealordning, bågar och struktur.
+- `scene-line-edit`: driver Typ B-C på scen- och kapitelnivå utan att smyga in odeklarerade storyskiften.
+- `language-polish`: driver Typ A med strikt bevarande av fakta och scenfunktion.
+- `continuity-canon`: bevakar intern logik, tidslinje, relationer, canon och dokumentkedjor.
+- `mystery-clue-integrity`: bevakar ledtrådskedja, villospår, omtolkningar och revealdisciplin.
+- `research-fact-check`: verifierar verklighetsanknutna detaljer före låsning av relevanta revisioner.
+- `qa-release`: avgör om revisionen verkligen är klar på rätt nivå eller måste tillbaka i intern loop.
 
-## Orkestreringsregler
-- Orkestratorn äger helheten och får inte acceptera intern “nästan klar”.
-- När osäkerhet kan lösas genom research ska research göras före fråga till användaren.
-- Frågor till användaren får endast ställas när ett felaktigt standardantagande riskerar att styra romanen tydligt fel.
-- Alla större antaganden ska loggas i `docs/decisions.md`.
-- Alla blockerare ska loggas i `docs/blockers.md`.
-- Alla iterationer ska loggas i `docs/iteration-log.md`.
+## Kapitel med särskilt ändringsskydd
+Följande kapitel kräver användarens uttryckliga tillstånd innan texten ändras:
+- `01`
+- `02`
 
-## Dramaturgisk miniminivå
-- Story goal och consequence måste vara tydliga.
-- Requirements, forewarnings, costs, dividends, prerequisites och preconditions ska finnas på romannivå.
-- Minst tre större omtolkningar ska finnas.
-- Klimax ska lösa både yttre handling och huvudpersonens inre val.
-- Varje större del måste fördjupa mysteriet, höja hotet, omtolka tidigare fakta eller skärpa relation/idékonflikt.
+När någon vill ändra något av dessa kapitel ska användaren först få tre alternativ:
+- Ändra endast det som är nödvändigt
+- Ändra fritt
+- Ändra inte alls
 
-## Researchhierarki
-1. Officiella och primära källor
-2. Museer, myndigheter, nationalpark, kulturarvsinstitutioner
-3. Relevanta forsknings- eller kunskapskällor
-4. Lokala aktörer som komplement
-
-Om fakta är osäkra:
-- märk osäkerheten i `docs/research-log.md`
-- använd inte osäkra påståenden som bärande scenfakta utan märkning eller senare verifiering
-
-## Leveransformat
-- Kapitel: `docs/chapters/NN-kapitelrubrik.md`
-- Sammanställt manus: `docs/manuscript-full.md`
-- PDF-export: `docs/manuscript.pdf`
-
-## Definition av klart
-Projektet är klart först när den fulla romanen, dess stöddokument och exportformat finns på plats och den samlade QA:n visar att mysterium, struktur, geografi, ton, kontinuitet och leveransformat fungerar tillsammans.
-
-## Kapitel som kräver särskilt tillstånd att ändra
-I mappen docs/chapters finns ett antal kapitel i form av md-filer. Deras filnamn börjar med kapitelnummer, till exempel o2 och 14a. Nedan listas kapitel som har kommit särskilt långt och som därför måste skyddas extra noga mot otillbörliga ändringar. Så fort någon agent önskar ändra i någon av dessa filer måste den därför först redogöra för varför den vill ändra i kapiteltexten, och därefter be användaren specificera ett av alternativen:
-Ändra endast det som är nödvändigt
-Ändra fritt
-Ändra inte alls
-
-Följande kapitel kräver tillstånd:
-01
-02
+## Definition av revisionsklar
+Projektet är inte "konverterat till revision mode" förrän:
+- first-version-systemet är tydligt arkiverat
+- den här filen är aktiv och revisionsspecifik
+- revisionsagenterna finns under `.codex/agents/`
+- change requests, impact map, canon ledger, revisionslogg och revisions-QA finns
+- skillnaden mellan språkputs och plotrevision är dokumenterad
+- framtida Codex-körningar naturligt styrs mot säker revision snarare än nygenerering

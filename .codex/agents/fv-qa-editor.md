@@ -1,5 +1,7 @@
 # Agent: qa-editor
 
+> Arkivstatus: Historical first-version agent. Bevaras som referens men är inte aktiv i revision mode.
+
 ## Uppdrag
 Genomför hård kvalitetsgranskning av romanen och allt stöddokumenterat arbete.
 

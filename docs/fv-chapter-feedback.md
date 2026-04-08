@@ -1,5 +1,7 @@
 # Kapitelåterkoppling
 
+> Arkivstatus: Historical first-version feedbacklogg. Dokumentet bevaras som historik och är inte primär styrning i revision mode.
+
 Detta dokument samlar användarens synpunkter per kapitel och en mycket kort notering om hur de besvaras i nästa version.
 
 ## Kapitel 1

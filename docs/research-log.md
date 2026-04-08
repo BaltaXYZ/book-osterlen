@@ -1,10 +1,14 @@
 # Research Log
 
+## Revision mode status
+- Aktiv baseline-logg för revisioner sedan 2026-04-08.
+- Fakta här gäller tills de ersätts av ny verifierad research och dokumenterad revisionsuppdatering.
+
 ## Verifierade miljöförutsättningar
 - Nätåtkomst finns.
 - `style-guide.pdf` kan läsas via `pypdf`.
 - PDF-export är möjlig med `reportlab`.
-- Projektmappen är inte ett git-repo; repo-publicering är därför inte en aktiv leveransgren just nu.
+- Projektmappen är ett git-repo med `origin` på GitHub.
 
 ## Prioriterade platser
 

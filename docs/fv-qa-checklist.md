@@ -1,5 +1,7 @@
 # QA Checklist
 
+> Arkivstatus: Historical first-version QA. Dokumentet bevaras som historik och är inte aktiv revisions-QA.
+
 ## Struktur
 - [x] Story goal är tydligt och stort nog att dra in flera aktörer.
 - [x] Consequence är hård nog att bära hela romanen.

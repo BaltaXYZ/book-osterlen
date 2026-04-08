@@ -1,5 +1,7 @@
 # Agent: research
 
+> Arkivstatus: Historical first-version agent. Bevaras som referens men är inte aktiv i revision mode.
+
 ## Uppdrag
 Säkra faktakänsla, platslogik och trovärdig användning av kulturarv, institutioner och trosmaterial.
 

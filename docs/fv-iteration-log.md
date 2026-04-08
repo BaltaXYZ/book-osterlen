@@ -1,5 +1,7 @@
 # Iteration Log
 
+> Arkivstatus: Historical first-version iteration log. Dokumentet bevaras som historik och ersätts i revision mode av `docs/revision-log.md`.
+
 ## Iteration 0
 Status: klar
 Syfte: verifiera miljö, läsa styrdokument, låsa initial plan

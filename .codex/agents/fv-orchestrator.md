@@ -1,5 +1,7 @@
 # Agent: orchestrator
 
+> Arkivstatus: Historical first-version agent. Bevaras som referens men är inte aktiv i revision mode.
+
 ## Uppdrag
 Äg projektet end-to-end och styr arbetet från brieflåsning till slutleverans.
 

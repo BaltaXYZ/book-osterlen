@@ -1,5 +1,7 @@
 # Discovery
 
+> Arkivstatus: Historical first-version discovery. Dokumentet bevaras som historik och är inte aktiv revisionsstyrning.
+
 ## Status
 Fas: pågående men tillräckligt långt kommen för att låsa romanens kärna.
 

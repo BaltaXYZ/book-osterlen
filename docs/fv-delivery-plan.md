@@ -1,5 +1,7 @@
 # Delivery Plan
 
+> Arkivstatus: Historical first-version delivery plan. Dokumentet bevaras som historik och har ersatts av aktiv revisionsleveransplan.
+
 ## Slutleveranser
 - `docs/chapters/*.md`
 - `docs/manuscript-full.md`

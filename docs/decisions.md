@@ -84,3 +84,23 @@ Skäl: Håller stakesen stora men juridiskt trovärdiga.
 Fråga: Revealordning för Helena och Stenporten
 Beslut: Tidigt ska Helena främst läsas som en hård kulturstrateg med fixering vid tillträde och arbetsro; först sent får hennes dolda råvarukoppling och Stenportens roll som ofullständigt invigd fasad bli fullt läsbar
 Skäl: Bevarar upptäckarglädje, skyddar sena omtolkningar och gör mörkaste punkten starkare.
+
+## Beslut 018
+Fråga: Projektläge efter första fullversionen
+Beslut: Projektet styrs nu i revision mode och behandlar nuvarande manus och aktiva stöddokument som baseline tills uttrycklig revision beslutas.
+Skäl: Huvuduppgiften är nu säker vidareutveckling av en existerande helhet, inte discovery mot första fullversion.
+
+## Beslut 019
+Fråga: Hur first-version-styrningen ska bevaras
+Beslut: Tidigare styrning arkiveras under `AGENTS_FIRST_VERSION.md`, `docs/fv-*.md` och `.codex/agents/fv-*.md`.
+Skäl: Historiken ska vara läsbar men får inte fortsätta styra framtida revisioner.
+
+## Beslut 020
+Fråga: När stöddokument måste uppdateras före kapiteltext
+Beslut: Alla Typ D- och Typ E-ändringar måste först registreras som change request, konsekvenskartläggas och skrivas in i relevanta stöddokument innan kapiteltext ändras.
+Skäl: Hindrar större plot- och strukturglidning mellan manus och styrdokument.
+
+## Beslut 021
+Fråga: Hur titelkonflikten ska hanteras
+Beslut: Motsägelsen mellan `The Serpent of Österlen` och `Ormleden: En Österlenthriller` behandlas som ett separat revisionsärende och löses inte tyst.
+Skäl: Titeln påverkar manus, export, omslag och styrdokument och måste därför hanteras kontrollerat.

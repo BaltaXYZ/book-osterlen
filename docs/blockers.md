@@ -1,16 +1,17 @@
 # Blockers
 
 ## Aktuell status
-Inga externa blockerare.
+Inga blockerare mot att arbeta i revision mode.
 
-## Intern statusnot
-- Ingen teknisk blockerare återstår.
-- Manusets verifierade omfång överstiger 75 000 ord.
-- Dialog och miljöförankring har fått separat slutrevision.
+## Aktiva risker som inte blockerar konverteringen
+- Titelfrågan är ännu inte låst mellan arbetstiteln i styrdokumenten och manusets nuvarande titel.
+- `docs/chapter-true-story.md` är bara delvis ifyllt och bör byggas ut inför större revisioner.
+- Nästa revisionsspår är ännu inte prioriterat i change request-systemet.
 
-## Ej blockerande avvikelser
-- Projektmappen är inte ett git-repo.
-- Inga API- eller GitHub-tokens finns i miljövariablerna.
+## Senast verifierat
+- Projektmappen är ett git-repo med `origin`.
+- First-version-styrningen är arkiverad.
+- Aktiv revisionsstyrning finns på plats.
 
 ## Regel
 Om en verklig blockerare uppstår ska den dokumenteras här med:

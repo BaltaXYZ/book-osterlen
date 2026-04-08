@@ -1,5 +1,7 @@
 # Agent: structure
 
+> Arkivstatus: Historical first-version agent. Bevaras som referens men är inte aktiv i revision mode.
+
 ## Uppdrag
 Säkra romanens hållfasthet enligt `style-guide.pdf`.
 

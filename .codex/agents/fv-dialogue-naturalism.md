@@ -1,5 +1,7 @@
 # Agent: dialogue-naturalism
 
+> Arkivstatus: Historical first-version agent. Bevaras som referens men är inte aktiv i revision mode.
+
 ## Uppdrag
 Säkerställ att dialogen i romanmanuset känns naturlig, muntlig och socialt trovärdig på svenska.
 

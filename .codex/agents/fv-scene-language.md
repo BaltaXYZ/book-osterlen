@@ -1,5 +1,7 @@
 # Agent: scene-language
 
+> Arkivstatus: Historical first-version agent. Bevaras som referens men är inte aktiv i revision mode.
+
 ## Uppdrag
 Skriv romanens scener i en egen, modern och tryckframåt svensk prosarytm.
 

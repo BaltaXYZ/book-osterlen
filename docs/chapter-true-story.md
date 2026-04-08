@@ -1,5 +1,7 @@
 # Kapitelns egentliga historia
 
+> Status i revision mode: Aktiv stödfil. Bindande där den är ifylld, ofullständig där kapitel ännu står som `Ej ifyllt ännu`. Utbyggnad sker via change request, inte ad hoc.
+
 Detta dokument samlar den underliggande sanningen per kapitel: vad som faktiskt händer, vad kapitlet bara antyder, vilka spår som är sanna respektive missvisande och vilken information läsaren ännu inte får direkt i scenen.
 
 Syftet är att man ska kunna läsa detta dokument och förstå kapitelns fulla funktion och verkliga innehåll, även där själva romantexten arbetar med dolda motiv, felläsningar och fördröjda avslöjanden.

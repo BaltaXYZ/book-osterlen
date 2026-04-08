@@ -1,5 +1,7 @@
 # Brief Lock
 
+> Arkivstatus: Historical first-version brief lock. Dokumentet bevaras som historik och ersätts i revision mode av baseline- och canonstyrning.
+
 ## Låsta projektparametrar
 - Titel: *Ormleden: En Österlenthriller*
 - Form: fullängdsroman

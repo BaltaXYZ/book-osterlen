@@ -1,5 +1,7 @@
 # Agent: mystery
 
+> Arkivstatus: Historical first-version agent. Bevaras som referens men är inte aktiv i revision mode.
+
 ## Uppdrag
 Bygg och bevaka huvudgåtan, ledtrådskedjan och reveal-ordningen.
 
