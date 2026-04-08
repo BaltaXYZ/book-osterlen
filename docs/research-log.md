@@ -20,7 +20,7 @@ Låsta fakta:
 - Monumentet anges i officiellt material som cirka 67 meter långt.
 
 Användning i romanen:
-- öppningschock
+- tidigt symbol- och eventspår
 - offentlig finalplats
 - tydlig rörelselogik mellan parkering, by, kustås och scen
 

@@ -1,49 +1,18 @@
 # Change Impact Map
 
-## Syfte
-Kartlägga vilka artefakter som måste ses över när en viss typ av revision öppnas.
+## Generella regler
+- Typ A påverkar normalt bara målfilen och revisionslogg/QA.
+- Typ B kan påverka målfilen plus lokala grannkapitel och ska därför jämföras mot närliggande canon.
+- Typ C ska alltid kontrollera chapter plan, canon ledger och närliggande revealpunkter.
+- Typ D och Typ E ska alltid kontrollera story core, synopsis, structure grid, clue chain, canon ledger, chapter plan och relevanta kapitel.
+- Vid upprepade mellanaktsbeteckningar ska fullständigt filnamn användas i stället för etikett som `16a`.
 
-## Standardmatris per revisionstyp
+## Aktiva impact-poster
 
-| Revisionstyp | Minsta påverkade artefakter | Måste kontrolleras extra |
-| --- | --- | --- |
-| Typ A | kapiteltext, `docs/change-requests.md`, `docs/revision-log.md`, `docs/revision-qa.md` | att ingen canon-, clue- eller revealglidning smugit in |
-| Typ B | kapiteltext, `docs/change-requests.md`, `docs/revision-log.md`, `docs/revision-qa.md`, vid behov `docs/chapter-true-story.md` | scenfunktion, POV, lokal kontinuitet |
-| Typ C | kapiteltext, `docs/chapter-true-story.md`, vid behov `docs/canon-ledger.md`, `docs/clue-chain.md`, logg och QA | lokal storypåverkan, relationer, clue-timing |
-| Typ D | `docs/story-core.md`, `docs/synopsis.md`, `docs/structure-grid.md`, `docs/chapter-plan.md`, vid behov `docs/clue-chain.md`, `docs/canon-ledger.md`, `docs/research-log.md`, därefter kapitel | revealordning, beroendekedjor, kapitelomläggning |
-| Typ E | alla relevanta styrdokument, canon, clue chain, research, decisions, blockers, kapitel och exportkedja vid behov | storysanning, mysteriemotor, tidslinje, stakes, publikationseffekter |
-
-## Högpåverkande beroenden i just detta projekt
-- Ändringar i Dokument A/B påverkar minst `docs/story-core.md`, `docs/structure-grid.md`, `docs/chapter-plan.md`, `docs/clue-chain.md`, `docs/canon-ledger.md` och flera senkapitel.
-- Ändringar i Helena Wredes plan påverkar stakes, revealdisciplin, `Olofslinjen`, canon och finalkapitel.
-- Ändringar i Maja/Noah-dynamiken påverkar både kapiteltext, true-story, struktur och klimaxval.
-- Ändringar i Forn Sed-spåret kräver både mystery- och researchkontroll för att inte bryta realism eller etik.
-- Ändringar i titel eller paketering påverkar både styrdokument, manus, byggscript och exportfiler.
-
-## CR-000 Revision mode-konvertering
-- Typ: E
-- Påverkade filer:
-  - `AGENTS_FIRST_VERSION.md`
-  - `.codex/agents/fv-*.md`
-  - `docs/fv-*.md`
-  - ny aktiv `AGENTS.md`
-  - nya revisionsagenter under `.codex/agents/`
-  - `docs/revision-workflow.md`
-  - `docs/change-requests.md`
-  - `docs/change-impact-map.md`
-  - `docs/canon-ledger.md`
-  - `docs/revision-log.md`
-  - `docs/revision-qa.md`
-  - `docs/revision-discovery.md`
-  - `docs/decisions.md`
-  - `docs/blockers.md`
-  - `docs/research-log.md`
-- Särskild kontroll:
-  - att first-version-material är begripligt men inaktivt
-  - att aktiv styrning inte längre pekar mot discovery-först eller första fullversion som arbetsläge
-  - att skillnaden mellan språkputs och plotrevision är explicit
-
-## Nästa sannolika impact-ärenden
-- CR-001: påverkar prioritetsordning och därmed vilket revisionsspår som öppnas först
-- CR-002: påverkar canonunderlag men inte nödvändigtvis kapiteltext direkt
-- CR-003: påverkar styrning, manusrubriker, byggscript och export
+| CR | Primär ändring | Måste inspekteras eller uppdateras | Kapitelrisk | Obligatoriska agenter |
+| --- | --- | --- | --- | --- |
+| `REV-001` | Styrsystemskonvertering | `AGENTS.md`, `.codex/agents/`, revisionsdokumenten, `docs/blockers.md`, `docs/research-log.md`, `docs/decisions.md` | inga kapiteländringar | `revision-orchestrator`, `qa-release` |
+| `REV-002` | Canonbackfill | `docs/canon-ledger.md`, `docs/story-core.md`, `docs/synopsis.md`, `docs/structure-grid.md`, `docs/clue-chain.md`, `docs/chapter-plan.md`, `docs/chapter-true-story.md` | hela manuskedjan som läsbas, inga textändringar krävs i startläget | `continuity-canon`, `mystery-clue-integrity`, `revision-orchestrator` |
+| `REV-003` | Continuity- och mystery-audit | `docs/canon-ledger.md`, `docs/clue-chain.md`, `docs/revision-qa.md`, `docs/change-requests.md`, `docs/chapter-true-story.md` | öppning, midpoint, senreveal och finalkedja är högst känsliga | `continuity-canon`, `mystery-clue-integrity`, `qa-release` |
+| `REV-004` | Kapitelkänslighet och revisionsordning | `docs/chapter-plan.md`, `docs/change-requests.md` | inga textändringar, men skyddade kapitel ska markeras tydligt | `revision-orchestrator`, `continuity-canon` |
+| `REV-005` | Titel- och paketeringslinje | `AGENTS.md`, `docs/decisions.md`, `docs/canon-ledger.md`, `docs/delivery-plan.md`, omslag och exportfiler som referens | inga kapiteländringar i startläget, men påverkar paketets yttre identitet | `revision-orchestrator`, `qa-release` |

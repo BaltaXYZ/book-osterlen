@@ -1,5 +1,7 @@
 # Synopsis
 
+> Aktiv baseline i revision mode. Dokumentet beskriver nuvarande manushelhet och är inte fri designyta.
+
 Gryningen över Hällevik bryts av blåljus. I skogskanten vid den norra entrén till Stenshuvud ligger antikvarien Nils Severin död, snabbt dumpad som om någon bara velat få bort honom ur vägen. I hans ena hand finns en tunn bronsplatta med inristad slingform. Ur rockfickan sticker ett hopknycklat kvitto från Glimmingehus med orden **FÖLJ ORMLEDEN** på baksidan. I telefonen finns ett sista ofullständigt foto: en kalkering av en bildsten från Kiviksgraven lagd ovanpå ett sentida ritmönster från ett medeltida golv.
 
 Polisen ser först mordet som ett specialintressebrott med hedniska undertoner, inte minst när symbolspår och rykten börjar gå snabbare än rapporterna. Men tecknen på platsen kräver någon som faktiskt kan bildmaterialet. Därför kallas **Maja Malm** in, arkeolog och bildtolkare vid Lunds universitet, uppvuxen utanför Kivik. Maja har hållit sig borta från Österlen i många år. Hon vet hur lätt människor här gör stora sanningar av lösa spår. Hennes egen far gick under på just det sättet. Vid Hällevik möter hon **Noah Rask**, en utredare från trakten som läser människor, vanor och tystnader snabbare än labbrapporter.

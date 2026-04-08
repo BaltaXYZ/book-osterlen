@@ -104,3 +104,8 @@ Skäl: Hindrar större plot- och strukturglidning mellan manus och styrdokument.
 Fråga: Hur titelkonflikten ska hanteras
 Beslut: Motsägelsen mellan `The Serpent of Österlen` och `Ormleden: En Österlenthriller` behandlas som ett separat revisionsärende och löses inte tyst.
 Skäl: Titeln påverkar manus, export, omslag och styrdokument och måste därför hanteras kontrollerat.
+
+## Beslut 022
+Fråga: Hur den aktiva titeln ska behandlas tills titelärendet avgörs
+Beslut: `Ormleden: En Österlenthriller` används som operativ baseline i manus och leveransfiler tills ett separat change request beslutar annat.
+Skäl: Revision mode kräver en tydlig aktiv titel i nuvarande leveranskedja även om projektets äldre working title bevaras historiskt.

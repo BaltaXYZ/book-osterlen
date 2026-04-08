@@ -1,5 +1,7 @@
 # Structure Grid
 
+> Aktiv baseline i revision mode. Dokumentet används för konsekvenskontroll vid struktur- och plotrevisioner.
+
 ## 8-elementslåsning
 
 | Element | Låst lösning |
@@ -16,7 +18,7 @@
 ## Aktstruktur
 
 ### Akt I: Chock, fel förklaring, första spåret
-- Mordet vid Ales stenar öppnar gåtan med full kraft.
+- Mordfallet vid Hällevik / Stenshuvuds norra entré öppnar gåtan med full kraft och drar snabbt blicken mot större symbolspår.
 - Maja tvingas tillbaka till Österlen.
 - Den första förklaringen pekar mot hemlig kult och gammal tro.
 - Glimmingehus och Kiviksgraven dras in i samma spår.

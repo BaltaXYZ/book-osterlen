@@ -1,7 +1,9 @@
 # Clue Chain
 
+> Aktiv baseline i revision mode. Dokumentet används för mystery- och revealkontroll och ska hållas synkat med manus och canon.
+
 ## Ledtråd 1
-Upptäckt: Den döde antikvarien vid Ales stenar bär en tunn bronsplatta med inristad slingform och tre små markeringar.
+Upptäckt: Den döde antikvarien i Hällevik vid Stenshuvuds norra entré bär en tunn bronsplatta med inristad slingform och tre små markeringar.
 Första tolkning: Ett kulttecken eller ett modernt ritualmärke.
 Sann betydelse: En markör knuten till Dokument A:s äldre dokumentkista och till tre punkter i Ormleden.
 Öppnar: Glimmingehus och frågan om vad Severin egentligen försökte varna för.

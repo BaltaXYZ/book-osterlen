@@ -1,49 +1,52 @@
 # Revision QA
 
-## Verifierad systemkonvertering: CR-000
-- [x] First-version-systemet är tydligt arkiverat
-- [x] Ny aktiv `AGENTS.md` är revisionsspecifik
-- [x] Relevanta revisionsagenter finns under `.codex/agents/`
-- [x] Change request-system finns
-- [x] Impact mapping finns
-- [x] Canon ledger finns
-- [x] Revisionslogg finns
-- [x] Revisions-QA finns
-- [x] Skillnaden mellan språkputs och plotrevision är explicit dokumenterad
-- [x] Skyddade kapitel `01` och `02` har inte ändrats i denna konvertering
+## Typ A: språkförbättring klar
+- [ ] texten är språkligt starkare
+- [ ] inga storyfakta, motiv eller reveals har ändrats
+- [ ] POV och scenfunktion är bevarade
 
-## Universella kontroller för alla revisioner
-- [ ] Scope och revisionsklass är tydligt registrerade
-- [ ] Berörda stöddokument är uppdaterade eller uttryckligen opåverkade
-- [ ] `docs/revision-log.md` beskriver vad som gjorts och vad som återstår
-- [ ] Inga nya blockerare är ologgade
+## Typ B: scenrevision klar
+- [ ] scenens funktion är uttryckligen definierad
+- [ ] närliggande kapitel har jämförts vid behov
+- [ ] inga odeklarerade handlingseffekter återstår
 
-## Typ A - språkförbättring klar
-- [ ] Ingen ny storyinformation har lagts till
-- [ ] Inga motiv, reveals, relationer eller POV-fakta har ändrats
-- [ ] Texten är språkligt starkare och mer precis
+## Typ C: kapitelrevision klar
+- [ ] change request finns
+- [ ] lokal impact är kartlagd
+- [ ] canon och mystery har kontrollerats där det behövs
+- [ ] stöddokument och kapitel är synkade
 
-## Typ B - scenrevision klar
-- [ ] Scenfunktion, informationsordning och lokal kontinuitet håller
-- [ ] Eventuell uppdatering i `docs/chapter-true-story.md` är gjord
-- [ ] Ingen oavsiktlig canon- eller mysteryförskjutning finns kvar
+## Typ D: strukturändring klar
+- [ ] change request finns
+- [ ] impact map är uppdaterad
+- [ ] story core, synopsis, structure grid, chapter plan och andra berörda dokument är uppdaterade före kapiteltext
+- [ ] följdkapitel är reviderade eller uttryckligen loggade som öppna
+- [ ] QA bedömer strukturen som sammanhängande
 
-## Typ C - kapitelrevision klar
-- [ ] Kapitlets lokala storypåverkan är dokumenterad
-- [ ] Relevanta canon- och clue-poster är synkade
-- [ ] Kapitel och stöddokument motsäger inte varandra
+## Typ E: större plotändring klar
+- [ ] full konsekvenskedja är dokumenterad
+- [ ] canon, revealordning och antagonistlogik är omtestade
+- [ ] researchbehov är verifierat eller markerat
+- [ ] releasebedömning är uttryckligen godkänd
 
-## Typ D - strukturändring klar
-- [ ] Change request och impact map är uppdaterade före kapiteländring
-- [ ] `docs/story-core.md`, `docs/synopsis.md`, `docs/structure-grid.md` och `docs/chapter-plan.md` är synkade
-- [ ] Revealordning, stakes och kapitelkedja håller efter ändringen
+## Releaseklar för aktuell nivå
+- [ ] språkförbättring klar
+- [ ] scenrevision klar
+- [ ] kapitelrevision klar
+- [ ] strukturändring klar
+- [ ] större plotändring klar
 
-## Typ E - större plotändring klar
-- [ ] Canon ledger, clue chain, struktur och research är synkade före textändring
-- [ ] Mysteriet fungerar både framåt och bakåt efter ändringen
-- [ ] Alla följdändringar är antingen genomförda eller öppet loggade
+## Verifiering av `REV-001`
+- [x] first-version-systemet är arkiverat
+- [x] ny aktiv `AGENTS.md` finns
+- [x] nya revisionsagenter finns
+- [x] change request-system finns
+- [x] impact map finns
+- [x] canon ledger finns
+- [x] revisionslogg finns
+- [x] revisions-QA finns
+- [x] skillnaden mellan språkputs och plotrevision är tydligt dokumenterad
+- [x] framtida arbetsgång pekar mot revision mode
 
-## Release-klar för aktuell nivå
-- [ ] Aktuell ändring är verifierad på rätt nivå
-- [ ] Eventuell export eller sammanställning är uppdaterad om scope kräver det
-- [ ] Ingen intern "nästan klar"-status återstår
+## Beslut
+`REV-001` är QA-godkänd som klar systemkonvertering.

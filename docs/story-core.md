@@ -1,5 +1,7 @@
 # Story Core
 
+> Aktiv baseline i revision mode. Ändringar här kräver change request när de påverkar handling, canon, revealordning eller struktur.
+
 ## Arbetslogline
 När en antikvarie hittas död i Hällevik vid Stenshuvuds norra entré och lämnar efter sig spår till Kiviksgraven, Glimmingehus, S:t Olof och Stenshuvud tvingas arkeologen Maja Malm tillbaka till Österlen för att stoppa en stiftelseordförande från att använda ett tidigmedeltida Ormledsbrev för att öppna sydöstra Österlen för markrofferi, täkter och ett stängt exploateringslandskap.
 

@@ -1,66 +1,47 @@
 # Revision Discovery
 
-## Status
-Revision mode är etablerat på systemnivå. Detta dokument beskriver vad som i repot tillhör first-version-historik, vad som nu är aktiv baseline och vilka risker eller nästa frågor som följer.
+## Syfte
+Denna discovery gäller inte hur romanen ska uppfinnas, utan vad som i den existerande baseline-versionen ska låsas, skyddas, omdefinieras eller senare revideras.
 
-## Repoanalys
-- Git-status vid start: ren arbetsyta på `main` med `origin`
-- Aktivt manus: `docs/chapters/` med 66 kapitel- och mellanaktsfiler
-- Sammanställt manus: `docs/manuscript-full.md`
-- Verifierat omfång i nuvarande manusbas: cirka 144 530 ord
-- Exportkedja finns via `scripts/build_manuscript.py` och `scripts/build_book_pdf.py`
+## Stabil baseline just nu
+- Manusbaseline finns redan som sammanhängande helhet i `docs/chapters/*.md` och `docs/manuscript-full.md`.
+- Den makrodramatiska motorn är tillräckligt tydlig för revision: Maja, Noah, Helena, Dokument A/B, Ormleden, Stenporten och finalen vid Ales stenar.
+- `docs/story-core.md`, `docs/synopsis.md`, `docs/structure-grid.md` och `docs/clue-chain.md` är tillräckligt starka för att fungera som aktiv baseline efter synk och märkning.
+- Exportkedjan finns redan och behöver inte återuppfinnas, bara hållas synkad efter godkända revisioner.
 
-## First-version-system som nu är arkiverat
-- `AGENTS_FIRST_VERSION.md`
-- `.codex/agents/fv-orchestrator.md`
-- `.codex/agents/fv-structure.md`
-- `.codex/agents/fv-mystery.md`
-- `.codex/agents/fv-research.md`
-- `.codex/agents/fv-scene-language.md`
-- `.codex/agents/fv-dialogue-naturalism.md`
-- `.codex/agents/fv-qa-editor.md`
-- `docs/fv-discovery.md`
-- `docs/fv-brief-lock.md`
-- `docs/fv-qa-checklist.md`
-- `docs/fv-delivery-plan.md`
-- `docs/fv-iteration-log.md`
-- `docs/fv-chapter-feedback.md`
+## Provisoriskt, motsägelsefullt eller svagt
+- first-version-loggar och first-version-QA beskrev projektet som slutkört eller färdigbyggt och behövde därför arkiveras
+- `docs/chapter-true-story.md` är bara delvis ifyllt och måste behandlas som partiell sanningsbok tills vidare
+- öppningen har haft motstridiga formuleringar i stöddokumenten om fyndplats kontra associationsplats; aktiv baseline är nu Hällevik / Stenshuvuds norra entré som fyndplats och Ales stenar som finalplats
+- kapitelmappen använder flera upprepade mellanaktsbeteckningar som `16a`, `18a`, `21a`, `22a`, `24a`, `26a`; framtida change requests måste därför alltid ange fullständigt filnamn, inte bara etikett
 
-## Filbeslut för centrala styr- och planfiler
+## Aktivt baselinepaket i revision mode
+- `docs/story-core.md`
+- `docs/synopsis.md`
+- `docs/structure-grid.md`
+- `docs/clue-chain.md`
+- `docs/canon-ledger.md`
+- `docs/chapter-plan.md`
+- `docs/chapter-true-story.md`
+- `docs/research-log.md`
+- `docs/manuscript-full.md`
+- `docs/chapters/*.md`
 
-| Fil eller grupp | Beslut | Skäl i revision mode |
-| --- | --- | --- |
-| `AGENTS_FIRST_VERSION.md` | arkiverad | historiskt first-version-system, ej aktiv styrning |
-| `.codex/agents/fv-*.md` | arkiverade | bevarar gamla roller men får inte styra vidare revision |
-| `project-instructions.md`, `thriller-style.md`, `style-guide.pdf` | behåll aktiv | fortsatt bindande övergripande kvalitets- och genredirektiv |
-| `docs/story-core.md`, `docs/synopsis.md`, `docs/structure-grid.md`, `docs/chapter-plan.md`, `docs/clue-chain.md` | behåll aktiv | utgör nuvarande baseline för plot, struktur och mysterium |
-| `docs/research-log.md` | skriv om delvis, behåll aktiv | fortsatt aktiv faktabas men tidigare repo-status var felaktig |
-| `docs/decisions.md` | skriv om delvis, behåll aktiv | tidigare beslut gäller men behöver kompletteras med revisionsbeslut |
-| `docs/blockers.md` | skriv om delvis, behåll aktiv | ska spegla aktiva blockerare och risker i revision mode |
-| `docs/chapter-true-story.md` | behåll aktiv | direkt användbar i revision mode men ofullständig och därför markerad som partiell |
-| `docs/fv-discovery.md`, `docs/fv-brief-lock.md`, `docs/fv-qa-checklist.md`, `docs/fv-delivery-plan.md`, `docs/fv-iteration-log.md`, `docs/fv-chapter-feedback.md` | arkiverade | beskriver first-version-resan eller redan avklarad leverans, inte aktiv revision |
-| `docs/change-requests.md`, `docs/change-impact-map.md`, `docs/canon-ledger.md`, `docs/revision-log.md`, `docs/revision-qa.md`, `docs/revision-workflow.md` | nya aktiva revisionsdokument | behövs för spårbar ändringsstyrning, konsekvenskontroll och canonbevakning |
+## Standardantaganden för fortsatt revisionsarbete
+- nuvarande manus- och exporttitel behandlas som `Ormleden: En Österlenthriller` tills ett uttryckligt title-change-request säger annat
+- baseline är låst tills en revision uttryckligen godkänns och loggas
+- första rimliga fortsättningen efter denna konvertering är inte fri omskrivning utan canonbackfill och helhets-QA
+- exportfiler byggs om när en godkänd revision påverkar manusleveransen, inte för varje stöddokumentsjustering
 
-## Stabil baseline
-- Romanens nuvarande A/B-motor, Ormledens faktiska natur, Helena Wredes plan och den övergripande kapitelkedjan är väl dokumenterade i story core, struktur, chapter plan och clue chain.
-- Leveransartefakter finns redan: kapitelmapp, sammanslaget manus, PDF och bokutgåva.
-- Researchgrunden för huvudplatserna är etablerad nog för vidare revisioner.
+## Frågor som absolut måste ställas till användaren
+- Inga är blockerande för att etablera revision mode.
 
-## Provisoriska eller svaga delar
-- Titeln är inte låst mellan styrdokument och nuvarande manus- och exportkedja.
-- `docs/chapter-true-story.md` täcker bara en liten del av kapitelkedjan och bör byggas ut inför större struktur- eller plotrevisioner.
-- First-version-dokumenten bar flera "allt klart"-markeringar som inte kan fungera som aktiv revisionsstyrning.
-- Kapitelfloran med många mellanaktsfiler och återanvända suffix är hanterbar som baseline men bör kartläggas noga vid större strukturändringar.
+## Frågor som kan hanteras med standardantaganden
+- första revisionspasset bör börja med kontinuitet/canon och reveal-integritet före större omskrivningar
+- tidigare first-version-feedback bevaras som historik men får inte ensamt styra nya ändringar
 
-## Absolut nödvändiga frågor till användaren just nu
-Inga blockerande frågor krävs för att etablera revision mode.
-
-## Frågor som sannolikt blir viktiga i nästa steg
-- Vilken revisionsklass ska prioriteras först: språkputs, struktur, handling, karaktärer, mysterium, slut eller titel/paketering?
-- Vilka delar av nuvarande bok betraktas som mest låsta av användaren?
-- Hur djup ska nästa revisionsvåg vara: lätt puts, kraftig omarbetning eller djup omstrukturering?
-
-## Nästa rimliga steg
-- Använd CR-001 för att låsa nästa revisionsspår.
-- Använd CR-002 för att bygga ut canon- och true-story-underlaget inför större ändringar.
-- Använd CR-003 för att avgöra titel- och paketeringslinje innan senare releasepolish.
+## Seedade framtida ändringsområden
+- `REV-002`: bygga ut canon och aktiv sanningsbok från befintlig baseline
+- `REV-003`: genomföra full continuity- och mystery-audit mot baseline-manuset
+- `REV-004`: märka kapitelkedjan med känslighet och sannolik revisionsordning utan att ännu skriva om texten
+- `REV-005`: välja hur titel och paketering ska behandlas framåt utan att skriva över historiken i smyg

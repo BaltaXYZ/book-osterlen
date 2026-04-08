@@ -4,7 +4,6 @@
 Inga blockerare mot att arbeta i revision mode.
 
 ## Aktiva risker som inte blockerar konverteringen
-- Titelfrågan är ännu inte låst mellan arbetstiteln i styrdokumenten och manusets nuvarande titel.
 - `docs/chapter-true-story.md` är bara delvis ifyllt och bör byggas ut inför större revisioner.
 - Nästa revisionsspår är ännu inte prioriterat i change request-systemet.
 
