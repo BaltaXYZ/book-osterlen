@@ -1,5 +1,48 @@
 # Revision QA
 
+## Verifiering 2026-04-09 - Typ A - Kapitel 03 infogad bro
+- [x] texten är språkligt starkare
+- [x] inga storyfakta, motiv eller reveals har ändrats
+- [x] POV och scenfunktion är bevarade
+
+## Verifiering 2026-04-08 - Typ D - `REV-006`
+- [x] change request finns
+- [x] impact map är uppdaterad
+- [x] story core, synopsis, structure grid, chapter plan och andra berörda dokument är uppdaterade före eller tillsammans med kapiteltext där det behövs för denna strukturändring
+- [x] följdkapitel är reviderade eller uttryckligen loggade som öppna
+- [x] strukturen läses sammanhängande som `03 -> 04`
+- [x] tidiga clue chain-reveals har inte flyttats fram
+
+## Verifiering 2026-04-08 - Typ A - `language-polish` och Kapitel 03 sjätte passet
+- [x] texten är språkligt starkare
+- [x] inga storyfakta, motiv eller reveals har ändrats
+- [x] POV och scenfunktion är bevarade
+
+## Verifiering 2026-04-08 - Typ A - Kapitel 03 femte passet
+- [x] texten är språkligt starkare
+- [x] inga storyfakta, motiv eller reveals har ändrats
+- [x] POV och scenfunktion är bevarade
+
+## Verifiering 2026-04-08 - Typ A - Kapitel 03 fjärde passet
+- [x] texten är språkligt starkare
+- [x] inga storyfakta, motiv eller reveals har ändrats
+- [x] POV och scenfunktion är bevarade
+
+## Verifiering 2026-04-08 - Typ A - Kapitel 03 tredje passet
+- [x] texten är språkligt starkare
+- [x] inga storyfakta, motiv eller reveals har ändrats
+- [x] POV och scenfunktion är bevarade
+
+## Verifiering 2026-04-08 - Typ A - Kapitel 03 andra passet
+- [x] texten är språkligt starkare
+- [x] inga storyfakta, motiv eller reveals har ändrats
+- [x] POV och scenfunktion är bevarade
+
+## Verifiering 2026-04-08 - Typ A - Kapitel 03
+- [x] texten är språkligt starkare
+- [x] inga storyfakta, motiv eller reveals har ändrats
+- [x] POV och scenfunktion är bevarade
+
 ## Typ A: språkförbättring klar
 - [ ] texten är språkligt starkare
 - [ ] inga storyfakta, motiv eller reveals har ändrats

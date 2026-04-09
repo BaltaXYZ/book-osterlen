@@ -68,15 +68,12 @@ Ej ifyllt ännu.
 
 ## 03. Noah Rask
 
-Ej ifyllt ännu.
-
-## 03A. Nedför Åsen
-
-Ej ifyllt ännu.
+- Efter `REV-006` bär kapitel 03 både mordplatskonfrontationen och den korta övergången till Glimmingehus.
+- Tidigare `03A` är inte längre aktivt kapitel i baseline; använd dess arkiverade version endast som historik, inte som styrande text.
 
 ## 04. Glimmingehus efter stängning
 
-Ej ifyllt ännu.
+- Efter `REV-006` börjar kapitel 04 först när Noah och Maja redan har anlänt till Glimmingehus och Linnea tar dem vidare in i det konkreta intrångsspåret.
 
 ## 05. Offrets sista karta
 

@@ -9,6 +9,7 @@
 | `REV-003` | Full continuity- och mystery-audit av baseline-manuset | D | öppen | `docs/canon-ledger.md`, `docs/clue-chain.md`, `docs/revision-qa.md`, `docs/chapters/*.md`, `docs/manuscript-full.md` | hog | `REV-001` | motsägelser, revealglapp och kontinuitetsrisker är loggade eller lösta |
 | `REV-004` | Känslighetsmärkning och revisionsordning för kapitelkedjan | C | öppen | `docs/chapter-plan.md`, `docs/change-impact-map.md` | låg | `REV-001` | kapitelgrupperna har tydlig revisionskänslighet och rekommenderad arbetsordning |
 | `REV-005` | Titel- och paketeringslinje för fortsatt revision | C | öppen | `AGENTS.md`, `docs/decisions.md`, `docs/canon-ledger.md`, `docs/delivery-plan.md`, exportfiler som referens | medel | `REV-001` | aktiv titelstrategi är beslutad utan att tysta motsägelsen mellan working title och nuvarande manuspaket |
+| `REV-006` | Slå ihop `03` och `03A` till en enda aktiv öppningssekvens | D | klar | `docs/chapters/03-noah-rask.md`, `docs/chapters/04-glimmingehus-efter-stangning.md`, `docs/chapters/_archive/03a-nedfor-asen.pre-merge.md`, `docs/manuscript-full.md`, `docs/chapter-plan.md`, `docs/structure-grid.md`, `docs/chapter-true-story.md`, `docs/change-impact-map.md`, `docs/revision-log.md`, `docs/revision-qa.md` | hög | `REV-001` | aktiv sekvens läses rent som `03 -> 04`, `03A` är inte längre aktivt kapitel, och inga tidiga clue chain-reveals har flyttats fram |
 
 ## Mall för nya ärenden
 

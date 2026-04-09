@@ -1,10 +1,6 @@
 # 04. Glimmingehus efter stängning
 
-Glimmingehus reste sig ur slätten som något som vägrat förhandla med tiden.
-
-Maja hade alltid tyckt illa om byggnader som såg ut att hålla inne med information. Glimmingehus gjorde det i sten. De tjocka murarna stod nästan trotsigt mot den öppna marken runtomkring, som om platsen fortfarande förväntade sig belägring. Vinden gick utan hinder över fälten och slog mot gårdsytan när Noah parkerade bilen vid sidan av besöksparkeringen. Det var för sent på dagen för vanliga besökare. Himmelens färg hade dragit mot bly och jordraderna runt borgen låg svarta av fukt.
-
-Vid porten väntade en kvinna med reflexväst över en tjock tröja. Hon höll sin bricka som om den var ett skydd.
+Hon höll sin bricka som om den var ett skydd.
 
 "Linnea Jönsson," sa hon. "Jag ansvarar för dagens stängning. Jag vill bara ha sagt direkt att vi inte släpper in någon i samlingarna utan att det dokumenteras."
 

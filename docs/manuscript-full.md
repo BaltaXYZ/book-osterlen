@@ -228,43 +228,43 @@ Hon såg på bilden igen, på de röda geometriska linjerna under kalkeringen. P
 
 # 03. Noah Rask
 
-Noah tyckte bäst om brottsplatser innan de blev berättelser.
+Noah tyckte bäst om brottsplatser innan andra hann börja berätta om dem.
 
-Det var en alltmer ovanlig preferens. Folk berättade fort nu. Vittnen berättade innan de sett färdigt. Presstjänster berättade innan de hunnit neka. Politiker berättade genom att tala om vikten av lugn. Och stiftelser som Stenporten berättade genom att hålla sig så välformulerade att ingen hann fråga vem som egentligen tjänade på ordningen.
+Det var en allt ovanligare lyx. Nuförtiden gick det fort. Vittnen började tala innan de sett färdigt. Presstjänster skickade ut uppgifter innan ansvariga hunnit dementera dem. Politiker talade om vikten av lugn innan någon visste vad som behövde lugnas. Och stiftelser som Stenporten uttryckte sig så prydligt att ingen hann fråga vem som faktiskt tjänade på ordningen.
 
-Han stod kvar en bit från avspärrningen och såg hur Maja Malm gick upp och ner över samma tre meter mark som om resten av världen tillfälligt inte fanns. Hon rörde sig inte som de flesta akademiker han träffat genom åren. Inget kringflackande, ingen onödig teatralik. Hon hade den där sortens koncentration som kunde se ut som kyla tills man märkte hur mycket den kostade.
+Han stod kvar en bit från avspärrningen och såg hur Maja Malm gick fram och tillbaka över samma tre meter mark, som om resten av världen för en stund inte fanns. Hon rörde sig inte som de flesta akademiker han träffat genom åren. Inget kringflackande, ingen onödig teatralik. Hon hade en koncentration som först kunde se ut som kyla, tills man såg hur mycket den kostade.
 
-Bakom henne närmade sig Stenportens folk. Kvinnan i kappan hade presenterat sig som **Cecilia Torn**, kommunikationschef, innan Noah ens hunnit fråga. Mannen bredvid henne hette David Åhs, säkerhetsansvarig, vilket Noah översatte till någon som var van att kalla andra människors frågor för störningar.
+Bakom henne kom Stenportens folk. Kvinnan i kappan hade presenterat sig som **Cecilia Torn**, kommunikationschef, innan Noah ens hunnit fråga. Mannen bredvid henne hette David Åhs, säkerhetsansvarig, vilket Noah översatte till någon som var van att avfärda andra människors frågor som störningar.
 
-"Vi behöver bara förstå vad pågående polisinsats tillåter att vi kommunicerar," sa Cecilia med den väloljade vänlighet som alltid fick Noah att tänka på knivar i besticklådor. "Det här rör ett publikt evenemang med internationella gäster."
+"Vi behöver bara förstå vad den pågående polisinsatsen tillåter att vi kommunicerar," sa Cecilia. Rösten var vänlig, men så välpolerad att Noah genast blev misstänksam. "Det här kommer att påverka ett publikt evenemang med internationella gäster."
 
 "Då är det tur att evenemanget inte är min prioritet," sa Noah.
 
-David Åhs tittade förbi honom mot kroppen, som om han försökte bedöma hur långt det gått.
+David Åhs såg förbi honom mot kroppen, som om han försökte bedöma hur långt det redan gått.
 
 "Nils arbetade för oss i ett begränsat uppdrag," sa Cecilia. "Vi vill naturligtvis hjälpa."
 
 "Med vad?"
 
-"Bakgrund. Material. Kontext."
+"Bakgrund. Material. Sammanhang."
 
-"Ni har säkert redan börjat samla den."
+"Ni har säkert redan börjat samla det."
 
 Hon log som om han skämtat. "Vi är ansvariga aktörer."
 
-Noah hade vuxit upp bland människor som inte kallade sig ansvariga aktörer. De sa jag tar det eller jag hinner inte eller jag tror inte på det där. Han litade mer på den sortens språk. Det här andra, det välbalanserade och slipsvänliga, luktade alltid förberedelse.
+Noah hade vuxit upp bland människor som inte kallade sig ansvariga aktörer. De sa jag tar det, eller jag hinner inte, eller jag tror inte på det där. Han litade mer på den sortens språk. Det här andra, det välbalanserade och slipsvänliga, brukade vara ett tecken på att någon redan bestämt vilken version som skulle gälla.
 
 Maja kom fram till dem innan Cecilia hann säga mer.
 
 "Jag behöver veta exakt vad Severin gjorde för er," sa hon.
 
-Inga artigheter. Bra.
+Inga artigheter. Det uppskattade Noah.
 
-Cecilia vände hela sin professionella uppmärksamhet mot henne. "Och du är?"
+Cecilia riktade all sin professionella uppmärksamhet mot henne. "Och du är?"
 
 "Maja Malm."
 
-Namnet träffade. Bara lite, men Noah såg det. Cecilia kände till henne.
+Där kom en reaktion. Bara en liten, men Noah såg den. Cecilia visste vem Maja var.
 
 "Professor Friberg nämnde att ni kunde bli inkallad," sa hon. "Nils hjälpte oss att kvalitetssäkra vissa ikonografiska jämförelser inför dagjämningsprogrammet. Det är inget hemligt med det."
 
@@ -272,15 +272,15 @@ Namnet träffade. Bara lite, men Noah såg det. Cecilia kände till henne.
 
 "Mellan sydskandinaviska monumentmiljöer och senare receptionshistoriska lager."
 
-Noah såg hur Maja nästan log, men inte av nöje.
+Maja log nästan, men inte för att hon var road.
 
 "Det där betyder ungefär ingenting," sa hon.
 
-David Åhs sköt in sig. "Det finns material i Glimmingehus som ni kan få titta på om utredningen kräver det. Men vi behöver veta vad som lämnar platsen."
+David Åhs lutade sig in. "Det finns material i Glimmingehus som ni kan få titta på om utredningen kräver det. Men vi behöver veta vad som lämnar platsen."
 
 "Ni behöver ingenting av mig just nu," sa Noah.
 
-Han tog ett halvt steg fram. Det räckte. David backade inte, men han räknade om.
+Han tog ett halvt steg fram. Det räckte. David backade inte, men Noah såg att han tänkte om.
 
 "Var Severin ensam här i natt?" frågade Noah.
 
@@ -296,23 +296,23 @@ Cecilia svarade för snabbt. "Det vet vi inte."
 
 "Gör det."
 
-Maja stod tyst ett ögonblick och betraktade dem båda. "Var han orolig?"
+Maja stod tyst ett ögonblick och såg på dem båda. "Var han orolig?"
 
 "Nils var engagerad," sa Cecilia.
 
 "Det var inte frågan."
 
-Nu kom den första sprickan på riktigt. Inte mycket. Bara en liten stelning kring munnen.
+Nu kom den första riktiga sprickan. Inte stor. Bara en liten stelhet kring munnen.
 
 "Han ansåg att vissa delar av materialet borde gås igenom långsammare," sa Cecilia. "Vi hade olika syn på tidsplanen."
 
-Det där lade sig i Noah som bly.
+Noah kände igen formuleringen direkt.
 
-Han hade hört den meningen förut, i andra versioner, kring andra döda. Han ansåg. Vi hade olika syn. Det var språket människor använde när de ville göra konflikt till kalenderproblem.
+Han hade hört den förr, i andra versioner, kring andra döda. Han ansåg. Vi hade olika syn. Det var så människor fick konflikt att låta som ett planeringsproblem.
 
 "Ni stannar tillgängliga," sa han. "Ingen lämnar Österlen innan jag sagt annat."
 
-Cecilia svarade med ett nästan osynligt ögonbrynshöjande. Inte för att hon tänkte lyda eller trotsa just nu, utan för att registrera honom. Vilken sorts polis. Hur hårt mandat. Hur mycket lokal beroendeyta.
+Cecilia höjde nästan omärkligt på ögonbrynen. Inte för att hon tänkte lyda eller trotsa just då, utan för att läsa av honom. Vilken sorts polis han var. Hur långt hans mandat sträckte sig. Hur starkt han stod lokalt.
 
 När de gått ner mot parkeringen igen stod Noah och Maja kvar i vinden.
 
@@ -324,35 +324,35 @@ När de gått ner mot parkeringen igen stod Noah och Maja kvar i vinden.
 
 "För henne, förhoppningsvis."
 
-Han såg ner mot hennes hand. Hon hade knutit den så hårt att knogarna var vita.
+Han såg på hennes hand. Hon höll den så hårt knuten att knogarna vitnade.
 
-"Du kände Severin?" sa han.
+"Du kände Severin?"
 
-"Inte nära. Tillräckligt för att veta att han inte skulle lägga ihop två bildlager utan skäl."
+"Inte nära. Men tillräckligt för att veta att han inte skulle lägga ihop två bildlager utan skäl."
 
 "Och nu tror du att Glimmingehus är nästa plats."
 
 "Jag tror att Glimmingehus redan var platsen. Frågan är vad som finns kvar där."
 
-Det var en bra formulering. Inte för smart. Bara rak. Noah gillade när människor talade som om världen faktiskt gick att röra vid.
+Det svaret tyckte Noah om. Rakt och utan krusiduller. Han litade mer på människor som talade som om världen faktiskt gick att ta på.
 
-En uniformerad kollega kom uppför leden med sin telefon i handen.
+En uniformerad kollega kom uppför leden med telefonen i handen.
 
 "Noah."
 
-Det var något i rösten som gjorde att Noah tog samtalet direkt utan att fråga.
+Det var något i rösten som fick Noah att ta samtalet direkt, utan att fråga.
 
 "Vi har pratat med administratören vid Glimmingehus," sa kollegan. "Någon var inne i Severins arbetsrum i morse innan ordinarie öppning."
 
 "Vem?"
 
-"Ingen vet än. Larmet gick kort och slog av igen. De trodde först systemfel."
+"Ingen vet än. Larmet gick kort och slog av igen. De trodde först att det var systemfel."
 
-Noah tittade på Maja. Hon hade redan förstått av hans ansikte.
+Noah tittade på Maja. Hon hade redan förstått det på hans ansikte.
 
-"Vad saknas?" sa han.
+"Vad saknas?"
 
-"De vet inte. Men en låda med foton och kopior stod uppbruten. Och det finns en sak till."
+"Det vet de inte. Men en låda med foton och kopior stod uppbruten. Och det finns en sak till."
 
 "Säg."
 
@@ -362,9 +362,9 @@ Noah väntade.
 
 Kollegan svalde. "Morgonljuset tar resten."
 
-Han avslutade samtalet och stoppade undan telefonen. Vinden hade vänt något. Ljudet från havet kom hårdare nu, som om platsen stod öppen längre ut än man trodde.
+Han avslutade samtalet och stoppade undan telefonen. Vinden hade vänt en aning. Ljudet från havet slog hårdare nu, som om platsen låg öppnare än man först trott.
 
-"Du får säga att det är dåliga nyheter," sa Maja.
+"Du får gärna säga att det är dåliga nyheter," sa Maja.
 
 "Någon hann före oss till Glimmingehus."
 
@@ -372,7 +372,7 @@ Han avslutade samtalet och stoppade undan telefonen. Vinden hade vänt något. L
 
 "Och de vill att vi ska veta det."
 
-Hon nickade långsamt. Inte rädd. Inte ännu. Mer som om ännu en bricka klickat fast i något hon inte tyckte om formen på.
+Hon nickade långsamt. Inte rädd. Inte ännu. Mer som om ännu en bit fallit på plats i ett mönster hon inte tyckte om.
 
 "Bra," sa hon.
 
@@ -382,9 +382,9 @@ Noah tittade på henne. "Bra?"
 
 "Vilket sätt?"
 
-"Det betyder att den som gjorde det här inte bara städar efter sig. De tänker dramaturgiskt."
+"Det betyder att den som gjorde det här inte bara städar efter sig. De försöker styra hur allt ska läsas."
 
-"Det där ordet får du gärna översätta."
+"Det där får du gärna översätta."
 
 "De vill att vi ska se en viss berättelse."
 
@@ -392,219 +392,51 @@ Noah lät blicken gå från henne till stenen där kroppen fortfarande låg.
 
 "Och du gillar inte den berättelsen."
 
-"Nej," sa Maja. "Men ännu värre är att jag tror att nästan alla andra kommer göra det."
+"Nej," sa Maja. "Men ännu värre är att jag tror att nästan alla andra kommer att göra det."
 
-De började gå nedför leden tillsammans. Nedanför dem öppnade sig Kåseberga, hamnen, den våta vägen och bilen som väntade. Noah kände den korta, hårda förnimmelsen han brukade få precis när ett fall slutade vara lokalt begripligt och blev något större, farligare.
+De började gå nedför leden tillsammans. Noah kände den där korta, obehagliga känslan han brukade få precis när ett fall slutade vara lokalt begripligt och blev något större och farligare.
 
 Vid parkeringen hade Stenportens SUV redan lämnat platsen.
 
 På gruset där bilen stått låg ett enda stycke vit kalk.
 
-# 03A. Nedför Åsen
-
-När de lämnade platån över Ales stenar hade platsen redan börjat dra till sig fel sorts hunger.
-
-Maja märkte det först i ljuden. Inte de officiella än, inte polisradion eller kriminalteknikernas korta rop till varandra, utan de andra. Det snabba viskandet från människor som ännu stod utanför avspärrningen men redan berättade för varandra vad de "såg". En kvinna i quiltad jacka sa ordet ritual med den dämpade njutning vissa människor lägger i det hemska när det är tillräckligt långt från deras egna kök. En tonårskille sträckte mobilen över axeln på sin pappa för att få en bild på blåljusen mellan stenarna.
-
-Maja gick nedför leden med Noah ett par steg bakom sig och ville redan därifrån. Inte för att hon inte tålde platsen. För att hon tålde den för väl. Den sortens morgonljus, den öppna åsen, rösterna från havet under allt annat, allt det där arbetade rakt in i kroppen innan tanken hann sortera.
-
-"Du gick här som barn?" sa Noah.
-
-Hon såg inte på honom. "Alla gick här som barn."
-
-"Det där är inte samma sak som svar."
-
-Hon vände blicken mot gräset framför kängorna. "Ja."
-
-"Mycket?"
-
-"Tillräckligt."
-
-Han lät det ligga, men inte för att han förlorat intresset. Mer som om han redan börjat lägga hennes tystnader i högar: användbara, skyddande, farliga.
-
-Nedanför avspärrningen stod Torkel Hane och svarade på frågor från en yngre polis med anteckningsblock. Torkel såg Maja innan polisen hann följa blicken.
-
-"Arvids flicka," sa han.
-
-Orden låg i luften som om de alltid varit på väg.
-
-Maja stannade inte. Hon hade lärt sig för länge sedan att om man svarade direkt på sådant i Kåseberga kunde resten av förmiddagen gå åt till härstamning.
-
-Noah däremot stannade. "Kände du hennes far?"
-
-Torkel drog på munnen. "Man kunde inte bo här och inte känna honom. Frågan är vilken version ni vill ha."
-
-"Den som hjälper utredningen."
-
-"Då blir det den tråkigaste. Han såg mycket men ville alltid se lite till. Så blir folk opålitliga."
-
-Maja hatade att hon stannade då ändå.
-
-"Han hade inte alltid fel," sa hon.
-
-Torkel såg på henne, inte ovänligt men utan att göra det bekvämt. "Nej. Men det är inte samma sak som att folk orkade lyssna tills han kom till den biten."
-
-Noah kastade en snabb blick mellan dem. "Severin pratade med dig i våras."
-
-"Ja."
-
-"Om vad?"
-
-"Om samma saker er döda man nu verkar ha fått smak för. Sjömärken. Gamla namn. Vilka som gick var när. Han frågade inte som stadsfolk brukar fråga, för att få något färdigt exotiskt att ta med sig hem. Han frågade som om svaret kunde ställa till det."
-
-"Och gjorde det?"
-
-Torkel ryckte på axlarna. "Det vet väl ni bättre än jag nu."
-
-Den yngre polisen harklade sig och höll fram anteckningsblocket. "Han säger att Severin frågade särskilt om nåt som kallades Rutan nere i hamnen."
-
-Noah sa ingenting. Bara noterade på sitt sätt, där ansiktet blev ännu lugnare ju mer intressant något var.
-
-Maja kände en liten stöt i bröstet. Rutan ännu en gång, och nu från Torkel också. Faderns namn, Severins frågor, hamnen. Det var alltid när saker började väva sig alltför tätt som hon fick lust att dra sig ur, som om hon kunde känna när mönster höll på att bli farligt meningsfulla.
-
-"Varför just Rutan?" sa Noah.
-
-"För att det är ett namn som nästan ingen använder längre," sa Torkel. "Och gamla namn säger ofta mer än de som finns kvar på skyltarna."
-
-Det där var så typiskt Arvid Malm att Maja nästan blev yr av det.
-
-Noah tackade Torkel, men Torkel nickade bara bort mot hamnen. "Om ni ändå ska ner dit senare, titta inte bara på bodarna. Titta på hur man ser därifrån. Folk läser alltid allting uppifrån här. Från stenarna, från backarna, från utsiktskort. Men mycket av det som betydde något i bygden kom in från sjön först."
-
-Maja hann se hur Noah tog in meningen innan han frågade:
-
-"Kände du till symbolen på bröstet?"
-
-Torkel tuggade på svaret en sekund. "Inte som symbol. Men formen..." Han drog en krokig linje i luften med pekfingret. "Jag har sett den rörelsen på andra ställen. I gamla sätt att tala om hur man inte går rakt, utan leder längs med. Sidledes. Förbi. Inte genom mitten."
-
-"Ledet," sa Maja.
-
-"Just det."
-
-Hon kände Noahs blick mot sig men vägrade möta den. Torkel hade just bekräftat att hon inte bara hört ett lockande ord och byggt en teori på det. Det var skönt. Och det var värre än skönt.
-
-Vid parkeringen hade Stenportens folk byggt upp en liten egen ö. Inte officiell, men tydlig nog. En termos på motorhuven. En surfplatta. Cecilia Torn, fortfarande i marinblått, nu med två personer till sig, där den ene tydligt var kommunikationsstöd och den andre försökte se ut som om han bara råkade vara säkerhetsman i fel sorts väder.
-
-Cecilia gick mot dem med ett ansikte som fortfarande såg lagom bedrövat ut men nu också bar den lilla skärpa som kommer när människor känner att ett läge håller på att gå dem ur händerna.
-
-"Det cirkulerar redan bilder nere vid vägen," sa hon till Noah. "Vi skulle uppskatta om ni höll pressen tillbaka tills familjen underrättats ordentligt."
-
-"Det skulle jag också uppskatta," sa Noah.
-
-"Bra. Då samarbetar vi."
-
-Maja såg hur Cecilia justerade hela sin framtoning när hennes blick träffade henne. I ett ögonblick fanns där igenkänning. Inte från universitetet. Inte exakt. Snarare från en annan sorts offentlighet, den där människor memorerar namn på dem som kan bli tillgång eller problem senare.
-
-"Doktor Malm," sa hon. "Jag beklagar att ni behövde se det här."
-
-"Gör du?" sa Maja.
-
-Cecilia blinkade inte ens på den kyligare tonen. "Jag beklagar att Nils Severin uppenbart blandat ihop ett forskningsspår med något som nu riskerar att göda ganska destruktiva fantasier i offentligheten."
-
-Noah svarade innan Maja hann. "Vad menar du med forskningsspår?"
-
-"Jämförelser mellan olika platsmaterial. Receptionshistoria. Hur symboler flyttas genom tid. Intressant för seminarier, mindre bra som uppslag till morgonrubriker om hedna sekter vid kusten."
-
-Så där. Där låg det redan. Inte påstående, inte förnekande. Bara den skickliga placeringen av ord som öppnade just en viss slags läsning hos den som lyssnade. Maja kände hur ilskan kom, inte som hetta utan som skarpare fokus.
-
-"Du vet redan vilka rubriker som kommer?" sa hon.
-
-Cecilia gav henne ett tunt leende som skulle kunna säljas som sorgsen professionalism. "Man behöver inte vara synsk för att veta hur medier fungerar."
-
-"Nej," sa Maja. "Det räcker att vara van att mata dem."
-
-Noah såg ner i anteckningsblocket i handen som om han just läst något osynligt där. "Vi kommer vilja ha allt ni har om Severins uppdrag. Omedelbart."
-
-"Naturligtvis."
-
-"Och ingen av er lämnar kommunen utan att meddela mig."
-
-Ett nästan osynligt stelnande kring munnen. Inte lydnad. Registrering.
-
-"Det här är fortfarande Sverige, inspektör," sa Cecilia mjukt.
-
-"Det är just därför jag sa meddela och inte be om lov."
-
-Hon höll kvar blicken en sekund längre än nödvändigt. Sedan nickade hon.
-
-När hon gått tillbaka till sin lilla ö sa Maja:
-
-"Hon står redan i första versionen."
-
-"Jag vet."
-
-"Det är det hon gör. Inte bara hjälper. Positionerar."
-
-Noah höll ögonen mot Stenportens grupp. "Jag vet."
-
-Men det där jag vet var inte avfärdande. Det var Noahs sätt att säga att han redan lagt henne i högen för farliga människor som använder låg röst för att styra höga konsekvenser.
-
-Vid bilen stannade Maja med handen på dörren.
-
-"Jag kör själv till Glimmingehus."
+"Jag kör själv till Glimmingehus," sa Maja.
 
 "Det gör du inte."
 
-"Varför?"
+Hon såg på honom. "Jag behöver arbetsro."
 
-"För att om någon lagt en kropp vid Ales stenar med bronsspår och överlagrade platsbilder och dessutom hunnit före till Glimmingehus innan vi ens fått dit dig, då tänker jag inte låta den enda människan jag har som faktiskt kan läsa materialet köra iväg ensam för att vara principfast."
+"Bra," sa Noah. "Då kan vi vara tysta en stund."
 
-Hon såg på honom. Han sa det utan teatralt tryck. Inte som skyddsgest, inte som manligt väsen. Som enkel operationslogik.
+Hon svarade inte, men protesterade inte heller när han låste upp bilen.
 
-Det gjorde motståndet svårare.
+På vägen över slätten sa ingen av dem något den första biten. Fälten låg låga och blanka efter nattfukten. Vinden hade mojnat, men himlen vilade fortfarande tung över marken.
 
-"Jag behöver arbetsro i bilen," sa hon.
+"Du låter som någon som vet vad felläsningar gör med människor," sa Noah till slut.
 
-"Bra," sa han. "Jag är utmärkt på att vara tyst."
+Maja höll blicken mot vägen framför dem. "Det har jag."
 
-Det visade sig inte stämma helt.
+Han väntade.
 
-På vägen över slätten mot Glimmingehus höll han tyst i exakt sju minuter. Sedan sa han:
+"Min far såg ofta rätt mönster, men satte fel ord på dem," sa hon. "Till slut orkade ingen lyssna så länge att de hörde skillnaden."
 
-"Vad betydde det Torkel sa om din far?"
+"Och du gjorde tvärtom."
 
-Maja såg ut genom rutan. Fälten låg låga och blanka efter nattfukten. Korpar satt på stolparna som om de väntade på något.
+"Jag höll mig till det jag kunde bevisa," sa hon. "Och ibland sa jag inte ens det, om risken var för stor att någon skulle höra fel."
 
-"Det betydde ungefär det du tror att det betydde."
+Noah nickade, mer för sig själv än för henne.
 
-"Vilket?"
+"Det låter ensamt," sa han.
 
-"Att han visste mycket och sa för mycket. Att folk använde andra halvan för att slippa den första."
+"Det var poängen."
 
-"Och du?"
+Resten av vägen satt de tysta igen.
 
-"Jag gick åt andra hållet."
-
-"Hur då?"
-
-Hon svarade inte först. Bilen passerade en ensam gård med rostigt tak. Hon hade ridit där förbi som barn en gång och tänkt att varje gård i Österlen såg ut att vaka över sin egen skam.
-
-"Genom att bara säga det jag kunde bevisa," sa hon till slut. "Och sedan ofta låta bli att säga ens det om risken fanns att någon skulle höra fel."
-
-Noah körde utan att se på henne. "Det låter tryggt."
-
-"Det var meningen."
-
-"Är det det längre?"
-
-Hon såg åter mot vägen. Långt där framme låg Glimmingehus mörkt mot den öppna marken som om borgen redan visste att de var på väg.
-
-"Nej," sa hon.
-
-Noah sa inget mer.
-
-När de svängde in mot borgen stod Linnea redan vid längan och väntade, med nyckelbrickan i handen och ansiktet stelt av den sorts professionella irritation som uppstår när man vet att någon har trampat in över en gräns man ensam får ansvaret att försvara.
-
-Maja klev ur bilen och kände hur vinden på slätten tog tag i jackan. Hon såg på Glimmingehus och tänkte, med en mycket stilla sorts klarhet, att någon hade arbetat länge för att få hennes blick att gå just från Ales stenar hit.
-
-Frågan var bara om de ville att hon skulle hitta sanningen eller fastna i dess första snygga förklädnad.
+När de svängde in mot Glimmingehus stod Linnea Jönsson redan vid längan och väntade med nyckelbrickan i handen. Ansiktet var spänt av den sorts professionella irritation som uppstår när någon har trampat in över en gräns man själv får ansvaret att försvara.
 
 # 04. Glimmingehus efter stängning
 
-Glimmingehus reste sig ur slätten som något som vägrat förhandla med tiden.
-
-Maja hade alltid tyckt illa om byggnader som såg ut att hålla inne med information. Glimmingehus gjorde det i sten. De tjocka murarna stod nästan trotsigt mot den öppna marken runtomkring, som om platsen fortfarande förväntade sig belägring. Vinden gick utan hinder över fälten och slog mot gårdsytan när Noah parkerade bilen vid sidan av besöksparkeringen. Det var för sent på dagen för vanliga besökare. Himmelens färg hade dragit mot bly och jordraderna runt borgen låg svarta av fukt.
-
-Vid porten väntade en kvinna med reflexväst över en tjock tröja. Hon höll sin bricka som om den var ett skydd.
+Hon höll sin bricka som om den var ett skydd.
 
 "Linnea Jönsson," sa hon. "Jag ansvarar för dagens stängning. Jag vill bara ha sagt direkt att vi inte släpper in någon i samlingarna utan att det dokumenteras."
 

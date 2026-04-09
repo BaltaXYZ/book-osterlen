@@ -3,9 +3,10 @@
 > Aktiv revisionskarta i revision mode. Detta dokument styr hur kapitelkedjan ska bevakas och prioriteras, inte hur romanen ska uppfinnas från noll.
 
 ## Baselineöversikt
-- Kapitelmappen innehåller 66 kapitel- och mellanaktsfiler.
+- Aktiva kapitelmappen innehåller 61 kapitel- och mellanaktsfiler.
 - Samlad manusbaseline är cirka 144 530 ord.
 - Kapitel `01` och `02` är skyddade och kräver användartillstånd före ändring.
+- Tidigare `03A` är sammanfogad in i `03` efter `REV-006` och ligger inte längre i aktiv kapitelkedja.
 
 ## Revisionskänslighet per huvudzon
 

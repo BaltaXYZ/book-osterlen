@@ -22,6 +22,7 @@
 - Maja tvingas tillbaka till Österlen.
 - Den första förklaringen pekar mot hemlig kult och gammal tro.
 - Glimmingehus och Kiviksgraven dras in i samma spår.
+- Öppningssekvensen går direkt från kapitel `03` till `04`; övergången till Glimmingehus bärs nu av slutet av `03`, inte av ett separat aktivt `03A`.
 
 ### Akt II: Fördjupning och fel sorts sanning
 - Ledtrådarna visar att spåret är äldre, större och mer praktiskt än det först såg ut.
