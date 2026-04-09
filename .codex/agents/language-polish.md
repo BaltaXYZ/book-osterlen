@@ -56,6 +56,7 @@ I detta projekt betyder starkare språk i första hand idiomatisk svenska, seman
 - kontrollera att varje mening bär rätt betydelse, inte bara rätt ton
 - jämn meningslängd med kontrollerad variation
 - starkt språk genom klarhet, precision och kontroll, inte genom maximal hårdhet
+- skriv hellre raka, positiva påståenden än att bygga effekt genom upprepade negeringar när samma sak kan sägas klarare direkt
 
 ### Undvik
 - formuleringar som känns som översatt text snarare än svensk romanprosa
@@ -79,6 +80,7 @@ I detta projekt betyder starkare språk i första hand idiomatisk svenska, seman
 - onödigt högtravande ordval när enklare och bättre svenska finns
 - omskrivningar av typen `det fanns något i honom som ...` när det går att skriva rakare och bättre
 - formuleringar som gör scenlogik, rumslighet eller undertext onödigt svår att läsa
+- den AI-präglade negeringsformeln `inte x, inte y, utan z` eller varianter som `inte x utan y` när den används som standardgrepp för tyngd; den kan fungera sparsamt men ska betraktas som överanvänd och ofta skrivas om till rakare svenska
 
 ## Särskild språkvarning: `läsning`
 - `läsning` är normalt tillåtet bara när det faktiskt handlar om att läsa text, skylt, avskrift, brev eller att läsa högt.

@@ -1,5 +1,27 @@
 # Revision QA
 
+## Verifiering 2026-04-09 - Typ C - `REV-008`
+- [x] change request finns
+- [x] lokal impact är kartlagd
+- [x] canon och mystery har kontrollerats där det behövs
+- [x] stöddokument och kapitel är synkade
+
+## Verifiering 2026-04-09 - Gitgrind
+- [x] `git-gate` är instruerad att signalera `redo att committa` eller `redo att pusha` självmant vid tydlig mognad
+- [x] `revision-orchestrator` måste inhämta aktuell `git-gate`-status före commit- eller pushhandoff
+- [x] workflowdokumentet kräver nu uttryckligen `git-gate`-bedömning innan revision markeras klar för gitbeslut
+
+## Verifiering 2026-04-09 - Typ C - `REV-007`
+- [x] change request finns
+- [x] lokal impact är kartlagd
+- [x] canon och mystery har kontrollerats där det behövs
+- [x] stöddokument och kapitel är synkade
+
+## Verifiering 2026-04-09 - Typ A - Kapitel 04
+- [x] texten är språkligt starkare
+- [x] inga storyfakta, motiv eller reveals har ändrats
+- [x] POV och scenfunktion är bevarade
+
 ## Verifiering 2026-04-09 - Typ A - Kapitel 03 infogad bro
 - [x] texten är språkligt starkare
 - [x] inga storyfakta, motiv eller reveals har ändrats

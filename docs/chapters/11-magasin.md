@@ -127,7 +127,7 @@ Det krypterade dokumentet gick inte att öppna direkt. Lösenordsruta. Ingen led
 
 "Tre igen," sa Noah.
 
-Maja tänkte på allt de samlat: tre markeringar på bronset, tre på stenen, tre på magasindammet, tre punkter på kurvan.
+Maja tänkte på allt de samlat: tre markeringar på bronset, tre på stenen, tre punkter på kurvan.
 
 "Morgonljus tar resten," sa hon.
 

@@ -11,6 +11,7 @@ Revision mode utgår från att manus och stöddokument redan finns. Arbetet bör
 5. Revidera berörda kapitel eller scener.
 6. Kör continuity-, mystery-, research- och QA-kontroll på rätt nivå.
 7. Uppdatera `docs/revision-log.md`, `docs/revision-qa.md` och vid behov leveransfilerna.
+8. Låt `revision-orchestrator` inhämta explicit status från `git-gate` innan revisionen markeras klar för commit- eller pushhandoff.
 
 ## Typ A: språkputs / line edit
 Före ändring:
@@ -111,3 +112,5 @@ Klar när:
 - Skyddade kapitel `01` och `02` får inte ändras utan användartillstånd.
 - Om en tänkt Typ A eller Typ B visar sig ändra storyfakta ska den uppgraderas innan mer text revideras.
 - Om fakta är osäkra ska osäkerheten dokumenteras i `docs/research-log.md` innan ändringen betraktas som klar.
+- `git-gate` ska inte bara svara på fråga utan också självmant signalera när ett revisionspaket tydligt nått `redo att committa` eller `redo att pusha`.
+- `revision-orchestrator` får inte lämna en revision vidare till gitbeslut utan en aktuell `git-gate`-status i standardformatet.

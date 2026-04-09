@@ -74,11 +74,13 @@ För Typ D och Typ E gäller alltid:
 - `mystery-clue-integrity`: bevakar ledtrådskedja, villospår, omtolkningar och revealdisciplin.
 - `research-fact-check`: verifierar verklighetsanknutna detaljer före låsning av relevanta revisioner.
 - `qa-release`: avgör om revisionen verkligen är klar på rätt nivå eller måste tillbaka i intern loop.
+- `git-gate`: avgör om arbetsläget är redo att committa eller pusha, ska signalera detta självmant när läget tydligt mognat eller på uppdrag av `revision-orchestrator`, och förbereder commit-scope, commitmeddelande och pushrekommendation utan att själv köra git.
 
 ## Kapitel med särskilt ändringsskydd
 Följande kapitel kräver användarens uttryckliga tillstånd innan texten ändras:
 - `01`
 - `02`
+- `03`
 
 När någon vill ändra något av dessa kapitel ska användaren först få tre alternativ:
 - Ändra endast det som är nödvändigt

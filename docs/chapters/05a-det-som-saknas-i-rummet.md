@@ -1,82 +1,8 @@
 # 05A. Det Som Saknas I Rummet
 
-Pensionatsrummet i Kivik blev inte mindre obehagligt av att teknikerna lämnat det ifred.
+I receptionen luktade det kaffe, citronrengöring och den sorts tillkämpad ordning som uppstår när ett litet pensionat försöker låtsas att polisarbete bara är en tillfällig störning.
 
-När Noah gick ut i korridoren för att ringa om kartspåret blev Maja kvar ensam med Nils Severins tillfälliga liv utbrett framför sig. Sängen med de släta lakanen. Väskan öppen men inte slarvig. De två kaffemuggarna på skrivbordet. Den ena med en läppstiftsfri brun rand. Den andra nästan urdrucken.
-
-Hon satte sig inte. Hon gick varv i det lilla rummet i stället, tre steg till dörren, två till fönstret, tillbaka till skrivbordet. Kivik låg där ute som ett mörkt fiskeläge i eftermiddag som övergått mot kväll. Längre ner hördes hamnen ibland, metall mot metall, ett rop, en motor som dog bort.
-
-Severin hade inte bott här som turist. Det syntes på hur han lagt sina papper. Allt han behövde snabbt låg på skrivbordet och i översta väskfacket. Så arbetar man när man väntar sig rörelse, inte vila. Maja gick igenom högen på nytt, nu långsammare och utan Noahs närvaro som motvikt.
-
-En liten sak stack ut. Inte i betydelse först, bara i form. Severin hade sorterat sina utskrifter med smala pappersremsor som flikar, rivna ur något tryckt häfte. På en av remsorna såg hon en del av en logotyp. En mörkgrön båge och bokstaven S.
-
-Hon lade remsan mot de andra. Samma papper på tre ställen. Något han använt som snabbflikar när annat tagit slut.
-
-Ett programblad.
-
-Hon gick till papperskorgen och tömde den på golvet. Kvitton, bananskal, två hopknycklade servetter, ett sönderrivet häfte i glansigt papper. Maja plattade ut bitarna på sängen. Inte Stenportens officiella eventblad. Något mindre. Ett exklusivt förhandsprogram för givare och särskilt inbjudna, med tryckta ord om "fördjupad läsning av den vårdade kedjan".
-
-"För helvete," sa hon lågt till ingen.
-
-På baksidan hade Severin skrivit anteckningar i mörkblå penna:
-
-- **de har redan bestämt slutet**
-- **C. vill ha bättre ord för vård**
-- **H. talar som om materialet behöver henne**
-
-Han hade alltså suttit i det här rummet och läst deras språk innan han mötte någon nere vid hamnen och någon annan senare vid Ales stenar.
-
-När Noah kom tillbaka stod hon med programmet i handen.
-
-"Det här är viktigt," sa hon.
-
-Han tog emot det, läste snabbt, vände på bladet.
-
-"Han visste alltså inte bara att de arbetade med materialet. Han visste att de redan hade en färdig berättelse."
-
-"Ja."
-
-"Bra."
-
-Maja gav honom en blick.
-
-"Inte bra bra," sa han. "Bra som i användbart. Lär dig skillnaden."
-
-Hon ignorerade det och pekade på raden om att H talade som om materialet behövde henne.
-
-"Han reagerade på exakt samma sak som vi börjar se nu. Inte bara att hon byggde show, utan att hon gav sig själv rollen som nödvändig förmedlare."
-
-Noah satte sig nu för första gången på skrivbordsstolen. Det gjorde rummet mindre. Eller kanske bara mer verkligt.
-
-"Och C?" sa han. "Cecilia?"
-
-"Troligen."
-
-"Vill ha bättre ord för vård."
-
-"Ja. Det där är språkverkstad, inte bara eventplanering."
-
-Noah såg bort mot de två kaffemuggarna. "Frågan är om hon var här som motstånd eller medspel."
-
-"Kanske båda."
-
-Han lutade sig fram mot bordet. "Folk är oftare båda än man tror."
-
-Maja höll på att säga att det där var alltför psykologiskt luddigt för att hjälpa henne, men stannade innan hon hann. För det var sant. Irriterande sant. Och kanske en av hennes verkliga svagheter: att hon gärna ville ha människor renare än de faktiskt var, så att materialet kunde hållas tydligare än det som bar det.
-
-De sökte vidare. I badrummet hittade Noah en kvarglömd tvättpåse med sand i botten. "Han var vid stranden också."
-
-"Eller i hamnen."
-
-"Inte samma sorts sand."
-
-Maja tog påsen, lät kornen falla mellan fingrarna. Grövre, blandat med små kalkfragment. Inte mjuk strand, mer utfyllnadsgrus eller vägkant.
-
-"Kanske serviceväg," sa hon.
-
-"Bra. Det tar vi med oss."
-
-De gick igenom pensionatets receptionslogg också. Ägaren, en kvinna i femtioårsåldern som först velat vara diskret men snabbt insett att lokal diskretion nu lika gärna kunde bli form av inblandning, berättade att Severin kommit tillbaka sent kvällen innan med blöta byxben och "ett sånt där ansikte som män får när de tänkt för långt utan att vilja tro på vart tanken tagit dem".
+Ägaren, en kvinna i femtioårsåldern som först velat vara diskret men snabbt insett att lokal diskretion nu lika gärna kunde bli form av inblandning, berättade att Severin kommit tillbaka sent kvällen innan med blöta byxben och "ett sånt där ansikte som män får när de tänkt för långt utan att vilja tro på vart tanken tagit dem".
 
 "Var han ensam?" sa Noah.
 
@@ -132,12 +58,24 @@ Hon stoppade händerna i jackfickorna. "Att allt där inne fortfarande är uppla
 
 "Det brukar betyda att det är svårt på riktigt."
 
-De stannade vid kajkanten en stund. Bort mot mörkret låg Rutan någonstans ännu osynlig för dem, men redan verksam i texten. Maja såg ut över vattnet och tänkte att här hade hennes far stått med anteckningsblock och för mycket hopp. Här hade Severin stått med för lite tid. Här stod hon själv nu med båda deras spår i kroppen och en ökande känsla av att ingen av dem egentligen hade haft fel om platsen, bara om vad rätt skulle göra med en människa.
+De stannade vid kajkanten en stund. Maja såg ut över vattnet och tänkte att här hade hennes far stått med anteckningsblock och för mycket hopp. Här hade Severin stått med för lite tid. Här stod hon själv nu med båda deras spår i kroppen och en ökande känsla av att ingen av dem egentligen hade haft fel om platsen, bara om vad rätt skulle göra med en människa.
 
 "Kom," sa Noah till slut. "Innan du hinner göra hamnen till moralfilosofi."
 
-Hon gick med honom upp från kajen, genom de smala Kiviksgatorna mot huset där modern väntade och där allt som inte låtit sig ordnas i hennes liv plötsligt stod framme i kartonger.
+Hon gick med honom upp från kajen. Först när de nådde bilen förstod hon att hon skjutit upp hemkomsten minut för minut, gata för gata, som om dröjsmålet i sig skulle kunna ordna förhållandet mellan det hon visste nu och det som väntade i huset.
 
-Bakom dem låg pensionatsrummet kvar med sina två kaffemuggar, sin sönderrivna folder och sitt lilla tydliga bevis på det som nu skulle driva hela romanen vidare: att Stenporten inte tänkte upptäcka sanningen.
+Noah höll upp passagerardörren utan att göra en sak av det.
 
-De tänkte lansera den.
+"Du behöver inte välja innan vi kommer fram," sa han.
+
+"Välja vad?"
+
+"Om du är dotter eller forskare."
+
+Hon såg bort mot de mörka taken och den svaga reflexen från hamnen längre ner.
+
+"Det låter som om det finns ett tredje alternativ."
+
+"Det finns alltid ett tredje alternativ," sa han. "Det är bara sällan det är bekvämt."
+
+Hon satte sig i bilen. När de körde upp genom Kivik låg huset ännu utom synhåll, men hon kände redan hur det drog i henne. Inte som nostalgi. Mer som ett gammalt arbete som stått halvfärdigt för länge och till sist bestämt sig för att kräva sin avslutning.

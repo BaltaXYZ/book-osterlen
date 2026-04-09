@@ -112,6 +112,52 @@ Noah böjde sig närmare. "Och vad finns i änden?"
 
 Han lät henne arbeta. Det uppskattade hon mer än hon tänkte säga.
 
+Det var då hon såg hur Severin sorterat delar av materialet med smala pappersremsor som flikar, rivna ur något tryckt häfte. På en av remsorna syntes en mörkgrön båge och bokstaven S.
+
+Hon lade remsan mot de andra. Samma papper på tre ställen.
+
+"Det här kommer inte från hans anteckningsblock," sa hon.
+
+Noah såg på remsorna. "Programblad?"
+
+Maja gick till papperskorgen och tömde den på golvet. Kvitton, bananskal, två hopknycklade servetter, ett sönderrivet häfte i glansigt papper. Hon plattade ut bitarna på sängen och fick långsamt ihop framsidan till något som inte var Stenportens offentliga eventblad utan ett mindre förhandsprogram för givare och särskilt inbjudna. Mitt i den polerade formgivningen stod orden om en "fördjupad läsning av den vårdade kedjan".
+
+"För helvete," sa hon.
+
+På baksidan hade Severin skrivit anteckningar i mörkblå penna:
+
+- **de har redan bestämt slutet**
+- **C. vill ha bättre ord för vård**
+- **H. talar som om materialet behöver henne**
+
+Noah tog bladet ur hennes hand, läste och vände tillbaka det.
+
+"Han visste alltså inte bara att de arbetade med materialet," sa han. "Han visste att de redan hade en färdig berättelse."
+
+"Ja."
+
+"Bra."
+
+Hon gav honom en blick.
+
+"Bra som i användbart," sa han. "Inte på något annat sätt."
+
+Maja pekade på den sista raden. "Han reagerade på exakt samma sak som vi börjar se nu. Inte bara att hon byggde show. Hon gav sig själv rollen som nödvändig förmedlare."
+
+"Och C?" sa Noah. "Cecilia?"
+
+"Troligen."
+
+"Vill ha bättre ord för vård."
+
+"Det där är språkverkstad," sa Maja. "Det är paketering."
+
+Noah såg bort mot de två kaffemuggarna. "Frågan är om hon var här som motstånd eller medspel."
+
+"Kanske båda."
+
+Han nickade en gång. "Folk är oftare båda än man tror."
+
 I nattduksbordet låg ett anteckningsblock med korta, osammanhängande rader:
 
 - **bild = rörelse, inte kult**
@@ -179,6 +225,26 @@ Hon mötte blicken och ogillade att han hade rätt tillräckligt ofta för att v
 
 Hon såg ner på kartan igen. Fyra punkter. En ledning genom landskapet. Hennes fars hand i underlaget till ett mordfall vid Ales stenar.
 
+I badrummet hittade Noah en kvarglömd tvättpåse med sand i botten. Han höll upp den i dörröppningen.
+
+"Han var nere vid stranden också," sa han.
+
+"Eller i hamnen."
+
+"Inte samma sorts sand."
+
+Maja lät kornen falla mellan fingrarna. Grövre, uppblandade med små kalkfragment. Inte den mjuka stranden. Mer utfyllnadsgrus, vägkant eller serviceyta.
+
+"Spara den," sa hon. "Vi vet inte än vad den hör till."
+
 På skrivbordet i hörnet låg pensionatets lilla välkomstlapp med dagens väderprognos på baksidan. Någon hade vänt den och skrivit ett enda ord över hela ytan med svart kulspetspenna, så hårt att pappret nästan gått sönder:
 
 **FÖR SENT**
+
+Maja stod kvar med lappen i handen tills bokstäverna nästan såg indrivna ut i pappret snarare än skrivna.
+
+Severin hade förstått att Stenporten inte tänkte hitta sanningen. De tänkte ge den form, språk och publik innan någon annan hann före. Och någonstans mellan hans sista försök att bromsa dem och hennes fars gamla kartblock gick en tråd rakt in i huset hon lämnat bakom sig.
+
+"Vi går ner till receptionen först," sa hon. "Om någon satt här med honom vill jag veta vem."
+
+Noah tog bevispåsen med sanden och nickade. "Sedan åker vi till din mor."

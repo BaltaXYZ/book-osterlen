@@ -80,6 +80,12 @@ Maja öppnade ett smalare häfte med blått omslag. Där fanns en serie grova me
 
 **orm = inte djur, inte gud, utan rörelse i sidled**
 
+Något styvt tryckte mot jackan när hon böjde sig över sidan. Hon stack ner handen i fickan och drog fram fotot hon plockat upp vid tröskeln i Glimmingehus. Först nu såg hon på baksidan ordentligt. Två ord i snabb blyerts:
+
+**fri sikt**
+
+Hon såg från fotot till faderns skiss och tillbaka igen. Inte utsikt som belöning. Sikt som metod. Siktlinje.
+
 Noah läste över hennes axel. "Det där är nästan samma tanke som Severin hade."
 
 "Ja."
